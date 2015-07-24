@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Repository xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository &#xA;                                http://www.openarchives.org/OAI/2.0/static-repository.xsd" xmlns="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identify>
+    <oai:repositoryName>UC Irvine, Special Collections and Archives: Linda Vo Collection on the Southeast Asian American Experience Archive Project</oai:repositoryName>
+    <oai:baseURL>http://imlsdcc.grainger.uiuc.edu/gateway.net/oai.aspx/gita.grainger.uiuc.edu/cdl_static_oai/kt4h4nc7pt.repository_static.xml</oai:baseURL>
+    <oai:protocolVersion>2.0</oai:protocolVersion>
+    <oai:adminEmail>thabing@uiuc.edu</oai:adminEmail>
+    <oai:earliestDatestamp>2008-01-14</oai:earliestDatestamp>
+    <oai:deletedRecord>no</oai:deletedRecord>
+    <oai:granularity>YYYY-MM-DD</oai:granularity>
+  </Identify>
+  <ListMetadataFormats>
+    <oai:metadataFormat>
+      <oai:metadataPrefix>mods</oai:metadataPrefix>
+      <oai:schema>http://www.loc.gov/standards/mods/v3/mods-3-2.xsd</oai:schema>
+      <oai:metadataNamespace>http://www.loc.gov/mods/v3</oai:metadataNamespace>
+    </oai:metadataFormat>
+    <oai:metadataFormat>
+      <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+      <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+      <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+    </oai:metadataFormat>
+  </ListMetadataFormats>
+  <ListRecords metadataPrefix="mods">
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb9q2nb67p</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>Hmong Culture: Musical Artifacts of the Hmong People</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:namePart>Ly, Sylvia</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text" authority="marc">Author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">still image</mods:typeOfResource>
+          <mods:genre xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Reports</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:dateCreated>February 15, 2003</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">2003-02-15</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 report : 22 x 28 cm. (14 pages)</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Hmong Americans</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Cultural Practices</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Music</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>Orange County (Calif.)</mods:geographic>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>SEAAdoc</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.lib.uci.edu/seaadoc/</mods:identifier>
+            <mods:identifier type="local search">hb367nb40z</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Linda Vo collection on the Southeast Asian American Experience archive project</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt4h4nc7pt</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cui-ucid-sea022-002</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb9q2nb67p/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb9q2nb67p/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Ly, Sylvia</mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb138nb09d</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>Collection of Vietnamese traditional instruments</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:namePart>Nguyen, Nam</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text">Collector</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">still image</mods:typeOfResource>
+          <mods:genre authority="aat" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Artifacts</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:dateCreated>2003</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">2003</mods:dateCreated>
+          </mods:originInfo>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>24 x 60 cm</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Vietnamese Americans</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Music</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Cultural Practices</mods:topic>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Linda Vo collection on the Southeast Asian American Experience archive project</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt4h4nc7pt</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>SEAAdoc</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.lib.uci.edu/seaadoc/</mods:identifier>
+            <mods:identifier type="local search">hb367nb40z</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cui-ucid-sea022-003</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb138nb09d/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb138nb09d/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Nguyen, Nam</mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb0j49n6mh</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>Mee Moua for Senate</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">still image</mods:typeOfResource>
+          <mods:genre authority="aat" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Ephemera</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:place>
+              <mods:placeTerm type="text">St. Paul, MN</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>Eastsiders for Mee</mods:publisher>
+            <mods:dateCreated>January 5, 2002</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">2002-01-05</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 newsletter : 29 x 37 cm. (4 pages)</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Hmong Americans</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Electoral politics</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Social Aspects</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Political Issues</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Women</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>St. Paul (Minn.)</mods:geographic>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>SEAAdoc</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.lib.uci.edu/seaadoc/</mods:identifier>
+            <mods:identifier type="local search">hb367nb40z</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Linda Vo collection on the Southeast Asian American Experience archive project</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt4h4nc7pt</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cui-ucid-sea022-001</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb0j49n6mh/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb0j49n6mh/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Copyright status unknown. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.X.C.). In addition, the reproduction of some materials may be restricted by terms of University of California gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of copyright owners.  Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user</mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+  </ListRecords>
+  <ListRecords metadataPrefix="oai_dc">
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb9q2nb67p</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Hmong Culture: Musical Artifacts of the Hmong People</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Ly, Sylvia (Author)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Reports</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2003-02-15-</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 report : 22 x 28 cm. (14 pages)</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Hmong Americans</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Cultural Practices</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Music</dc:subject>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Orange County (Calif.)</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">SEAAdoc--http://www.lib.uci.edu/seaadoc/--hb367nb40z</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Linda Vo collection on the Southeast Asian American Experience archive project--http://www.oac.cdlib.org/findaid/ark:/13030/kt4h4nc7pt</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">cui-ucid-sea022-002</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb9q2nb67p/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb9q2nb67p/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Ly, Sylvia</dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb138nb09d</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Collection of Vietnamese traditional instruments</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Nguyen, Nam (Collector)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Artifacts</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2003-</dc:date>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">24 x 60 cm</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Vietnamese Americans</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Music</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Cultural Practices</dc:subject>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Linda Vo collection on the Southeast Asian American Experience archive project--http://www.oac.cdlib.org/findaid/ark:/13030/kt4h4nc7pt</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">SEAAdoc--http://www.lib.uci.edu/seaadoc/--hb367nb40z</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">cui-ucid-sea022-003</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb138nb09d/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb138nb09d/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Nguyen, Nam</dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb0j49n6mh</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Mee Moua for Senate</dc:title>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Ephemera</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2002-01-05-</dc:date>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Eastsiders for Mee</dc:publisher>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 newsletter : 29 x 37 cm. (4 pages)</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Hmong Americans</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Electoral politics</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Social Aspects</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Political Issues</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Women</dc:subject>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">St. Paul (Minn.)</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">SEAAdoc--http://www.lib.uci.edu/seaadoc/--hb367nb40z</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Linda Vo collection on the Southeast Asian American Experience archive project--http://www.oac.cdlib.org/findaid/ark:/13030/kt4h4nc7pt</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">cui-ucid-sea022-001</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb0j49n6mh/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb0j49n6mh/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Copyright status unknown. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.X.C.). In addition, the reproduction of some materials may be restricted by terms of University of California gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of copyright owners.  Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user</dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+  </ListRecords>
+</Repository>

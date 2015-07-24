@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Repository xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository &#xA;                                http://www.openarchives.org/OAI/2.0/static-repository.xsd" xmlns="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identify>
+    <oai:repositoryName>UC Berkeley, Bancroft Library: Disabled Students' Program Records, 1965-</oai:repositoryName>
+    <oai:baseURL>http://imlsdcc.grainger.uiuc.edu/gateway.net/oai.aspx/gita.grainger.uiuc.edu/cdl_static_oai/kt4g5005m2.repository_static.xml</oai:baseURL>
+    <oai:protocolVersion>2.0</oai:protocolVersion>
+    <oai:adminEmail>thabing@uiuc.edu</oai:adminEmail>
+    <oai:earliestDatestamp>2008-01-14</oai:earliestDatestamp>
+    <oai:deletedRecord>no</oai:deletedRecord>
+    <oai:granularity>YYYY-MM-DD</oai:granularity>
+  </Identify>
+  <ListMetadataFormats>
+    <oai:metadataFormat>
+      <oai:metadataPrefix>mods</oai:metadataPrefix>
+      <oai:schema>http://www.loc.gov/standards/mods/v3/mods-3-2.xsd</oai:schema>
+      <oai:metadataNamespace>http://www.loc.gov/mods/v3</oai:metadataNamespace>
+    </oai:metadataFormat>
+    <oai:metadataFormat>
+      <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+      <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+      <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+    </oai:metadataFormat>
+  </ListMetadataFormats>
+  <ListRecords metadataPrefix="mods">
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb6f59n8dk</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>Campus Access Handbook, 1990 [Carton 4, Folder 21]</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">still image</mods:typeOfResource>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:dateCreated>1990</mods:dateCreated>
+          </mods:originInfo>
+          <mods:identifier displayLabel="Local Call Number" type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">CU-479  [Carton 4, Folder 21]</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb6f59n8dk/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb6f59n8dk/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Copyright has not been assigned to The Bancroft Library.  All requests for permission to publish or quote from manuscripts must be submitted in writing to the Head of Public Services for forwarding. Permission for publication is given on behalf of The Bancroft Library as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained by the reader.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">University of California Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+        The Bancroft Library, University of California, Berkeley, CA 94720
+       </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb638nb1hj</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>UC Berkeley Interim Title II Transition Plan</mods:title>
+          </mods:titleInfo>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:dateCreated>July 27, 1992</mods:dateCreated>
+          </mods:originInfo>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>86 p.</mods:extent>
+          </mods:physicalDescription>
+          <mods:relatedItem type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Disability Rights and Independent Living Movement</mods:title>
+            </mods:titleInfo>
+            <mods:identifier>docs -- drilm</mods:identifier>
+            <mods:location>
+              <mods:url>http://bancroft.berkeley.edu/collections/drilm</mods:url>
+            </mods:location>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">CU-479 [Carton 4, Folder 22: A]</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb638nb1hj/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb638nb1hj/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commericially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">The Bancroft Library. University of California, Berkeley. Berkeley, Calif., 94720-6000; http://bancroft.berkeley.edu</mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb4v19n7hn</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>UC Berkeley Interim Title II Transition Plan</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">text</mods:typeOfResource>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:dateCreated>1990</mods:dateCreated>
+          </mods:originInfo>
+          <mods:relatedItem displayLabel="collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Disabled Students' Progam records</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">CU-479</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt4g5005m2</mods:identifier>
+            <mods:relatedItem>
+              <mods:titleInfo>
+                <mods:title>University of California, Berkeley</mods:title>
+              </mods:titleInfo>
+            </mods:relatedItem>
+          </mods:relatedItem>
+          <mods:identifier displayLabel="Local Call Number" type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">CU-479  [Carton 4, Folder 22: A]</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb4v19n7hn/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb4v19n7hn/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Copyright has not been assigned to The Bancroft Library.  All requests for permission to publish or quote from manuscripts must be submitted in writing to the Head of Public Services for forwarding. Permission for publication is given on behalf of The Bancroft Library as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained by the reader.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">University of California Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+								The Bancroft Library, University of California, Berkeley, CA 94720
+							</mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+  </ListRecords>
+  <ListRecords metadataPrefix="oai_dc">
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb6f59n8dk</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Campus Access Handbook, 1990 [Carton 4, Folder 21]</dc:title>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">CU-479  [Carton 4, Folder 21]</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb6f59n8dk/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb6f59n8dk/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Copyright has not been assigned to The Bancroft Library.  All requests for permission to publish or quote from manuscripts must be submitted in writing to the Head of Public Services for forwarding. Permission for publication is given on behalf of The Bancroft Library as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained by the reader.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">University of California Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+        The Bancroft Library, University of California, Berkeley, CA 94720
+       </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb638nb1hj</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">UC Berkeley Interim Title II Transition Plan</dc:title>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">86 p.</dc:format>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Disability Rights and Independent Living Movement--docs -- drilm--http://bancroft.berkeley.edu/collections/drilm</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">CU-479 [Carton 4, Folder 22: A]</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb638nb1hj/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb638nb1hj/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commericially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">The Bancroft Library. University of California, Berkeley. Berkeley, Calif., 94720-6000; http://bancroft.berkeley.edu</dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb4v19n7hn</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">UC Berkeley Interim Title II Transition Plan</dc:title>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Disabled Students' Progam records--CU-479--http://www.oac.cdlib.org/findaid/ark:/13030/kt4g5005m2</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">CU-479  [Carton 4, Folder 22: A]</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb4v19n7hn/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb4v19n7hn/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Copyright has not been assigned to The Bancroft Library.  All requests for permission to publish or quote from manuscripts must be submitted in writing to the Head of Public Services for forwarding. Permission for publication is given on behalf of The Bancroft Library as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained by the reader.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">University of California Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+								The Bancroft Library, University of California, Berkeley, CA 94720
+							</dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+  </ListRecords>
+</Repository>

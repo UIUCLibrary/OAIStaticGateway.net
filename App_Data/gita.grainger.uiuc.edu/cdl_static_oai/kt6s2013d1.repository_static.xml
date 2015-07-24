@@ -1,0 +1,741 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Repository xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository &#xA;                                http://www.openarchives.org/OAI/2.0/static-repository.xsd" xmlns="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identify>
+    <oai:repositoryName>UC Irvine, Special Collections and Archives: Gayle Morrison Files on Southeast Asian Refugees</oai:repositoryName>
+    <oai:baseURL>http://imlsdcc.grainger.uiuc.edu/gateway.net/oai.aspx/gita.grainger.uiuc.edu/cdl_static_oai/kt6s2013d1.repository_static.xml</oai:baseURL>
+    <oai:protocolVersion>2.0</oai:protocolVersion>
+    <oai:adminEmail>thabing@uiuc.edu</oai:adminEmail>
+    <oai:earliestDatestamp>2008-01-14</oai:earliestDatestamp>
+    <oai:deletedRecord>no</oai:deletedRecord>
+    <oai:granularity>YYYY-MM-DD</oai:granularity>
+  </Identify>
+  <ListMetadataFormats>
+    <oai:metadataFormat>
+      <oai:metadataPrefix>mods</oai:metadataPrefix>
+      <oai:schema>http://www.loc.gov/standards/mods/v3/mods-3-2.xsd</oai:schema>
+      <oai:metadataNamespace>http://www.loc.gov/mods/v3</oai:metadataNamespace>
+    </oai:metadataFormat>
+    <oai:metadataFormat>
+      <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+      <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+      <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+    </oai:metadataFormat>
+  </ListMetadataFormats>
+  <ListRecords metadataPrefix="mods">
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb3199n81b</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>"Tears for my country" handwritten letter</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">still image</mods:typeOfResource>
+          <mods:genre authority="aat" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Letters</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:dateCreated>January 29, 1979</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1979-01-29</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 letter : 22 x 28 cm. (1 page)</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Southeast Asians</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Social Aspects</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Personal stories</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Refugees and Immigrants</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>United States</mods:geographic>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Gayle Morrison files on Southeast Asian refugees</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt6s2013d1</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>SEAAdoc</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.lib.uci.edu/seaadoc/</mods:identifier>
+            <mods:identifier type="local search">hb367nb40z</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cui-ucid-sea014-002</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb3199n81b/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb3199n81b/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Copyright status unknown. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.X.C.). In addition, the reproduction of some materials may be restricted by terms of University of California gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of copyright owners.  Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user</mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb6n39p08d</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>Towards Humane and Durable Solutions to the Indochinese Refugee Problem</mods:title>
+          </mods:titleInfo>
+          <mods:name type="corporate" authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:namePart>Indochina Refugee Action Center</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text" authority="marc">Author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:name type="corporate" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:namePart>International Conference on Indochinese Refugees</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text">Sponsor</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">text</mods:typeOfResource>
+          <mods:genre xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Reports</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:dateCreated>June 13-14, 1989</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1989-06-13</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="end">1989-06-14</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 report : 22 x 28 cm. (33 pages)</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Refugee camps</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Refugees and Immigrants</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Resettlement</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Southeast Asians</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Social Aspects</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>United States</mods:geographic>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Gayle Morrison files on Southeast Asian refugees</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt6s2013d1</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>SEAAdoc</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.lib.uci.edu/seaadoc/</mods:identifier>
+            <mods:identifier type="local search">hb367nb40z</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cui-ucid-sea014-007</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb6n39p08d/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb6n39p08d/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Southeast Asia Resource Action Center</mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb0m3n99dt</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>Refugees/Displaced Persons in Indochina</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:namePart>Lê, Xuân Khoa</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text" authority="marc">Author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">text</mods:typeOfResource>
+          <mods:genre xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Reports</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:publisher>Indochina Refugee Action Center</mods:publisher>
+            <mods:dateCreated>April 4-5, 1983</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1983-04-04</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="end">1983-04-05</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 report : 22 x 28 cm. (3 pages)</mods:extent>
+          </mods:physicalDescription>
+          <mods:note type="content" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Statement given at the Working Conference on International Refugee Protection and Care, organized by the National Immigration, Refugee and Citizenship Forum, Georgetown University, Washington, D.C., August 4-5, 1983</mods:note>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Southeast Asian Americans</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Social Aspects</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>Southeast Asia</mods:geographic>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Gayle Morrison files on Southeast Asian refugees</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt6s2013d1</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>SEAAdoc</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.lib.uci.edu/seaadoc/</mods:identifier>
+            <mods:identifier type="local search">hb367nb40z</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cui-ucid-sea014-005</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb0m3n99dt/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb0m3n99dt/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Southeast Asia Resource Action Center</mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb5q2nb3gm</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:title>The Hmong resettlement study :  site report, Minneapolis-St. Paul,   Minnesota</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">text</mods:typeOfResource>
+          <mods:genre xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Reports</mods:genre>
+          <mods:originInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:publisher>United States. Office of Refugee Resettlement</mods:publisher>
+            <mods:publisher>Downing, Bruce T.</mods:publisher>
+            <mods:publisher>Hendricks, Glenn L., 1928-</mods:publisher>
+            <mods:publisher>Mason, Sarah R.</mods:publisher>
+            <mods:publisher>Olney, Douglas P.</mods:publisher>
+            <mods:publisher>University of Minnesota. Southeast Asian Refugee Studies Project</mods:publisher>
+            <mods:dateCreated>October 1984</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1984-10</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:extent>1 report : 22 x 28 cm. (101 pages)</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>Hmong Americans</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>Social Aspects</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:geographic>St. Paul (Minn.)</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:geographic>Minneapolis (Minn.)</mods:geographic>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>Gayle Morrison files on Southeast Asian refugees</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt6s2013d1</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>SEAAdoc</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.lib.uci.edu/seaadoc/</mods:identifier>
+            <mods:identifier type="local search">hb367nb40z</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">cui-ucid-sea014-006</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb5q2nb3gm/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb5q2nb3gm/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Material in public domain. No restrictions on use</mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb2m3nb0jm</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>Leadership in refugee communities</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:namePart>Lê, Xuân Khoa</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text" authority="marc">Author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">text</mods:typeOfResource>
+          <mods:genre xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Reports</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:publisher>Indochina Refugee Action Center</mods:publisher>
+            <mods:dateCreated>June 3-4, 1983</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1983-06-03</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="end">1983-06-04</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 report : 22 x 28 cm. (9 pages)</mods:extent>
+          </mods:physicalDescription>
+          <mods:note type="content" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Presented at the 4th Annual Utah Conference on Refugees, Salt Lake City, Utah, June 3-4, 1983</mods:note>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Southeast Asian Americans</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Social Aspects</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>United States</mods:geographic>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Gayle Morrison files on Southeast Asian refugees</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt6s2013d1</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>SEAAdoc</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.lib.uci.edu/seaadoc/</mods:identifier>
+            <mods:identifier type="local search">hb367nb40z</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cui-ucid-sea014-004</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb2m3nb0jm/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb2m3nb0jm/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Southeast Asia Resource Action Center</mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb209nb0q8</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>Letter from Le Xuan Khoa to presidents of Indochinese mutual assistance associations </mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:namePart>Lê, Xuân Khoa</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text" authority="marc">Author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">still image</mods:typeOfResource>
+          <mods:genre authority="aat" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Letters</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:dateCreated>1983</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1983</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 letter : 22 x 28 cm. (2 pages)</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Social services</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Social Aspects</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Refugees--Asia, Southeastern</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Refugees and Immigrants</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>Washington (D.C.)</mods:geographic>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Gayle Morrison files on Southeast Asian refugees</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt6s2013d1</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>SEAAdoc</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.lib.uci.edu/seaadoc/</mods:identifier>
+            <mods:identifier type="local search">hb367nb40z</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cui-ucid-sea014-001</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb209nb0q8/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb209nb0q8/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Southeast Asia Resource Action Center</mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb996nb5zf</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>A Description and Directory of National Organizations and People Involved in the Processing and Resettlement of Indochinese Refugees In America</mods:title>
+          </mods:titleInfo>
+          <mods:name type="corporate" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:namePart>Southeast Asia Resource Action Center</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text" authority="marc">Author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">still image</mods:typeOfResource>
+          <mods:genre xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Reports</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:dateCreated>October 1979</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1979-10</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 report : 22 x 28 cm. (42 pages)</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Southeast Asian Americans</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Social Aspects</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Social services</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>United States</mods:geographic>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Gayle Morrison files on Southeast Asian refugees</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt6s2013d1</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>SEAAdoc</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://www.lib.uci.edu/seaadoc/</mods:identifier>
+            <mods:identifier type="local search">hb367nb40z</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cui-ucid-sea014-003</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb996nb5zf/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb996nb5zf/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Southeast Asia Resource Action Center</mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+  </ListRecords>
+  <ListRecords metadataPrefix="oai_dc">
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb3199n81b</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">"Tears for my country" handwritten letter</dc:title>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letters</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1979-01-29-</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 letter : 22 x 28 cm. (1 page)</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Southeast Asians</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Social Aspects</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Personal stories</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Refugees and Immigrants</dc:subject>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">United States</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Gayle Morrison files on Southeast Asian refugees--http://www.oac.cdlib.org/findaid/ark:/13030/kt6s2013d1</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">SEAAdoc--http://www.lib.uci.edu/seaadoc/--hb367nb40z</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">cui-ucid-sea014-002</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb3199n81b/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb3199n81b/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Copyright status unknown. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.X.C.). In addition, the reproduction of some materials may be restricted by terms of University of California gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of copyright owners.  Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user</dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb6n39p08d</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Towards Humane and Durable Solutions to the Indochinese Refugee Problem</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Indochina Refugee Action Center (Author)</dc:contributor>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">International Conference on Indochinese Refugees (Sponsor)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Reports</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1989-06-13-1989-06-14</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 report : 22 x 28 cm. (33 pages)</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Refugee camps</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Refugees and Immigrants</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Resettlement</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Southeast Asians</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Social Aspects</dc:subject>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">United States</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Gayle Morrison files on Southeast Asian refugees--http://www.oac.cdlib.org/findaid/ark:/13030/kt6s2013d1</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">SEAAdoc--http://www.lib.uci.edu/seaadoc/--hb367nb40z</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">cui-ucid-sea014-007</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb6n39p08d/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb6n39p08d/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Southeast Asia Resource Action Center</dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb0m3n99dt</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Refugees/Displaced Persons in Indochina</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lê, Xuân Khoa (Author)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Reports</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1983-04-04-1983-04-05</dc:date>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Indochina Refugee Action Center</dc:publisher>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 report : 22 x 28 cm. (3 pages)</dc:format>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Statement given at the Working Conference on International Refugee Protection and Care, organized by the National Immigration, Refugee and Citizenship Forum, Georgetown University, Washington, D.C., August 4-5, 1983</dc:description>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Southeast Asian Americans</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Social Aspects</dc:subject>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Southeast Asia</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Gayle Morrison files on Southeast Asian refugees--http://www.oac.cdlib.org/findaid/ark:/13030/kt6s2013d1</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">SEAAdoc--http://www.lib.uci.edu/seaadoc/--hb367nb40z</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">cui-ucid-sea014-005</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb0m3n99dt/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb0m3n99dt/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Southeast Asia Resource Action Center</dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb5q2nb3gm</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">The Hmong resettlement study :  site report, Minneapolis-St. Paul,   Minnesota</dc:title>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Reports</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1984-10-</dc:date>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">United States. Office of Refugee Resettlement</dc:publisher>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Downing, Bruce T.</dc:publisher>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Hendricks, Glenn L., 1928-</dc:publisher>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Mason, Sarah R.</dc:publisher>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Olney, Douglas P.</dc:publisher>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Minnesota. Southeast Asian Refugee Studies Project</dc:publisher>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 report : 22 x 28 cm. (101 pages)</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Hmong Americans</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Social Aspects</dc:subject>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">St. Paul (Minn.)</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Minneapolis (Minn.)</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Gayle Morrison files on Southeast Asian refugees--http://www.oac.cdlib.org/findaid/ark:/13030/kt6s2013d1</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">SEAAdoc--http://www.lib.uci.edu/seaadoc/--hb367nb40z</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">cui-ucid-sea014-006</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb5q2nb3gm/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb5q2nb3gm/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Material in public domain. No restrictions on use</dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb2m3nb0jm</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Leadership in refugee communities</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lê, Xuân Khoa (Author)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Reports</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1983-06-03-1983-06-04</dc:date>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Indochina Refugee Action Center</dc:publisher>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 report : 22 x 28 cm. (9 pages)</dc:format>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Presented at the 4th Annual Utah Conference on Refugees, Salt Lake City, Utah, June 3-4, 1983</dc:description>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Southeast Asian Americans</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Social Aspects</dc:subject>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">United States</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Gayle Morrison files on Southeast Asian refugees--http://www.oac.cdlib.org/findaid/ark:/13030/kt6s2013d1</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">SEAAdoc--http://www.lib.uci.edu/seaadoc/--hb367nb40z</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">cui-ucid-sea014-004</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb2m3nb0jm/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb2m3nb0jm/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Southeast Asia Resource Action Center</dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb209nb0q8</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Letter from Le Xuan Khoa to presidents of Indochinese mutual assistance associations </dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lê, Xuân Khoa (Author)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letters</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1983-</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 letter : 22 x 28 cm. (2 pages)</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Social services</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Social Aspects</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Refugees--Asia, Southeastern</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Refugees and Immigrants</dc:subject>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Washington (D.C.)</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Gayle Morrison files on Southeast Asian refugees--http://www.oac.cdlib.org/findaid/ark:/13030/kt6s2013d1</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">SEAAdoc--http://www.lib.uci.edu/seaadoc/--hb367nb40z</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">cui-ucid-sea014-001</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb209nb0q8/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb209nb0q8/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Southeast Asia Resource Action Center</dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb996nb5zf</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">A Description and Directory of National Organizations and People Involved in the Processing and Resettlement of Indochinese Refugees In America</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Southeast Asia Resource Action Center (Author)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Reports</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1979-10-</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 report : 22 x 28 cm. (42 pages)</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Southeast Asian Americans</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Social Aspects</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Social services</dc:subject>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">United States</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Gayle Morrison files on Southeast Asian refugees--http://www.oac.cdlib.org/findaid/ark:/13030/kt6s2013d1</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">SEAAdoc--http://www.lib.uci.edu/seaadoc/--hb367nb40z</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">cui-ucid-sea014-003</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb996nb5zf/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb996nb5zf/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Southeast Asia Resource Action Center</dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+  </ListRecords>
+</Repository>

@@ -1,0 +1,770 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Repository xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository &#xA;                                http://www.openarchives.org/OAI/2.0/static-repository.xsd" xmlns="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identify>
+    <oai:repositoryName>UC Los Angeles, Special Collections, Young Research Library: Pamphlet Maps Collection on California</oai:repositoryName>
+    <oai:baseURL>http://imlsdcc.grainger.uiuc.edu/gateway.net/oai.aspx/gita.grainger.uiuc.edu/cdl_static_oai/kt3h4nc7dc.repository_static.xml</oai:baseURL>
+    <oai:protocolVersion>2.0</oai:protocolVersion>
+    <oai:adminEmail>thabing@uiuc.edu</oai:adminEmail>
+    <oai:earliestDatestamp>2008-01-14</oai:earliestDatestamp>
+    <oai:deletedRecord>no</oai:deletedRecord>
+    <oai:granularity>YYYY-MM-DD</oai:granularity>
+  </Identify>
+  <ListMetadataFormats>
+    <oai:metadataFormat>
+      <oai:metadataPrefix>mods</oai:metadataPrefix>
+      <oai:schema>http://www.loc.gov/standards/mods/v3/mods-3-2.xsd</oai:schema>
+      <oai:metadataNamespace>http://www.loc.gov/mods/v3</oai:metadataNamespace>
+    </oai:metadataFormat>
+    <oai:metadataFormat>
+      <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+      <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+      <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+    </oai:metadataFormat>
+  </ListMetadataFormats>
+  <ListRecords metadataPrefix="mods">
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb7f59p406</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>Official transportation and city map of Los Angeles, California and suburbs</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:namePart>Whitlock, Laura L</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text" authority="marc">Cartographer</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:name type="corporate" authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:namePart>Los Angeles Railway</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text" authority="marc">Sponsor</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cartographic</mods:typeOfResource>
+          <mods:genre authority="aat" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">maps</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:place>
+              <mods:placeTerm type="text">Los Angeles, Calif</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>Times-Mirror Printing &amp; Binding House</mods:publisher>
+            <mods:dateCreated>1911</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1911</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 map : col. ; 111.5 x 75 cm. on sheet 114.5 x 80.5 cm</mods:extent>
+          </mods:physicalDescription>
+          <mods:note type="content" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Relief shown by spot heights</mods:note>
+          <mods:note type="content" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">"Copyright 1911 by Laura L. Whitlock for Los Angeles Ry."</mods:note>
+          <mods:note type="content" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">"Los Angeles Railway Company, operating city system. Color of cars and lines map [yellow]"</mods:note>
+          <mods:note type="content" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">"Pacific Electric Raiway Company, routes of interurban system operating to points indicated at margin of map. Color of cars and lines on map [red]"</mods:note>
+          <mods:note type="content" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">"Glendale &amp; Eagle Rock Ry [blue]"</mods:note>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Street-railroads--California--Los Angeles Metropolitan Area--Maps</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Transportation--California--Los Angeles Metropolitan Area</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Street railroads--California--Glendale Metropolitan Area</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:name type="corporate" authority="naf">
+              <mods:namePart>Los Angeles Railway--Maps</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:name type="corporate" authority="naf">
+              <mods:namePart>Pacific Electric Railway Company--Maps</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:cartographics>
+              <mods:scale>scale not given</mods:scale>
+            </mods:cartographics>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Pamphlet maps collection on California</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">990</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nc7dc</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">uclamss_990_b31_3</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb7f59p406/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb7f59p406/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">UC Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+       Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb1m3nb40z</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>Faust's map of city and county of San Francisco California</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cartographic</mods:typeOfResource>
+          <mods:genre authority="aat" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">maps</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:place>
+              <mods:placeTerm type="text">San Francisco, Calif</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>Faust, H. W. (Henry W.)</mods:publisher>
+            <mods:dateCreated>c1892</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1892</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 map : col. ; 58 x 73 cm. on sheet 65 x 80 cm. folded to 16 x 1 in cover 18 x 10 cm</mods:extent>
+          </mods:physicalDescription>
+          <mods:note type="content" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Includes inset map "General view of San Francisco Bay"</mods:note>
+          <mods:note xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">On front cover: "Shows blocks numbered, streets, car lines, ward boundaries, parks, squares, cemeteries, wharves, original water front line, half-mile cirtcles from the bay, government reservations, and a general views of the bay and county surrounding the city"</mods:note>
+          <mods:note xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Relief shown by hachures and spot heights</mods:note>
+          <mods:subject authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>San Francisco (Calif.)--Maps</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>San Francisco Bay Area (Calif.)--Maps</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:cartographics>
+              <mods:scale>Scale not given</mods:scale>
+            </mods:cartographics>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Pamphlet maps collection on California</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">990</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nc7dc</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">uclamss_990_b31_2</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb1m3nb40z/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb1m3nb40z/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">UC Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+       Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb6b69p56t</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>Bancroft's map of California, Nevada, Utah and Arizona</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cartographic</mods:typeOfResource>
+          <mods:genre authority="aat" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">maps</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:place>
+              <mods:placeTerm type="text">San Francisco, Cal</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>H.H. Bancroft and Company</mods:publisher>
+            <mods:dateCreated>1864, c1863</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1864</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 map : col. ; 68 x 82.5 cm. on sheet 79 x 95 cm. folded to 14.5 x 8.8 cm. tipped into bound cover 15.8 x 10.3 cm</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>California--Maps</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>Nevada--Maps</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>Utah--Maps</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>Arizona--Maps</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:cartographics>
+              <mods:scale>1:1520640. 24 mi. to 1 in.</mods:scale>
+            </mods:cartographics>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Pamphlet maps collection on California</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">990</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nc7dc</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">uclamss_990_b31_5-front cover</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb6b69p56t/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb6b69p56t/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">UC Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+       Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb4199p2dw</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>Map of Virginia City and the Comstock Lode, state of Nevada, showing the latest changes up to Jan. 1875</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:namePart>Lasalle, Edward B</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text" authority="marc">Compiler</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cartographic</mods:typeOfResource>
+          <mods:genre authority="aat" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">maps</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:publisher>F. Korbel &amp; Bros.</mods:publisher>
+            <mods:dateCreated>1875</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1875</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 map : col. ; 40.7 x 73 cm. on sheet 44.3 x 76 cm. folded to 15.5 x 9.8 cm. and tipped into bound cover 16.5 x 10.8 cm</mods:extent>
+          </mods:physicalDescription>
+          <mods:note xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Relief shown by hachures and spot heights</mods:note>
+          <mods:note xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Title from cover: Pocket map of Comstock Lode. 1875</mods:note>
+          <mods:subject authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>Virginia City (Nev.)--Maps</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>Comstock Lode (Nev.)--Maps</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:cartographics>
+              <mods:scale>1 : 14,400. 1,200 ft. to 1 in.</mods:scale>
+            </mods:cartographics>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Pamphlet maps collection on California</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">990</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nc7dc</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">uclamss_990_b31_6</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb4199p2dw/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb4199p2dw/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">UC Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+       Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb696nb5g8</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>The official map of Orange County, California and portions of adjoining counties</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:namePart>Finley, S. H. (Solomon Henderson)</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text" authority="marc">Compiler</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:name type="personal" authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:namePart>McBride, J. L</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text" authority="marc">Compiler</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cartographic</mods:typeOfResource>
+          <mods:genre authority="aat" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">maps</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:publisher>Orange County (Calif.).  Board of Supervisors</mods:publisher>
+            <mods:dateCreated>1924</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1924</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 map : col. ;  50.6 x 51.7 on sheet 54.5  x 55.7  cm. folded to 15  x 9.5 cm. tipped into cardboard portfolio 16.5  x 10.4 cm</mods:extent>
+          </mods:physicalDescription>
+          <mods:note xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Map compiled from official and private surveys; copyright, December 1923 J.L. McBride of Santa Ana, Cal</mods:note>
+          <mods:note xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Relief shown by hachures and spot heights</mods:note>
+          <mods:subject authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>Orange County (Calif.)--Maps</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:cartographics>
+              <mods:scale>1:128,100</mods:scale>
+            </mods:cartographics>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Pamphlet maps collection on California</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">990</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nc7dc</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">uclamss_990_b31_7</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb696nb5g8/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb696nb5g8/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">UC Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+       Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb3z09p2gh</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>California</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cartographic</mods:typeOfResource>
+          <mods:genre authority="aat" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">maps</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:place>
+              <mods:placeTerm type="text">New York, N.Y</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>J.H. Colton &amp; Co.</mods:publisher>
+            <mods:dateCreated>1853</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1853</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 map : col. ;  35.5 x 30 cm. on sheet 43.8 x 35.2 cm. folded to 12.5 x 8 cm. tipped into bound cover 12.7  x  8.8  cm</mods:extent>
+          </mods:physicalDescription>
+          <mods:note type="content" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Includes inset map "City of San Francisco"</mods:note>
+          <mods:note xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Map of California identified in California Gold Rush Bibliography.  Verso of map has population statistics for the counties of California, Census 1952</mods:note>
+          <mods:note xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Title from cover of binding: Map of California</mods:note>
+          <mods:subject authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>California--Maps</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>San Francisco (Calif.)--Maps</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>California--Population--Statistics</mods:geographic>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Pamphlet maps collection on California</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">990</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nc7dc</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">uclamss_990_b27_1</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb3z09p2gh/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb3z09p2gh/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">UC Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+       Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb9k4012sh</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>Map of the United States, Canada, Mexico and the West Indies with Central America, showing all the routes to California with a table of distances</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cartographic</mods:typeOfResource>
+          <mods:genre authority="aat" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">maps</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:place>
+              <mods:placeTerm type="text">New York, N.Y</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>Thayer, Bridgman and Fanning (Firm)</mods:publisher>
+            <mods:dateCreated>1854</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1854</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 map : col. ; 50 x 62 cm. on sheet 55 x 67 cm. folded to 13 x 8 cm. tipped into bound cover 14 x 9 cm</mods:extent>
+          </mods:physicalDescription>
+          <mods:note xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Title on cover: Map of the United-States, Canada, Mexico, Central America and the West India Islands</mods:note>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Voyages to the Pacific Coast--Maps</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:topic>Distances--Tables</mods:topic>
+          </mods:subject>
+          <mods:subject authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>North America--Maps</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>Central America--Maps</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="naf" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>West Indies--Maps</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:cartographics>
+              <mods:scale>Scale not given</mods:scale>
+            </mods:cartographics>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Pamphlet maps collection on California</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">990</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nc7dc</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">uclamss_990_b31_4</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb9k4012sh/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb9k4012sh/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">UC Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+       Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+  </ListRecords>
+  <ListRecords metadataPrefix="oai_dc">
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb7f59p406</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Official transportation and city map of Los Angeles, California and suburbs</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Whitlock, Laura L (Cartographer)</dc:contributor>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Los Angeles Railway (Sponsor)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">maps</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1911-</dc:date>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Times-Mirror Printing &amp; Binding House</dc:publisher>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 map : col. ; 111.5 x 75 cm. on sheet 114.5 x 80.5 cm</dc:format>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Relief shown by spot heights</dc:description>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">"Copyright 1911 by Laura L. Whitlock for Los Angeles Ry."</dc:description>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">"Los Angeles Railway Company, operating city system. Color of cars and lines map [yellow]"</dc:description>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">"Pacific Electric Raiway Company, routes of interurban system operating to points indicated at margin of map. Color of cars and lines on map [red]"</dc:description>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">"Glendale &amp; Eagle Rock Ry [blue]"</dc:description>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Street-railroads--California--Los Angeles Metropolitan Area--Maps</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Transportation--California--Los Angeles Metropolitan Area</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Street railroads--California--Glendale Metropolitan Area</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Los Angeles Railway--Maps</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Pacific Electric Railway Company--Maps</dc:subject>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">scale not given</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Pamphlet maps collection on California--990--http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nc7dc</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">uclamss_990_b31_3</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb7f59p406/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb7f59p406/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">UC Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb1m3nb40z</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Faust's map of city and county of San Francisco California</dc:title>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">maps</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1892-</dc:date>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Faust, H. W. (Henry W.)</dc:publisher>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 map : col. ; 58 x 73 cm. on sheet 65 x 80 cm. folded to 16 x 1 in cover 18 x 10 cm</dc:format>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Includes inset map "General view of San Francisco Bay"</dc:description>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">On front cover: "Shows blocks numbered, streets, car lines, ward boundaries, parks, squares, cemeteries, wharves, original water front line, half-mile cirtcles from the bay, government reservations, and a general views of the bay and county surrounding the city"</dc:description>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Relief shown by hachures and spot heights</dc:description>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">San Francisco (Calif.)--Maps</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">San Francisco Bay Area (Calif.)--Maps</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Scale not given</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Pamphlet maps collection on California--990--http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nc7dc</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">uclamss_990_b31_2</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb1m3nb40z/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb1m3nb40z/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">UC Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb6b69p56t</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Bancroft's map of California, Nevada, Utah and Arizona</dc:title>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">maps</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1864-</dc:date>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">H.H. Bancroft and Company</dc:publisher>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 map : col. ; 68 x 82.5 cm. on sheet 79 x 95 cm. folded to 14.5 x 8.8 cm. tipped into bound cover 15.8 x 10.3 cm</dc:format>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">California--Maps</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Nevada--Maps</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Utah--Maps</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Arizona--Maps</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">1:1520640. 24 mi. to 1 in.</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Pamphlet maps collection on California--990--http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nc7dc</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">uclamss_990_b31_5-front cover</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb6b69p56t/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb6b69p56t/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">UC Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb4199p2dw</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Map of Virginia City and the Comstock Lode, state of Nevada, showing the latest changes up to Jan. 1875</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lasalle, Edward B (Compiler)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">maps</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1875-</dc:date>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">F. Korbel &amp; Bros.</dc:publisher>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 map : col. ; 40.7 x 73 cm. on sheet 44.3 x 76 cm. folded to 15.5 x 9.8 cm. and tipped into bound cover 16.5 x 10.8 cm</dc:format>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Relief shown by hachures and spot heights</dc:description>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Title from cover: Pocket map of Comstock Lode. 1875</dc:description>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Virginia City (Nev.)--Maps</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Comstock Lode (Nev.)--Maps</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">1 : 14,400. 1,200 ft. to 1 in.</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Pamphlet maps collection on California--990--http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nc7dc</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">uclamss_990_b31_6</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb4199p2dw/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb4199p2dw/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">UC Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb696nb5g8</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">The official map of Orange County, California and portions of adjoining counties</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Finley, S. H. (Solomon Henderson) (Compiler)</dc:contributor>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">McBride, J. L (Compiler)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">maps</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1924-</dc:date>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Orange County (Calif.).  Board of Supervisors</dc:publisher>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 map : col. ;  50.6 x 51.7 on sheet 54.5  x 55.7  cm. folded to 15  x 9.5 cm. tipped into cardboard portfolio 16.5  x 10.4 cm</dc:format>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Map compiled from official and private surveys; copyright, December 1923 J.L. McBride of Santa Ana, Cal</dc:description>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Relief shown by hachures and spot heights</dc:description>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Orange County (Calif.)--Maps</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">1:128,100</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Pamphlet maps collection on California--990--http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nc7dc</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">uclamss_990_b31_7</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb696nb5g8/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb696nb5g8/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">UC Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb3z09p2gh</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">California</dc:title>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">maps</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1853-</dc:date>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">J.H. Colton &amp; Co.</dc:publisher>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 map : col. ;  35.5 x 30 cm. on sheet 43.8 x 35.2 cm. folded to 12.5 x 8 cm. tipped into bound cover 12.7  x  8.8  cm</dc:format>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Includes inset map "City of San Francisco"</dc:description>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Map of California identified in California Gold Rush Bibliography.  Verso of map has population statistics for the counties of California, Census 1952</dc:description>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Title from cover of binding: Map of California</dc:description>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">California--Maps</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">San Francisco (Calif.)--Maps</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">California--Population--Statistics</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Pamphlet maps collection on California--990--http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nc7dc</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">uclamss_990_b27_1</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb3z09p2gh/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb3z09p2gh/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">UC Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb9k4012sh</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Map of the United States, Canada, Mexico and the West Indies with Central America, showing all the routes to California with a table of distances</dc:title>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">maps</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1854-</dc:date>
+          <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Thayer, Bridgman and Fanning (Firm)</dc:publisher>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 map : col. ; 50 x 62 cm. on sheet 55 x 67 cm. folded to 13 x 8 cm. tipped into bound cover 14 x 9 cm</dc:format>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Title on cover: Map of the United-States, Canada, Mexico, Central America and the West India Islands</dc:description>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Voyages to the Pacific Coast--Maps</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Distances--Tables</dc:subject>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">North America--Maps</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Central America--Maps</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">West Indies--Maps</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Scale not given</dc:coverage>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Pamphlet maps collection on California--990--http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nc7dc</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">uclamss_990_b31_4</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb9k4012sh/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb9k4012sh/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">UC Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       Department of Special Collections, Charles E. Young Research Library, U.C. Los Angeles
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+  </ListRecords>
+</Repository>

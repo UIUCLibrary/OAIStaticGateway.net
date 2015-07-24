@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository xmlns="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository &#xA;http://www.openarchives.org/OAI/2.0/static-repository.xsd"><Identify>
+		<oai:repositoryName>Chicago Federation of Settlements and Neighborhood Centers Collection</oai:repositoryName>
+		<oai:baseURL>http://imlsdcc.grainger.uiuc.edu/gateway/oai.asp/mtmathlib.library.uiuc.edu/StaticTest.xml</oai:baseURL>
+		<oai:protocolVersion>2.0</oai:protocolVersion>
+		<oai:adminEmail>lib-spec@listserv.uic.edu</oai:adminEmail>
+		<oai:earliestDatestamp>2004-09-09</oai:earliestDatestamp>
+		<oai:deletedRecord>no</oai:deletedRecord>
+		<oai:granularity>YYYY-MM-DD</oai:granularity>
+	</Identify><ListMetadataFormats>
+		<oai:metadataFormat>
+			<oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+			<oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+			<oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+		</oai:metadataFormat>
+	</ListMetadataFormats>
+	<ListRecords metadataPrefix="oai_dc">
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:rdc209</oai:identifier>
+				<oai:datestamp>2004-05-01</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ &#xA;http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+					<dc:title>Chicago Federation of Settlements and Neighborhood Centers Collection</dc:title>
+					<dc:creator>Chicago Federation of Settlements and Neighborhood Centers</dc:creator>
+					<dc:subject>Addams, Jane, 1860-1935 -- Sources</dc:subject>
+					<dc:subject>Bowen, Louise de Koven, b. 1859 -- Sources</dc:subject>
+					<dc:subject>Chicago Federation of Settlements and Neighborhood Centers -- Archives</dc:subject>
+					<dc:subject>Social settlements -- Illinois -- Chicago -- Sources</dc:subject>
+					<dc:description>The collection contains minutes, speeches, annual reports, studies, reports, and correspondence dating from 1900 to the present. The materials pertain to Chicago area settlement houses, social work, childcare, public housing, poverty, Jane Addams, and Louise de Koven Bowen.</dc:description>
+					<dc:publisher>University of Illinois at Chicago, Main Library, Special Collections</dc:publisher>
+					<dc:contributor>none</dc:contributor>
+					<dc:date>1896</dc:date>
+					<dc:date>1982</dc:date>
+					<dc:type>Collection</dc:type>
+					<dc:format>text</dc:format>
+					<dc:format>image</dc:format>
+					<dc:identifier>http://www.uic.edu/depts/lib/specialcoll/services/rjd/findingaids/CFSNCf.html</dc:identifier>
+					<dc:source>Coll MS C53249</dc:source>
+					<dc:language>eng</dc:language>
+					<dc:relation>http://www.uic.edu/depts/lib/specialcoll/</dc:relation>
+					<dc:coverage>Chicago, Illinois</dc:coverage>
+					<dc:rights>All queries should be directed to University of Illinois at Chicago, Richard J. Daley Library, M/C 234, Special Collections, Box 8198, Chicago, IL 60680-8198. Or phone 312-996-2742. Or email lib-spec@listserv.uic.edu.</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+	</ListRecords></Repository>

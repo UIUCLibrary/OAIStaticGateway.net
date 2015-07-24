@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Repository xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository &#xA;                                http://www.openarchives.org/OAI/2.0/static-repository.xsd" xmlns="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identify>
+    <oai:repositoryName>UC Irvine, Special Collections and Archives: Orange County rancho Title Abstracts</oai:repositoryName>
+    <oai:baseURL>http://imlsdcc.grainger.uiuc.edu/gateway.net/oai.aspx/gita.grainger.uiuc.edu/cdl_static_oai/kt1m3nb7nk.repository_static.xml</oai:baseURL>
+    <oai:protocolVersion>2.0</oai:protocolVersion>
+    <oai:adminEmail>thabing@uiuc.edu</oai:adminEmail>
+    <oai:earliestDatestamp>2008-01-14</oai:earliestDatestamp>
+    <oai:deletedRecord>no</oai:deletedRecord>
+    <oai:granularity>YYYY-MM-DD</oai:granularity>
+  </Identify>
+  <ListMetadataFormats>
+    <oai:metadataFormat>
+      <oai:metadataPrefix>mods</oai:metadataPrefix>
+      <oai:schema>http://www.loc.gov/standards/mods/v3/mods-3-2.xsd</oai:schema>
+      <oai:metadataNamespace>http://www.loc.gov/mods/v3</oai:metadataNamespace>
+    </oai:metadataFormat>
+    <oai:metadataFormat>
+      <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+      <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+      <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+    </oai:metadataFormat>
+  </ListMetadataFormats>
+  <ListRecords metadataPrefix="mods">
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb696nb2sg</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:title>Abstract of title of Rancho Boca de la Playa and lot forty-four in township eight south, range seven, West San Bernardino Meridian</mods:title>
+          </mods:titleInfo>
+          <mods:name type="corporate" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:namePart>Abstract and Title Company of Los Angeles</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text" authority="marc">Author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">text</mods:typeOfResource>
+          <mods:genre authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Abstracts of title--California--Orange County--Rancho Boca de la Playa--19th century</mods:genre>
+          <mods:genre authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Maps--California--Orange County--Rancho Boca de la Playa--19th century</mods:genre>
+          <mods:originInfo xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:dateCreated>June 30, 1887</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1887-06-30</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:extent>1 title abstract : 34 x 23 cm., 169 pages, including 3 manuscript maps</mods:extent>
+          </mods:physicalDescription>
+          <mods:note type="content" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">This document includes mortgage documents, minutes of probate court proceedings, patents, and deeds assessments for such historic California personages as Emigdio Vejar, Pablo Pryor, and Marcos Forster (son of prominent landowner John Forster), and 3 hand-drawn maps for properties that were part of an original rancho that comprised present-day Orange County: Rancho Boca de la Playa</mods:note>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>Orange County (Calif.)--History--19th century</mods:geographic>
+          </mods:subject>
+          <mods:subject xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:geographic>Rancho Boca de la Playa (Calif.)--Maps</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:name type="corporate">
+              <mods:namePart>Abstract and Title Company of Los Angeles</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>California Cultures</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="uri">http://calcultures.cdlib.org/</mods:identifier>
+            <mods:identifier type="local search">hb500007cn</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+            <mods:titleInfo>
+              <mods:title>Orange County rancho title abstracts</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">MS-R 80</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/kt1m3nb7nk</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier type="local" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">cui-ms-r80-01</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb696nb2sg/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb696nb2sg/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:mix="http://www.loc.gov/mix/" xmlns:cdl="http://www.cdlib.org/" xmlns:mets="http://www.loc.gov/METS/" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">Material in public domain. No restrictions on use</mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+  </ListRecords>
+  <ListRecords metadataPrefix="oai_dc">
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb696nb2sg</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Abstract of title of Rancho Boca de la Playa and lot forty-four in township eight south, range seven, West San Bernardino Meridian</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Abstract and Title Company of Los Angeles (Author)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Abstracts of title--California--Orange County--Rancho Boca de la Playa--19th century</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Maps--California--Orange County--Rancho Boca de la Playa--19th century</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1887-06-30-</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 title abstract : 34 x 23 cm., 169 pages, including 3 manuscript maps</dc:format>
+          <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">This document includes mortgage documents, minutes of probate court proceedings, patents, and deeds assessments for such historic California personages as Emigdio Vejar, Pablo Pryor, and Marcos Forster (son of prominent landowner John Forster), and 3 hand-drawn maps for properties that were part of an original rancho that comprised present-day Orange County: Rancho Boca de la Playa</dc:description>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Orange County (Calif.)--History--19th century</dc:coverage>
+          <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Rancho Boca de la Playa (Calif.)--Maps</dc:coverage>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Abstract and Title Company of Los Angeles</dc:subject>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">California Cultures--http://calcultures.cdlib.org/--hb500007cn</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Orange County rancho title abstracts--MS-R 80--http://www.oac.cdlib.org/findaid/ark:/13030/kt1m3nb7nk</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">cui-ms-r80-01</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb696nb2sg/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb696nb2sg/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Material in public domain. No restrictions on use</dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+  </ListRecords>
+</Repository>

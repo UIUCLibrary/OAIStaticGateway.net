@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Repository xmlns="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository &#xA;http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+  <Identify>
+    <oai:repositoryName>OAItest</oai:repositoryName>
+    <oai:baseURL>http://imlsdcc.grainger.uiuc.edu/gateway.net/oai.aspx/mikehirst.netfirms.com/OAI/OAItest.xml</oai:baseURL>
+    <oai:protocolVersion>2.0</oai:protocolVersion>
+    <oai:adminEmail>mike.hirst@blueyonder.co.uk</oai:adminEmail>
+    <oai:earliestDatestamp>2008-02-03</oai:earliestDatestamp>
+    <oai:deletedRecord>no</oai:deletedRecord>
+    <oai:granularity>YYYY-MM-DD</oai:granularity>
+  </Identify>
+  <ListMetadataFormats>
+    <oai:metadataFormat>
+      <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+      <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+      <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+    </oai:metadataFormat>
+    <oai:metadataFormat>
+      <oai:metadataPrefix>pnds_dc</oai:metadataPrefix>
+      <oai:schema>http://www.ukoln.ac.uk/metadata/pns/pndsdcxml/2005-06-13/xmls/pndsdc.xsd</oai:schema>
+      <oai:metadataNamespace>http://purl.org/mla/pnds/pndsdc/</oai:metadataNamespace>
+    </oai:metadataFormat>
+  </ListMetadataFormats>
+  <ListRecords metadataPrefix="oai_dc">
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:thebowesmuseum.org.uk.com:2/2819</oai:identifier>
+        <oai:datestamp>2008-02-03</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ &#xA;http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:identifier>http://www.thebowesmuseum.org.uk/collections/objects/category/2/2819/</dc:identifier>
+          <dc:title>Jug</dc:title>
+          <dc:description>Pear shaped jug, with male caricature mask spout and an angular broken scroll handle. Body decorated with European flowers painted in enamel colours; two bunches on opposite sides between spout and handle and a smaller spray below both the spout and handle. The handle is decorated with scrolled moulding picked out in purple enamel. The mask spout is also picked out in purple enamel.</dc:description>
+          <dc:subject>jug</dc:subject>
+          <dc:type>Image</dc:type>
+          <dc:rights>http://www.thebowesmuseum.org.uk/terms/</dc:rights>
+          <dc:relation>http://www.thebowesmuseum.org.uk/uploads/collections/thumbnails/m-140.jpg</dc:relation>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+  </ListRecords>
+  <ListRecords metadataPrefix="pnds_dc">
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:thebowesmuseum.org.uk.com:2/2819</oai:identifier>
+        <oai:datestamp>2008-02-03</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <pndsdc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pndsterms="http://purl.org/mla/pnds/terms/" xmlns:pndsdc="http://purl.org/mla/pnds/pndsdc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/mla/pnds/pndsdc/&#xA;http://www.ukoln.ac.uk/metadata/pns/pndsdcxml/2005-06-13/xmls/pndsdc.xsd">
+          <dc:identifier encSchemeURI="http://purl.org/dc/terms/URI">http://www.thebowesmuseum.org.uk/collections/objects/category/2/2819/</dc:identifier>
+          <dc:title xml:lang="en">Jug</dc:title>
+          <dc:description xml:lang="en">Pear shaped jug, with male caricature mask spout and an angular broken scroll handle. Body decorated with European flowers painted in enamel colours; two bunches on opposite sides between spout and handle and a smaller spray below both the spout and handle. The handle is decorated with scrolled moulding picked out in purple enamel. The mask spout is also picked out in purple enamel.</dc:description>
+          <dc:subject>jug</dc:subject>
+          <dc:type encSchemeURI="http://purl.org/dc/terms/DCMIType" valueURI="http://purl.org/dc/dcmitype/Image">Image</dc:type>
+          <dcterms:license valueURI="http://www.thebowesmuseum.org.uk/terms/" />
+          <dcterms:rightsHolder>The Bowes Museum</dcterms:rightsHolder>
+          <pndsterms:thumbnail>http://www.thebowesmuseum.org.uk/uploads/collections/thumbnails/1988-130-cer.jpg</pndsterms:thumbnail>
+        </pndsdc:description>
+      </oai:metadata>
+    </oai:record>
+  </ListRecords>
+</Repository>
