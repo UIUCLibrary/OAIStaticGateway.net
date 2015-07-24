@@ -1,0 +1,485 @@
+<StaticRepositoryDescription>
+  <!-- all supported static repositories -->
+  <staticRepositories>
+    <repository>
+      <baseURL>http://www.acnatsci.org/library/collections/imls/nlg/AcadNatSciStatic.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\www.acnatsci.org\library\collections\imls\nlg\AcadNatSciStatic.xml</cachePath>
+      <cacheDate>1/15/2004 6:56:33 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://www.cl.cam.ac.uk/TechReports/UCAM-CL-TR-OAI-SR.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\www.cl.cam.ac.uk\TechReports\UCAM-CL-TR-OAI-SR.xml</cachePath>
+      <cacheDate>1/30/2008 2:07:53 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://relativity.livingreviews.org/Articles/oai.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\relativity.livingreviews.org\Articles\oai.xml</cachePath>
+      <cacheDate>6/1/2006 9:55:35 AM</cacheDate>
+      <redirect>http://relativity.livingreviews.org/register/oai</redirect>
+    </repository>
+    <repository>
+      <baseURL>http://ep.lib.cbs.dk/oai.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\ep.lib.cbs.dk\oai.xml</cachePath>
+      <cacheDate>11/29/2005 9:05:02 AM</cacheDate>
+      <redirect>http://ir.lib.cbs.dk/oai.php</redirect>
+    </repository>
+    <repository>
+      <baseURL>http://sdrc.lib.uiowa.edu/traveling-culture/oai/tc-oai.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\sdrc.lib.uiowa.edu\traveling-culture\oai\tc-oai.xml</cachePath>
+      <cacheDate>12/28/2005 3:01:58 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://www.folkstreams.net/oai/static_repository.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\www.folkstreams.net\oai\static_repository.xml</cachePath>
+      <cacheDate>4/2/2007 10:03:16 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://www.ifpri.org/oai.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\www.ifpri.org\oai.xml</cachePath>
+      <cacheDate>3/22/2007 9:00:05 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://www.diglib.org/oai/dlfpubs.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\www.diglib.org\oai\dlfpubs.xml</cachePath>
+      <cacheDate>7/12/2006 11:41:44 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://www.lpi.usra.edu/library/oai.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\www.lpi.usra.edu\library\oai.xml</cachePath>
+      <cacheDate>7/10/2006 7:47:59 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://library.pratt.edu/bookplates.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\library.pratt.edu\bookplates.xml</cachePath>
+      <cacheDate>2/8/2007 9:01:38 PM</cacheDate>
+    </repository>
+    <repository confirmationCode="F+LJEZkh5LNi7WRiKeL6ZSI=">
+      <baseURL>http://rama.grainger.uiuc.edu/imt.xml</baseURL>
+      <cachePath>E:\InetPub\imlsdcc\gateway.net\App_Data\rama.grainger.uiuc.edu\imt.xml</cachePath>
+      <cacheDate>12/17/2007 5:01:24 PM</cacheDate>
+      <initiate>
+        <host>128.174.36.133</host>
+        <date>12/12/2007 5:32:32 PM</date>
+      </initiate>
+      <confirmInitiate>
+        <host>128.174.36.133</host>
+        <date>12/12/2007 5:32:53 PM</date>
+      </confirmInitiate>
+    </repository>
+    <!-- START OF CDL STATIC FILES -->
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/ft6p3004n2.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\ft6p3004n2.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:04 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/ft838nb5kh.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\ft838nb5kh.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:47:04 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/hb8489p15p.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\hb8489p15p.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:36 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/hb8779p2cx.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\hb8779p2cx.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:29 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/hb8779p2cx.repository_2_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\hb8779p2cx.repository_2_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:05 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt067nc5q5.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt067nc5q5.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:01 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt096nc9xv.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt096nc9xv.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:47:02 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt0g5016h6.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt0g5016h6.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:49 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt138nc5cn.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt138nc5cn.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:44:35 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt196nc419.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt196nc419.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:59 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt1d5nc5hp.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt1d5nc5hp.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:30 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt1h4nb6dt.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt1h4nb6dt.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:57 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt1h4nb6fb.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt1h4nb6fb.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:01 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt1m3nb7nk.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt1m3nb7nk.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:59 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt1p301712.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt1p301712.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:47:03 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt1r29p4qh.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt1r29p4qh.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:44:29 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt1v19n82t.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt1v19n82t.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:06 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt2199p9w7.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt2199p9w7.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:44:35 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt2f59q35j.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt2f59q35j.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:57 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt2f59q8bj.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt2f59q8bj.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:37 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt2p30043h.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt2p30043h.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:13 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt2z09p45v.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt2z09p45v.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:12 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt300019nx.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt300019nx.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:38 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt329002rr.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt329002rr.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:31 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt396nc691.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt396nc691.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:34 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt3h4nc7dc.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt3h4nc7dc.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:12 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt409nb02d.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt409nb02d.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:02 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt467nc6pc.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt467nc6pc.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:00 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt487011tc.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt487011tc.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:12 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt4g5005m2.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt4g5005m2.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:30 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt4h4nc7pt.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt4h4nc7pt.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:57 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt4j49q0z8.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt4j49q0z8.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:31 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt4p3021fr.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt4p3021fr.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:56 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt4t1nb1th.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt4t1nb1th.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:02 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt509nc884.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt509nc884.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:01 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt5h4nc8rn.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt5h4nc8rn.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:01 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt5s2013bp.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt5s2013bp.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:57 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt6s2013d1.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt6s2013d1.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:57 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt6v19p65d.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt6v19p65d.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:44:41 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt6v19p6sq.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt6v19p6sq.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:00 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt7489n8x1.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt7489n8x1.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:09 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt787023c0.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt787023c0.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:39 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt7j49q6qg.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt7j49q6qg.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:01 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt8290242t.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt8290242t.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:02 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt8489n9zb.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt8489n9zb.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:47:03 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt8489q5fj.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt8489q5fj.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:44:43 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt8489q5km.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt8489q5km.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:44:45 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt85801594.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt85801594.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:57 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt8h4nd0m3.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt8h4nd0m3.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:30 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt8n39p803.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt8n39p803.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:56 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt95802858.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt95802858.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:40 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt996nd0d0.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt996nd0d0.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:58 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt9b69q98h.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt9b69q98h.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:07 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt9c6023ds.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt9c6023ds.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:14 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/kt9d5nd53d.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\kt9d5nd53d.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:51 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf0r29n721.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf0r29n721.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:47:03 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf267nb24r.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf267nb24r.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:32 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf338n99v6.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf338n99v6.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:38 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf3b69n8z8.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf3b69n8z8.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:14 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf3h4nb0ks.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf3h4nb0ks.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:53 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf409nb2b5.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf409nb2b5.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:06 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf467nb0jm.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf467nb0jm.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:38 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf4779n9j6.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf4779n9j6.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:21 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf4r29n82r.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf4r29n82r.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:49 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf4w1006k9.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf4w1006k9.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:02 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf5d5nb2wc.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf5d5nb2wc.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:59 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf5f59p0ng.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf5f59p0ng.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:03 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf6d5nb26b.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf6d5nb26b.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:37 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf796nb2t9.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf796nb2t9.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:31 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf7j49n99g.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf7j49n99g.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:37 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf887006z9.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf887006z9.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:31 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf8f59p1tg.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf8f59p1tg.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:59 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf8k40079x.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf8k40079x.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:39 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf8r29p24k.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf8r29p24k.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:13 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf8x0nb5rz.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf8x0nb5rz.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:14 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf967nb619.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf967nb619.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:00 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf9870106s.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf9870106s.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:47:03 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf9c6008vp.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf9c6008vp.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:10 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf9g5009fm.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf9g5009fm.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:46:14 PM</cacheDate>
+    </repository>
+    <repository>
+      <baseURL>http://gita.grainger.uiuc.edu/cdl_static_oai/tf9k4009f8.repository_static.xml</baseURL>
+      <cachePath>E:\inetpub\imlsdcc\gateway.net\app_data\gita.grainger.uiuc.edu\cdl_static_oai\tf9k4009f8.repository_static.xml</cachePath>
+      <cacheDate>2/4/2008 2:45:59 PM</cacheDate>
+    </repository>
+    <!-- END OF CDL STATIC FILES -->
+    <repository confirmationCode="bHcCg2qozix1OfO1EzIIJEU=">
+      <baseURL>http://mikehirst.netfirms.com/OAI/OAItest.xml</baseURL>
+      <cachePath>E:\InetPub\imlsdcc\gateway.net\App_Data\mikehirst.netfirms.com\OAI\OAItest.xml</cachePath>
+      <cacheDate>2/3/2008 8:48:16 AM</cacheDate>
+      <initiate>
+        <host>92.233.237.80</host>
+        <date>2/2/2008 9:53:03 AM</date>
+      </initiate>
+      <confirmInitiate>
+        <host>92.233.237.80</host>
+        <date>2/2/2008 9:54:08 AM</date>
+      </confirmInitiate>
+    </repository>
+  </staticRepositories>
+</StaticRepositoryDescription>

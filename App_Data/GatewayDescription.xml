@@ -1,0 +1,14 @@
+<GatewayDescription>
+	<!-- the repository name -->
+	<repositoryName>ASP OAI 2.0 Static Repository Gateway</repositoryName>
+	<!-- the administrator email(s) -->
+	<adminEmails>
+		<email>thabing@uiuc.edu</email>
+	</adminEmails>
+  <smtp>express-smtp.cites.uiuc.edu</smtp>
+	<baseURL>http://imlsdcc.grainger.uiuc.edu/gateway.net/oai.aspx</baseURL>
+	<!-- the configuration file for the static repositories -->
+	<staticRepositoryConfiguration>
+		<filename>StaticRepositoryDescription.xml</filename>
+	</staticRepositoryConfiguration>
+</GatewayDescription>
