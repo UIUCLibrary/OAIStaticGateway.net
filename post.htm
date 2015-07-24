@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Untitled Page</title>
+</head>
+<body>
+<h1>Test OAI Using POST</h1>
+<form action='oai.aspx/rama.grainger.uiuc.edu/imt.xml' method='post' >
+<input type="submit" name="verb" value="Identify"/>
+</form>
+<form action='oai.aspx/rama.grainger.uiuc.edu/imt.xml' method='post' >
+<input type="submit" name="verb" value="ListSets"/>
+</form>
+<form action='oai.aspx/rama.grainger.uiuc.edu/imt.xml' method='post' >
+<input type="submit" name="verb" value="ListMetadataFormats"/>
+</form>
+<form action='oai.aspx/rama.grainger.uiuc.edu/imt.xml' method='post' >
+<input type='text' name='identifier' value='oai:imt.grainger.uiuc.edu:application/activemessage' />
+<input type="submit" name="verb" value="ListMetadataFormats"/>
+</form>
+<form action='oai.aspx/rama.grainger.uiuc.edu/imt.xml' method='post' >
+<input type='text' name='identifier' value='oai:imt.grainger.uiuc.edu:application/activemessage' />
+<input type='text' name='metadataPrefix' value='oai_dc' />
+<input type="submit" name="verb" value="GetRecord"/>
+</form>
+<form action='oai.aspx/rama.grainger.uiuc.edu/imt.xml' method='post' >
+<input type='text' name='metadataPrefix' value='oai_dc' />
+<input type="submit" name="verb" value="ListIdentifiers"/>
+</form>
+<form action='oai.aspx/rama.grainger.uiuc.edu/imt.xml' method='post' >
+<input type='text' name='metadataPrefix' value='oai_dc' />
+<input type="submit" name="verb" value="ListRecords"/>
+</form>
+</body>
+</html>
