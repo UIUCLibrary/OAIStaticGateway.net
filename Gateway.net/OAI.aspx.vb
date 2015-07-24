@@ -553,19 +553,12 @@ Partial Class OAI
     Dim xmlSR As XmlDocument
     Dim elem As XmlNode
     Dim txt As XmlNode
-    Dim txtSR As XmlReader
 
     'get the XML file from the server
     xmlSR = New XmlDocument
 
-    Dim xrset As New XmlReaderSettings
-    xrset.CheckCharacters = False
-    Dim xpc As XmlParserContext = New XmlParserContext(Nothing, Nothing, "", XmlSpace.Default, Encoding.UTF8)
-
     Try
-      txtSR = XmlReader.Create(urlSR, xrset, xpc)
-
-      xmlSR.Load(txtSR)
+      xmlSR.Load(urlSR)
     Catch xmlSRErr As XmlException
       xmlSRErrCode = 1
       xmlSRErrReason = xmlSRErr.Message
@@ -680,13 +673,12 @@ Partial Class OAI
     sc.Add("http://www.openarchives.org/OAI/2.0/", "http://www.openarchives.org/OAI/2.0/OAI-PMH-static-repository.xsd")
     sc.Add("http://www.openarchives.org/OAI/2.0/oai_dc/", "http://www.openarchives.org/OAI/2.0/oai_dc.xsd")
     sc.Add("http://www.openarchives.org/OAI/2.0/static-repository", "http://www.openarchives.org/OAI/2.0/static-repository.xsd")
-    sc.Add("http://www.loc.gov/mods/v3", "http://www.loc.gov/standards/mods/v3/mods-3-2.xsd")
+	''' Mods schema updated to the latest version pghorpade@library.ucla.edu 
+    sc.Add("http://www.loc.gov/mods/v3", "http://www.loc.gov/standards/mods/v3/mods-3-6.xsd")
 
     If (sc.Count > 0) Then
-      Dim xrset As New XmlReaderSettings
-      Dim xpc As XmlParserContext = New XmlParserContext(Nothing, Nothing, "", XmlSpace.Default, Encoding.UTF8)
-      Dim tr As XmlReader = XmlReader.Create(xmlSR.BaseURI, xrset, xpc)
-
+      Dim tr As XmlTextReader = New XmlTextReader(xmlSR.BaseURI)
+      'Dim tr As XmlNodeReader = New XmlNodeReader(xmlSR)
       Dim rdr As XmlValidatingReader = New XmlValidatingReader(tr)
 
       rdr.ValidationType = ValidationType.Schema
@@ -716,7 +708,8 @@ Partial Class OAI
     nns.Add("http://www.openarchives.org/OAI/2.0/", "http://www.openarchives.org/OAI/2.0/OAI-PMH-static-repository.xsd")
     nns.Add("http://www.openarchives.org/OAI/2.0/oai_dc/", "http://www.openarchives.org/OAI/2.0/oai_dc.xsd")
     nns.Add("http://www.openarchives.org/OAI/2.0/static-repository", "http://www.openarchives.org/OAI/2.0/static-repository.xsd")
-    nns.Add("http://www.loc.gov/mods/v3", "http://www.loc.gov/standards/mods/v3/mods-3-2.xsd")
+	''' Mods schema updated to the latest version pghorpade@library.ucla.edu 
+    nns.Add("http://www.loc.gov/mods/v3", "http://www.loc.gov/standards/mods/v3/mods-3-6.xsd")
 
     xmlSR.Schemas = nns
 
