@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Repository xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository http://www.openarchives.org/OAI/2.0/static-repository.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/">
+	<Identify>
+		<oai:repositoryName>Living Reviews in Relativity: OAI Repository</oai:repositoryName>
+		<oai:baseURL>http://imlsdcc.grainger.uiuc.edu/gateway/oai.asp/relativity.livingreviews.org/Articles/oai.xml</oai:baseURL>
+		<oai:protocolVersion>2.0</oai:protocolVersion>
+		<oai:adminEmail>livrev@aei.mpg.de</oai:adminEmail>
+		<oai:earliestDatestamp>1998-01-26</oai:earliestDatestamp>
+		<oai:deletedRecord>no</oai:deletedRecord>
+		<oai:granularity>YYYY-MM-DD</oai:granularity>
+	</Identify>
+	<ListMetadataFormats>
+		<oai:metadataFormat>
+			<oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+			<oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+			<oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+		</oai:metadataFormat>
+	</ListMetadataFormats>
+	<ListRecords metadataPrefix="oai_dc">
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-1998-1</oai:identifier>
+				<oai:datestamp>1998-01-26</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Loop Quantum Gravity</dc:title>
+					<dc:creator>Carlo Rovelli</dc:creator>
+					<dc:subject>Quantum General Relativity</dc:subject>
+					<dc:description>The problem of finding the quantum theory of the gravitational field, and thus understanding what is quantum spacetime, is still open. One of the most active of the current approaches is loop quantum gravity. Loop quantum gravity is a mathematically well-defined, non-perturbative and background independent quantization of general relativity, with its conventional matter couplings. Research in loop quantum gravity today forms a vast area, ranging from mathematical foundations to physical applications. Among the most significant results obtained are: (i) The computation of the physical spectra of geometrical quantities such as area and volume, which yields quantitative predictions on Planck-scale physics. (ii) A derivation of the Bekenstein-Hawking black hole entropy formula. (iii) An intriguing physical picture of the microstructure of quantum physical space, characterized by a polymer-like Planck scale discreteness. This discreteness emerges naturally from the quantum theory and provides a mathematically well-defined realization of Wheeler's intuition of a spacetime ``foam''. Long standing open problems within the approach (lack of a scalar product, over-completeness of the loop basis, implementation of reality conditions) have been fully solved. The weak part of the approach is the treatment of the dynamics: at present there exist several proposals, which are intensely debated. Here, I provide a general overview of ideas, techniques, results and open problems of this candidate theory of quantum gravity, and a guide to the relevant literature.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-1998-1</dc:identifier>
+					<dc:date>1998-01-26</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-1998-3</oai:identifier>
+				<oai:datestamp>1998-01-26</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Hyperbolic Methods for Einstein's Equations</dc:title>
+					<dc:creator>Oscar A. Reula</dc:creator>
+					<dc:subject>Mathematical Relativity</dc:subject>
+					<dc:description>I review evolutionary aspects of general relativity, in particular those related to the hyperbolic character of the field equations and to the applications or consequences that this property entails. I look at several approaches to obtaining symmetric hyperbolic systems of equations out of Einstein's equations by either removing some gauge freedoms from them, or by considering certain linear combinations of a subset of them.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-1998-3</dc:identifier>
+					<dc:date>1998-01-26</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-1998-6</oai:identifier>
+				<oai:datestamp>1998-05-08</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Stationary Black Holes: Uniqueness and Beyond</dc:title>
+					<dc:creator>Markus Heusler</dc:creator>
+					<dc:subject>Mathematical Relativity</dc:subject>
+					<dc:description>The spectrum of known black hole solutions to the stationary Einstein equations has increased in an unexpected way during the last decade. In particular, it has turned out that not all black hole equilibrium configurations are characterized by their mass, angular momentum and global charges. Moreover, the high degree of symmetry displayed by vacuum and electro-vacuum black hole space-times ceases to exist in self-gravitating non-linear field theories. This text aims to review some of the recent developments and to discuss them in the light of the uniqueness theorem for the Einstein-Maxwell system.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-1998-6</dc:identifier>
+					<dc:date>1998-05-08</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-1998-11</oai:identifier>
+				<oai:datestamp>1998-09-30</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>The Cosmic Microwave Background</dc:title>
+					<dc:creator>Aled Jones</dc:creator>
+					<dc:creator>Anthony N. Lasenby</dc:creator>
+					<dc:subject>Physical Cosmology</dc:subject>
+					<dc:description>We present a brief review of current theory and observations of the cosmic microwave background (CMB). New predictions for cosmological defect theories and an overview of the inflationary theory are discussed. Recent results from various observations of the anisotropies of the microwave background are described and a summary of the proposed experiments is presented. A new analysis technique based on Bayesian statistics that can be used to reconstruct the underlying sky fluctuations is summarised. Current CMB data is used to set some preliminary constraints on the values of fundamental cosmological parameters $\Omega$ and $H_\circ$ using the maximum likelihood technique. In addition, secondary anisotropies due to the Sunyaev-Zel'dovich effect are described.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-1998-11</dc:identifier>
+					<dc:date>1998-09-30</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-1998-12</oai:identifier>
+				<oai:datestamp>1998-11-02</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Gravitational Lensing in Astronomy</dc:title>
+					<dc:creator>Joachim Wambsganss</dc:creator>
+					<dc:subject>Relativity in Astrophysics</dc:subject>
+					<dc:description>Deflection of light by gravity was predicted by General Relativity and observationally confirmed in 1919. In the following decades, various aspects of the gravitational lens effect were explored theoretically. Among them were: the possibility of multiple or ring-like images of background sources, the use of lensing as a gravitational telescope on very faint and distant objects, and the possibility of determining Hubble's constant with lensing. It is only relatively recently, (after the discovery of the first doubly imaged quasar in 1979), that gravitational lensing has became an observational science. Today lensing is a booming part of astrophysics.
+
+In addition to multiply-imaged quasars, a number of other aspects of lensing have been discovered: For example, giant luminous arcs, quasar microlensing, Einstein rings, galactic microlensing events, arclets, and weak gravitational lensing. At present, literally hundreds of individual gravitational lens phenomena are known.
+
+Although still in its childhood, lensing has established itself as a very useful astrophysical tool with some remarkable successes. It has contributed significant new results in areas as different as the cosmological distance scale, the large scale matter distribution in the universe, mass and mass distribution of galaxy clusters, the physics of quasars, dark matter in galaxy halos, and galaxy structure. Looking at these successes in the recent past we predict an even more luminous future for gravitational lensing.
+				</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-1998-12</dc:identifier>
+					<dc:date>1998-11-02</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-1998-13</oai:identifier>
+				<oai:datestamp>1998-12-15</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Discrete Approaches to Quantum Gravity in Four Dimensions</dc:title>
+					<dc:creator>Renate Loll</dc:creator>
+					<dc:subject>Quantum General Relativity</dc:subject>
+					<dc:description>The construction of a consistent theory of quantum gravity is a problem in theoretical physics that has so far defied all attempts at resolution. One ansatz to try to obtain a non-trivial quantum theory proceeds via a discretization of space-time and the Einstein action. I review here three major areas of research: gauge-theoretic approaches, both in a path-integral and a Hamiltonian formulation; quantum Regge calculus; and the method of dynamical triangulations, confining attention to work that is strictly four-dimensional, strictly discrete, and strictly quantum in nature.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-1998-13</dc:identifier>
+					<dc:date>1998-12-15</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-1999-1</oai:identifier>
+				<oai:datestamp>1999-06-14</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Speeds of Propagation in Classical and Relativistic Extended Thermodynamics</dc:title>
+					<dc:creator>Ingo Müller</dc:creator>
+					<dc:subject>Mathematical Relativity</dc:subject>
+					<dc:description>The Navier-Stokes-Fourier theory of viscous, heat-conducting fluids provides parabolic equations and thus predicts infinite pulse speeds. Naturally this feature has disqualified the theory for relativistic thermodynamics which must insist on finite speeds and, moreover, on speeds smaller than $c$. The attempts at a remedy have proved heuristically important for a new systematic type of thermodynamics: Extended thermodynamics. That new theory has symmetric hyperbolic field equations and thus it provides finite pulse speeds. Extended thermodynamics is a whole hierarchy of theories with an increasing number of fields when gradients and rates of thermodynamic processes become steeper and faster. The first stage in this hierarchy is the 14-field theory which may already be a useful tool for the relativist in many applications. The 14 fields -- and further fields -- are conveniently chosen from the moments of the kinetic theory of gases. The hierarchy is complete only when the number of fields tends to infinity. In that case the pulse speed of non-relativistic extended thermodynamics tends to infinity while the pulse speed of relativistic extended thermodynamics tends to $c$, the speed of light. In extended thermodynamics symmetric hyperbolicity -- and finite speeds -- are implied by the concavity of the entropy density. This is still true in relativistic thermodynamics for a privileged entropy density which is the entropy density of the rest frame for non-degenerate gases.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-1999-1</dc:identifier>
+					<dc:date>1999-06-14</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-1999-2</oai:identifier>
+				<oai:datestamp>1999-09-16</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Quasi-Normal Modes of Stars and Black Holes</dc:title>
+					<dc:creator>Kostas D. Kokkotas</dc:creator>
+					<dc:creator>Bernd Schmidt</dc:creator>
+					<dc:subject>Relativity in Astrophysics</dc:subject>
+					<dc:description>Perturbations of stars and black holes have been one of the main topics of relativistic astrophysics for the last few decades. They are of particular importance today, because of their relevance to gravitational wave astronomy. In this review we present the theory of quasi-normal modes of compact objects from both the mathematical and astrophysical points of view. The discussion includes perturbations of black holes (Schwarzschild, Reissner-Nordström, Kerr and Kerr-Newman) and relativistic stars (non-rotating and slowly-rotating). The properties of the various families of quasi-normal modes are described, and numerical techniques for calculating quasi-normal modes reviewed. The successes, as well as the limits, of perturbation theory are presented, and its role in the emerging era of numerical relativity and supercomputers is discussed.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-1999-2</dc:identifier>
+					<dc:date>1999-09-16</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-1999-4</oai:identifier>
+				<oai:datestamp>1999-12-22</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Critical Phenomena in Gravitational Collapse</dc:title>
+					<dc:creator>Carsten Gundlach</dc:creator>
+					<dc:subject>Numerical Relativity</dc:subject>
+					<dc:description>As first discovered by Choptuik, the black hole threshold in the space of initial data for general relativity shows both surprising structure and surprising simplicity. Universality, power-law scaling of the black hole mass, and scale echoing have given rise to the term "critical phenomena". They are explained by the existence of exact solutions which are attractors within the black hole threshold, that is, attractors of codimension one in phase space, and which are typically self-similar. This review gives an introduction to the phenomena, tries to summarize the essential features of what is happening, and then presents extensions and applications of this basic scenario. Critical phenomena are of interest particularly for creating surprising structure from simple equations, and for the light they throw on cosmic censorship and the generic dynamics of general relativity.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-1999-4</dc:identifier>
+					<dc:date>1999-12-22</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2000-3</oai:identifier>
+				<oai:datestamp>2000-06-29</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Gravitational Wave Detection by Interferometry (Ground and Space)</dc:title>
+					<dc:creator>Jim Hough</dc:creator>
+					<dc:creator>Sheila Rowan</dc:creator>
+					<dc:subject>Gravitational Waves</dc:subject>
+					<dc:description>Significant progress has been made in recent years on the development of gravitational wave detectors. Sources such as coalescing compact binary systems, low-mass X-ray binaries, stellar collapses and pulsars are all possible candidates for detection. The most promising design of gravitational wave detector uses test masses a long distance apart and freely suspended as pendulums on Earth or in drag-free craft in space. The main theme of this review is a discussion of the mechanical and optical principles used in the various long baseline systems being built around the world -- LIGO (USA), VIRGO (Italy/France), TAMA 300 (Japan) and GEO 600 (Germany/UK) -- and in LISA, a proposed space-borne interferometer.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2000-3</dc:identifier>
+					<dc:date>2000-06-29</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2000-5</oai:identifier>
+				<oai:datestamp>2000-11-14</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Initial Data for Numerical Relativity</dc:title>
+					<dc:creator>Greg Cook</dc:creator>
+					<dc:subject>Numerical Relativity</dc:subject>
+					<dc:description>Initial data are the starting point for any numerical simulation. In the case of numerical relativity, Einstein's equations constrain our choices of these initial data. We will examine several of the formalisms used for specifying Cauchy initial data in the $3\!+\!1$ decomposition of Einstein's equations. We will then explore how these formalisms have been used in constructing initial data for spacetimes containing black holes and neutron stars. In the topics discussed, emphasis is placed on those issues that are important for obtaining astrophysically realistic initial data for compact binary coalescence.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2000-5</dc:identifier>
+					<dc:date>2000-11-14</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2001-1</oai:identifier>
+				<oai:datestamp>2001-02-07</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>The Cosmological Constant</dc:title>
+					<dc:creator>Sean M. Carroll</dc:creator>
+					<dc:subject>Physical Cosmology</dc:subject>
+					<dc:description>This is a review of the physics and cosmology of the cosmological constant. Focusing on recent developments, I present a pedagogical overview of cosmology in the presence of a cosmological constant, observational constraints on its magnitude, and the physics of a small (and potentially nonzero) vacuum energy.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2001-1</dc:identifier>
+					<dc:date>2001-02-07</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2001-2</oai:identifier>
+				<oai:datestamp>2001-03-20</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Computational Cosmology: from the Early Universe to the Large Scale Structure</dc:title>
+					<dc:creator>Peter Anninos</dc:creator>
+					<dc:subject>Numerical Relativity</dc:subject>
+					<dc:description>In order to account for the observable Universe, any comprehensive theory or model of cosmology must draw from many disciplines of physics, including gauge theories of strong and weak interactions, the hydrodynamics and microphysics of baryonic matter, electromagnetic fields, and spacetime curvature, for example. Although it is difficult to incorporate all these physical elements into a single complete model of our Universe, advances in computing methods and technologies have contributed significantly towards our understanding of cosmological models, the Universe, and astrophysical processes within them. A sample of numerical calculations (and numerical methods) applied to specific issues in cosmology are reviewed in this article: from the Big Bang singularity dynamics to the fundamental interactions of gravitational waves; from the quark-hadron phase transition to the large scale structure of the Universe. The emphasis, although not exclusively, is on those calculations designed to test different models of cosmology against the observed Universe.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2001-2</dc:identifier>
+					<dc:date>2001-03-20</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2001-6</oai:identifier>
+				<oai:datestamp>2001-07-09</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>The Thermodynamics of Black Holes</dc:title>
+					<dc:creator>Robert M. Wald</dc:creator>
+					<dc:subject>Quantum General Relativity</dc:subject>
+					<dc:description>We review the present status of black hole thermodynamics. Our review includes discussion of classical black hole thermodynamics, Hawking radiation from black holes, the generalized second law, and the issue of entropy bounds. A brief survey also is given of approaches to the calculation of black hole entropy. We conclude with a discussion of some unresolved open issues.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2001-6</dc:identifier>
+					<dc:date>2001-07-09</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2002-1</oai:identifier>
+				<oai:datestamp>2002-01-14</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Numerical Approaches to Spacetime Singularities</dc:title>
+					<dc:creator>Beverly K. Berger</dc:creator>
+					<dc:subject>Numerical Relativity</dc:subject>
+					<dc:description>This Living Review updates a previous version which is itself an update of a review article. Numerical exploration of the properties of singularities could, in principle, yield detailed understanding of their nature in physically realistic cases. Examples of numerical investigations into the formation of naked singularities, critical behavior in collapse, passage through the Cauchy horizon, chaos of the Mixmaster singularity, and singularities in spatially inhomogeneous cosmologies are discussed.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2002-1</dc:identifier>
+					<dc:date>2002-01-14</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2002-4</oai:identifier>
+				<oai:datestamp>2002-07-23</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Experimental Searches for Dark Matter</dc:title>
+					<dc:creator>Timothy J. Sumner</dc:creator>
+					<dc:subject>Physical Cosmology</dc:subject>
+					<dc:description>There is now an enormously rich variety of experimental techniques being brought to bear on experimental searches for dark matter, covering a wide range of suggested forms for it. The existence of "dark matter", in some form or other, is inferred from a number of relatively simple observations and the problem has been known for over half a century. To explain "dark matter" is one of the foremost challenges today -- the answer will be of fundamental importance to cosmologists, astrophysicists, particle physicists, and general relativists. In this article, I will give a brief review of the observational evidence (concentrating on areas of current significant activity), followed by an equally brief summary of candidate solutions for the 'dark matter'. I will then discuss experimental searches, both direct and indirect. Finally, I will offer prospects for the future.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2002-4</dc:identifier>
+					<dc:date>2002-07-23</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2002-5</oai:identifier>
+				<oai:datestamp>2002-07-31</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Perturbative Quantum Gravity and its Relation to Gauge Theory</dc:title>
+					<dc:creator>Zvi Bern</dc:creator>
+					<dc:subject>Quantum General Relativity</dc:subject>
+					<dc:description>In this review we describe a non-trivial relationship between perturbative gauge theory and gravity scattering amplitudes. At the semi-classical or tree-level, the scattering amplitudes of gravity theories in flat space can be expressed as a sum of products of well defined pieces of gauge theory amplitudes. These relationships were first discovered by Kawai, Lewellen, and Tye in the context of string theory, but hold more generally. In particular, they hold for standard Einstein gravity. A method based on $D$-dimensional unitarity can then be used to systematically construct all quantum loop corrections order-by-order in perturbation theory using as input thegravity tree amplitudes expressed in terms of gauge theory ones. More generally, the unitarity method provides a means for perturbatively quantizing massless gravity theories without the usual formal apparatus associated with the quantization of constrained systems. As one application, this method was used to demonstrate that maximally supersymmetric gravity is less divergent in the ultraviolet than previously thought.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2002-5</dc:identifier>
+					<dc:date>2002-07-31</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2003-1</oai:identifier>
+				<oai:datestamp>2003-01-28</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Relativity in the Global Positioning System</dc:title>
+					<dc:creator>Neil Ashby</dc:creator>
+					<dc:subject>Experimental Foundations of Gravitation</dc:subject>
+					<dc:description>The Global Positioning System (GPS) uses accurate, stable atomic clocks in satellites and on the ground to provide world-wide position and time determination. These clocks have gravitational and motional frequency shifts which are so large that, without carefully accounting for numerous relativistic effects, the system would not work. This paper discusses the conceptual basis, founded on special and general relativity, for navigation using GPS. Relativistic principles and effects which must be considered include the constancy of the speed of light, the equivalence principle, the Sagnac effect, time dilation, gravitational frequency shifts, and relativity of synchronization. Experimental tests of relativity obtained with a GPS receiver aboard the TOPEX/POSEIDON satellite will be discussed. Recently frequency jumps arising from satellite orbit adjustments have been identified as relativistic effects. These will be explained and some interesting applications of GPS will be discussed.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2003-1</dc:identifier>
+					<dc:date>2003-01-28</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2003-2</oai:identifier>
+				<oai:datestamp>2003-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Gravitational Waves from Gravitational Collapse</dc:title>
+					<dc:creator>Chris L. Fryer</dc:creator>
+					<dc:creator>Kimberly C.B. New</dc:creator>
+					<dc:subject>Gravitational Waves</dc:subject>
+					<dc:description>Gravitational wave emission from stellar collapse has been studied for more than three decades. Current state-of-the-art numerical investigations of collapse include those that use progenitors with more realistic angular momentum profiles, properly treat microphysics issues, account for general relativity, and examine non-axisymmetric effects in three dimensions. Such simulations predict that gravitational waves from various phenomena associated with gravitational collapse could be detectable with ground-based and space-based interferometric observatories. This review covers the entire range of stellar collapse sources of gravitational waves: from the accretion induced collapse of a white dwarf through the collapse down to neutron stars or black holes of massive stars to the collapse of supermassive stars.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2003-2</dc:identifier>
+					<dc:date>2003-03-10</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2003-3</oai:identifier>
+				<oai:datestamp>2003-06-16</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Rotating Stars in Relativity</dc:title>
+					<dc:creator>Nikolaos Stergioulas</dc:creator>
+					<dc:subject>Relativity in Astrophysics</dc:subject>
+					<dc:description>Rotating relativistic stars have been studied extensively in recent years, both theoretically and observationally, because of the information they might yield about the equation of state of matter at extremely high densities and because they are considered to be promising sources of gravitational waves. The latest theoretical understanding of rotating stars in relativity is reviewed in this updated article. The sections on the equilibrium properties and on the nonaxisymmetric instabilities in f-modes and r-modes have been updated and several new sections have been added on analytic solutions for the exterior spacetime, rotating stars in LMXBs, rotating strange stars, and on rotating stars in numerical relativity.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2003-3</dc:identifier>
+					<dc:date>2003-06-16</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2003-4</oai:identifier>
+				<oai:datestamp>2003-08-19</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Numerical Hydrodynamics in General Relativity</dc:title>
+					<dc:creator>José A. Font</dc:creator>
+					<dc:subject>Numerical Relativity</dc:subject>
+					<dc:description>The current status of numerical solutions for the equations of ideal general relativistic hydrodynamics is reviewed. With respect to an earlier version of the article, the present update provides additional information on numerical schemes, and extends the discussion of astrophysical simulations in general relativistic hydrodynamics. Different formulations of the equations are presented, with special mention of conservative and hyperbolic formulations well-adapted to advanced numerical methods. A large sample of available numerical schemes is discussed, paying particular attention to solution procedures based on schemes exploiting the characteristic structure of the equations through linearized Riemann solvers. A comprehensive summary of astrophysical simulations in strong gravitational fields is presented. These include gravitational collapse, accretion onto black holes, and hydrodynamical evolutions of neutron stars. The material contained in these sections highlights the numerical challenges of various representative simulations. It also follows, to some extent, the chronological development of the field, concerning advances on the formulation of the gravitational field and hydrodynamic equations and the numerical methodology designed to solve them.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2003-4</dc:identifier>
+					<dc:date>2003-08-19</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2003-5</oai:identifier>
+				<oai:datestamp>2003-09-09</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Testing General Relativity with Pulsar Timing</dc:title>
+					<dc:creator>Ingrid H. Stairs</dc:creator>
+					<dc:subject>Experimental Foundations of Gravitation</dc:subject>
+					<dc:description>Pulsars of very different types, including isolated objects and binaries (with short- and long-period orbits, and white-dwarf and neutron-star companions) provide the means to test both the predictions of general relativity and the viability of alternate theories of gravity. This article presents an overview of pulsars, then discusses the current status of and future prospects for tests of equivalence-principle violations and strong-field gravitational experiments.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2003-5</dc:identifier>
+					<dc:date>2003-09-09</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2003-6</oai:identifier>
+				<oai:datestamp>2003-11-21</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Analytic Black Hole Perturbation Approach to Gravitational Radiation</dc:title>
+					<dc:creator>Misao Sasaki</dc:creator>
+					<dc:creator>Hideyuki Tagoshi</dc:creator>
+					<dc:subject>Gravitational Waves</dc:subject>
+					<dc:description>We review the analytic methods used to perform the post-Newtonian expansion of gravitational waves induced by a particle orbiting a massive, compact body, based on black hole perturbation theory. There exist two different methods of performing the post-Newtonian expansion. Both are based on the Teukolsky equation. In one method, the Teukolsky equation is transformed into a Regge-Wheeler type equation that reduces to the standard Klein-Gordon equation in the flat-space limit, while in the other method (which was introduced by Mano, Suzuki, and Takasugi relatively recently), the Teukolsky equation is used directly in its original form. The former's advantage is that it is intuitively easy to understand how various curved space effects come into play. However, it becomes increasingly complicated when one goes to higher and higher post-Newtonian orders. In contrast, the latter's advantage is that a systematic calculation to higher post-Newtonian orders can be implemented relatively easily, but otherwise, it is so mathematical that it is hard to understand the interplay of higher order terms. In this paper, we review both methods so that their pros and cons may be seen clearly. We also review some results of calculations of gravitational radiation emitted by a particle orbiting a black hole.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2003-6</dc:identifier>
+					<dc:date>2003-11-21</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2003-7</oai:identifier>
+				<oai:datestamp>2003-12-19</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Numerical Hydrodynamics in Special Relativity</dc:title>
+					<dc:creator>José Maria Martí</dc:creator>
+					<dc:creator>Ewald Müller</dc:creator>
+					<dc:subject>Numerical Relativity</dc:subject>
+					<dc:description>This review is concerned with a discussion of numerical methods for the solution of the equations of special relativistic hydrodynamics (SRHD). Particular emphasis is put on a comprehensive review of the application of high-resolution shock-capturing methods in SRHD. Results of a set of demanding test bench simulations obtained with different numerical SRHD methods are compared. Three applications (astrophysical jets, gamma-ray bursts and heavy ion collisions) of relativistic flows are discussed. An evaluation of various SRHD methods is presented, and future developments in SRHD are analyzed involving extension to general relativistic hydrodynamics and relativistic magneto-hydrodynamics. The review further provides FORTRAN programs to compute the exact solution of a 1D relativistic Riemann problem with zero and nonzero tangential velocities, and to simulate 1D relativistic flows in Cartesian Eulerian coordinates using the exact SRHD Riemann solver and PPM reconstruction.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2003-7</dc:identifier>
+					<dc:date>2003-12-19</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2004-1</oai:identifier>
+				<oai:datestamp>2004-02-02</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Conformal Infinity</dc:title>
+					<dc:creator>Jörg Frauendiener</dc:creator>
+					<dc:subject>Mathematical Relativity</dc:subject>
+					<dc:description> The notion of conformal infinity has a long history within the research in Einstein's theory of gravity. Today, "conformal infinity" is related to almost all other branches of research in general relativity, from quantisation procedures to abstract mathematical issues to numerical applications. This review article attempts to show how this concept gradually and inevitably evolved from physical issues, namely the need to understand gravitational radiation and isolated systems within the theory of gravitation, and how it lends itself very naturally to the solution of radiation problems in numerical relativity. The fundamental concept of null-infinity is introduced. Friedrich's regular conformal field equations are presented and various initial value problems for them are discussed. Finally, it is shown that the conformal field equations provide a very powerful method within numerical relativity to study global problems such as gravitational wave propagation and detection.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2004-1</dc:identifier>
+					<dc:date>2004-02-02</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2004-2</oai:identifier>
+				<oai:datestamp>2004-02-13</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>On the History of Unified Field Theories</dc:title>
+					<dc:creator>Hubert F.M. Goenner</dc:creator>
+					<dc:subject>History of Relativity</dc:subject>
+					<dc:description>This article is intended to give a review of the history of the classical aspects of unified field theories in the 20th century. It includes brief technical descriptions of the theories suggested, short biographical notes concerning the scientists involved, and an extensive bibliography. The present first installment covers the time span between 1914 and 1933, i.e., when Einstein was living and working in Berlin - with occasional digressions into other periods. Thus, the main theme is the unification of the electromagnetic and gravitational fields augmented by short-lived attempts to include the matter field described by Schrödinger's or Dirac's equations. While my focus lies on the conceptual development of the field, by also paying attention to the interaction of various schools of mathematicians with the research done by physicists, some prosopocraphical remarks are included.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2004-2</dc:identifier>
+					<dc:date>2004-02-13</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2004-3</oai:identifier>
+				<oai:datestamp>2004-03-11</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Stochastic Gravity: Theory and Applications</dc:title>
+					<dc:creator>Bei Lok Hu</dc:creator>
+					<dc:creator>Enric Verdaguer</dc:creator>
+					<dc:subject>Quantum General Relativity</dc:subject>
+					<dc:description>Whereas semiclassical gravity is based on the semiclassical Einstein equation with sources given by the expectation value of the stress-energy tensor of quantum fields, stochastic semiclassical gravity is based on the Einstein-Langevin equation, which has in addition sources due to the noise kernel. The noise kernel is the vacuum expectation value of the (operator-valued) stress-energy bi-tensor which describes the fluctuations of quantum matter fields in curved spacetimes. In the first part, we describe the fundamentals of this new theory via two approaches: the axiomatic and the functional. The axiomatic approach is useful to see the structure of the theory from the framework of semiclassical gravity, showing the link from the mean value of the stress-energy tensor to their correlation functions. The functional approach uses the Feynman-Vernon influence functional and the Schwinger-Keldysh closed-time-path effective action methods which are convenient for computations. It also brings out the open systems concepts and the statistical and stochastic contents of the theory such as dissipation, fluctuations, noise, and decoherence. We then focus on the properties of the stress-energy bi-tensor. We obtain a general expression for the noise kernel of a quantum field defined at two distinct points in an arbitrary curved spacetime as products of covariant derivatives of the quantum field's Green function. In the second part, we describe three applications of stochastic gravity theory. First, we consider metric perturbations in a Minkowski spacetime. We offer an analytical solution of the Einstein-Langevin equation and compute the two-point correlation functions for the linearized Einstein tensor and for the metric perturbations. Second, we discuss structure formation from the stochastic gravity viewpoint, which can go beyond the standard treatment by incorporating the full quantum effect of the inflaton fluctuations. Third, we discuss the backreaction of Hawking radiation in the gravitational background of a quasi-static black hole (enclosed in a box). We derive a fluctuation-dissipation relation between the fluctuations in the radiation and the dissipative dynamics of metric fluctuations.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2004-3</dc:identifier>
+					<dc:date>2004-03-11</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2004-4</oai:identifier>
+				<oai:datestamp>2004-03-16</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Quasi-Local Energy-Momentum and Angular Momentum in GR: A Review Article</dc:title>
+					<dc:creator>László B. Szabados</dc:creator>
+					<dc:subject>Mathematical Relativity</dc:subject>
+					<dc:description>The present status of the quasi-local mass-energy-momentum and angular momentum constructions in general relativity is reviewed. First the general ideas, concepts and strategies as well as the necessary tools to construct and analyze the quasi-local quantities are recalled. Then the various specific constructions and their properties (both successes and defects) are discussed. Finally, some of the (actual and potential) applications of the quasi-local concepts and specific constructions are briefly mentioned.
+
+This review is based on the talks given at the Erwin Schrödinger Institut, Vienna, in July 1997, at the Universität Tübingen, in May 1998 and at the National Center for Theoretical Sciences in Hsinchu and at the National Central University, Chungli, Taiwan, in July 2000.
+</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2004-4</dc:identifier>
+					<dc:date>2004-03-16</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2004-5</oai:identifier>
+				<oai:datestamp>2004-04-08</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Quantum Gravity in Everyday Life: General Relativity as an Effective Field Theory</dc:title>
+					<dc:creator>Cliff P. Burgess</dc:creator>
+					<dc:subject>Quantum General Relativity</dc:subject>
+					<dc:description>This article is meant as a summary and introduction to the ideas of effective field theory as applied to gravitational systems, ideas which provide the theoretical foundations for the modern use of general relativity as a theory from which precise predictions are possible.
+</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2004-5</dc:identifier>
+					<dc:date>2004-04-08</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2004-6</oai:identifier>
+				<oai:datestamp>2004-05-27</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>The Motion of Point Particles in Curved Spacetime</dc:title>
+					<dc:creator>Eric Poisson</dc:creator>
+					<dc:subject>Gravitational Waves</dc:subject>
+					<dc:description> This review is concerned with the motion of a point scalar charge, a point electric charge, and a point mass in a specified background spacetime. In each of the three cases the particle produces a field that behaves as outgoing radiation in the wave zone, and therefore removes energy from the particle. In the near zone the field acts on the particle and gives rise to a self-force that prevents the particle from moving on a geodesic of the background spacetime. The self-force contains both conservative and dissipative terms, and the latter are responsible for the radiation reaction. The work done by the self-force matches the energy radiated away by the particle.
+
+The field's action on the particle is difficult to calculate because of its singular nature: The field diverges at the position of the particle. But it is possible to isolate the field's singular part and show that it exerts no force on the particle -- its only effect is to contribute to the particle's inertia. What remains after subtraction is a smooth field that is fully responsible for the self-force. Because this field satisfies a homogeneous wave equation, it can be thought of as a free (radiative) field that interacts with the particle; it is this interaction that gives rise to the self-force.
+
+The mathematical tools required to derive the equations of motion of a point scalar charge, a point electric charge, and a point mass in a specified background spacetime are developed here from scratch. The review begins with a discussion of the basic theory of bitensors (Section 2). It then applies the theory to the construction of convenient coordinate systems to chart a neighbourhood of the particle's word line (Section 3). It continues with a thorough discussion of Green's functions in curved spacetime (Section 4). The review concludes with a detailed derivation of each of the three equations of motion (Section 5).</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2004-6</dc:identifier>
+					<dc:date>2004-05-27</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2004-7</oai:identifier>
+				<oai:datestamp>2004-06-21</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Brane-World Gravity</dc:title>
+					<dc:creator>Roy Maartens</dc:creator>
+					<dc:subject>String Theory and Gravitation</dc:subject>
+					<dc:description>The observable universe could be a 1+3-surface (the "brane") embedded in a 1+3+$d$-dimensional spacetime (the "bulk"), with Standard Model particles and fields trapped on the brane while gravity is free to access the bulk. At least one of the $d$ extra spatial dimensions could be very large relative to the Planck scale, which lowers the fundamental gravity scale, possibly even down to the electroweak ($\sim$TeV) level. This revolutionary picture arises in the framework of recent developments in M theory. The 1+10-dimensional M theory encompasses the known 1+9-dimensional superstring theories, and is widely considered to be a promising potential route to quantum gravity. General relativity cannot describe gravity at high enough energies and must be replaced by a quantum gravity theory, picking up significant corrections as the fundamental energy scale is approached. At low energies, gravity is localized at the brane and general relativity is recovered, but at high energies gravity "leaks" into the bulk, behaving in a truly higher-dimensional way. This introduces significant changes to gravitational dynamics and perturbations, with interesting and potentially testable implications for high-energy astrophysics, black holes and cosmology. Brane-world models offer a phenomenological way to test some of the novel predictions and corrections to general relativity that are implied by M theory. This review discusses the geometry, dynamics and perturbations of simple brane-world models for cosmology and astrophysics, mainly focusing on warped 5-dimensional brane-worlds based on the Randall-Sundrum models.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2004-7</dc:identifier>
+					<dc:date>2004-06-21</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2004-8</oai:identifier>
+				<oai:datestamp>2004-07-16</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Measuring our Universe from Galaxy Redshift Surveys</dc:title>
+					<dc:creator>Ofer Lahav</dc:creator>
+					<dc:creator>Yasushi Suto</dc:creator>
+					<dc:subject>Physical Cosmology</dc:subject>
+					<dc:description>Galaxy redshift surveys have achieved significant progress over the last couple of decades. Those surveys tell us in the most straightforward way what our local Universe looks like. While the galaxy distribution traces the bright side of the Universe, detailed quantitative analyses of the data have even revealed the dark side of the Universe dominated by non-baryonic dark matter as well as more mysterious dark energy (or Einstein's cosmological constant). We describe several methodologies of using galaxy redshift surveys as cosmological probes, and then summarize the recent results from the existing surveys. Finally we present our views on the future of redshift surveys in the era of precision cosmology.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2004-8</dc:identifier>
+					<dc:date>2004-07-16</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2004-9</oai:identifier>
+				<oai:datestamp>2004-09-17</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Gravitational Lensing from a Spacetime Perspective</dc:title>
+					<dc:creator>Volker Perlick</dc:creator>
+					<dc:subject>Mathematical Relativity</dc:subject>
+					<dc:description>The theory of gravitational lensing is reviewed from a spacetime perspective, without quasi-Newtonian approximations. More precisely, the review covers all aspects of gravitational lensing where light propagation is described in terms of lightlike geodesics of a metric of Lorentzian signature. It includes the basic equations and the relevant techniques for calculating the position, the shape, and the brightness of images in an arbitrary general-relativistic spacetime. It also includes general theorems on the classification of caustics, on criteria for multiple imaging, and on the possible number of images. The general results are illustrated with examples of spacetimes where the lensing features can be explicitly calculated, including the Schwarzschild spacetime, the Kerr spacetime, the spacetime of a straight string, plane gravitational waves, and others.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2004-9</dc:identifier>
+					<dc:date>2004-09-17</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2004-10</oai:identifier>
+				<oai:datestamp>2004-12-15</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Isolated and Dynamical Horizons and Their Applications</dc:title>
+					<dc:creator>Abhay Ashtekar</dc:creator>
+					<dc:creator>Badri Krishnan</dc:creator>
+					<dc:subject>Mathematical Relativity</dc:subject>
+					<dc:description>Over the past three decades, black holes have played an important role in quantum gravity, mathematical physics, numerical relativity and gravitational wave phenomenology. However, conceptual settings and mathematical models used to discuss them have varied considerably from one area to another. Over the last five years a new, quasi-local framework was introduced to analyze diverse facets of black holes in a unified manner. In this framework, evolving black holes are modelled by dynamical horizons and black holes in equilibrium by isolated horizons. We review basic properties of these horizons and summarize applications to mathematical physics, numerical relativity, and quantum gravity. This paradigm has led to significant generalizations of several results in black hole physics. Specifically, it has introduced a more physical setting for black hole thermodynamics and for black hole entropy calculations in quantum gravity, suggested a phenomenological model for hairy black holes, provided novel techniques to extract physics from numerical simulations, and led to new laws governing the dynamics of black holes in exact general relativity.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2004-10</dc:identifier>
+					<dc:date>2004-12-15</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2005-1</oai:identifier>
+				<oai:datestamp>2005-01-24</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Quantum Gravity in 2+1 Dimensions: The Case of a Closed Universe</dc:title>
+					<dc:creator>Steven Carlip</dc:creator>
+					<dc:subject>Quantum General Relativity</dc:subject>
+					<dc:description>In three spacetime dimensions, general relativity drastically simplifies, becoming a ``topological'' theory with no propagating local degrees of freedom. Nevertheless, many of the difficult conceptual problems of quantizing gravity are still present. In this review, I summarize the rather large body of work that has gone towards quantizing (2+1)-dimensional vacuum gravity in the setting of a spatially closed universe. </dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2005-1</dc:identifier>
+					<dc:date>2005-01-24</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2005-2</oai:identifier>
+				<oai:datestamp>2005-03-18</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>The Einstein-Vlasov System/Kinetic Theory</dc:title>
+					<dc:creator>Håkan Andréasson</dc:creator>
+					<dc:subject>Mathematical Relativity</dc:subject>
+					<dc:description>The main purpose of this article is to provide a guide to theorems on global properties of solutions to the Einstein-Vlasov system. This system couples Einstein’s equations to a kinetic matter model. Kinetic theory has been an important field of research during several decades in which the main focus has been on nonrelativistic and special relativistic physics, i.e. to model the dynamics of neutral gases, plasmas, and Newtonian self-gravitating systems. In 1990, Rendall and Rein initiated a mathematical study of the Einstein-Vlasov system. Since then many theorems on global properties of solutions to this system have been established. The Vlasov equation describes matter phenomenologically, and it should be stressed that most of the theorems presented in this article are not presently known for other such matter models (i.e. fluid models). This paper gives introductions to kinetic theory in non-curved spacetimes and then the Einstein-Vlasov system is introduced. We believe that a good understanding of kinetic theory in non-curved spacetimes is fundamental to good comprehension of kinetic theory in general relativity. </dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2005-2</dc:identifier>
+					<dc:date>2005-03-18</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2005-3</oai:identifier>
+				<oai:datestamp>2005-03-21</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Gravitational-Wave Data Analysis. Formalism and Sample Applications: The Gaussian Case</dc:title>
+					<dc:creator>Piotr Jaranowski</dc:creator>
+					<dc:creator>Andrzej Królak</dc:creator>
+					<dc:subject>Gravitational Waves</dc:subject>
+					<dc:description>The article reviews the statistical theory of signal detection in application to analysis of deterministic gravitational-wave signals in the noise of a detector. Statistical foundations for the theory of signal detection and parameter estimation are presented. Several tools needed for both theoretical evaluation of the optimal data analysis methods and for their practical implementation are introduced. They include optimal signal-to-noise ratio, Fisher matrix, false alarm and detection probabilities, F-statistic, template placement, and fitting factor. These tools apply to the case of signals buried in a stationary and Gaussian noise. Algorithms to efficiently implement the optimal data analysis techniques are discussed. Formulas are given for a general gravitational-wave signal that includes as special cases most of the deterministic signals of interest.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2005-3</dc:identifier>
+					<dc:date>2005-03-21</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2005-4</oai:identifier>
+				<oai:datestamp>2005-07-15</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Time-Delay Interferometry</dc:title>
+					<dc:creator>Sanjeev V. Dhurandhar</dc:creator>
+					<dc:creator>Massimo Tinto</dc:creator>
+					<dc:subject>Gravitational Waves</dc:subject>
+					<dc:description>Equal-arm interferometric detectors of gravitational radiation allow phase measurements many orders of magnitude below the intrinsic phase stability of the laser injecting light into their arms. This is because the noise in the laser light is common to both arms, experiencing exactly the same delay, and thus cancels when it is differenced at the photo detector. In this situation, much lower level secondary noises then set the overall performance. If, however, the two arms have different lengths (as will necessarily be the case with space-borne interferometers), the laser noise experiences different delays in the two arms and will hence not directly cancel at the detector. In order to solve this problem, a technique involving heterodyne interferometry with unequal arm lengths and independent phase-difference readouts has been proposed. It relies on properly time-shifting and linearly combining independent Doppler measurements, and for this reason it has been called Time-Delay Interferometry (TDI). This article provides an overview of the theory and mathematical foundations of TDI as it will be implemented by the forthcoming space-based interferometers such as the Laser Interferometer Space Antenna (LISA) mission. We have purposely left out from this first version of our "Living Review" article on TDI all the results of more practical and experimental nature, as well as all the aspects of TDI that the data analysts will need to account for when analyzing the LISA TDI data combinations. Our forthcoming "second edition" of this review paper will include these topics.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2005-4</dc:identifier>
+					<dc:date>2005-07-15</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2005-5</oai:identifier>
+				<oai:datestamp>2005-09-07</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Modern Tests of Lorentz Invariance</dc:title>
+					<dc:creator>David Mattingly</dc:creator>
+					<dc:subject>Experimental Foundations of Gravitation</dc:subject>
+					<dc:description>Motivated by ideas about quantum gravity, a tremendous amount of effort over the past decade has gone into testing Lorentz invariance in various regimes. This review summarizes both the theoretical frameworks for tests of Lorentz invariance and experimental advances that have made new high precision tests possible. The current constraints on Lorentz violating effects from both terrestrial experiments and astrophysical observations are presented.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2005-5</dc:identifier>
+					<dc:date>2005-09-07</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2005-6</oai:identifier>
+				<oai:datestamp>2005-10-18</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Theorems on Existence and Global Dynamics for the Einstein Equations</dc:title>
+					<dc:creator>Alan D. Rendall</dc:creator>
+					<dc:subject>Mathematical Relativity</dc:subject>
+					<dc:description>This article is a guide to theorems on existence and global dynamics of solutions of the Einstein equations. It draws attention to open questions in the field. The local-in-time Cauchy problem, which is relatively well understood, is surveyed. Global results for solutions with various types of symmetry are discussed. A selection of results from Newtonian theory and special relativity that offer useful comparisons is presented. Treatments of global results in the case of small data and results on constructing spacetimes with prescribed singularity structure or late-time asymptotics are given. A conjectural picture of the asymptotic behaviour of general cosmological solutions of the Einstein equations is built up. Some miscellaneous topics connected with the main theme are collected in a separate section.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2005-6</dc:identifier>
+					<dc:date>2005-10-18</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2005-7</oai:identifier>
+				<oai:datestamp>2005-11-09</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Binary and Millisecond Pulsars</dc:title>
+					<dc:creator>Duncan R. Lorimer</dc:creator>
+					<dc:subject>Relativity in Astrophysics</dc:subject>
+					<dc:description>We review the main properties, demographics and applications of binary and millisecond radio pulsars. Our knowledge of these exciting objects has greatly increased in recent years, mainly due to successful surveys which have brought the known pulsar population to over 1700. There are now 80 binary and millisecond pulsars associated with the disk of our Galaxy, and a further 103 pulsars in 24 of the Galactic globular clusters. Recent highlights have been the discovery of the first ever double pulsar system and a recent flurry of discoveries in globular clusters, in particular Terzan 5.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2005-7</dc:identifier>
+					<dc:date>2005-11-09</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2005-8</oai:identifier>
+				<oai:datestamp>2005-11-22</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Massive Black Hole Binary Evolution</dc:title>
+					<dc:creator>David Merritt</dc:creator>
+					<dc:creator>Miloš Milosavljević</dc:creator>
+					<dc:subject>Relativity in Astrophysics</dc:subject>
+					<dc:description>Coalescence of binary supermassive black holes (SBHs) would constitute the strongest sources of gravitational waves to be observed by LISA. While the formation of binary SBHs during galaxy mergers is almost inevitable, coalescence requires that the separation between binary components first drop by a few orders of magnitude, due presumably to interaction of the binary with stars and gas in a galactic nucleus. This article reviews the observational evidence for binary SBHs and discusses how they would evolve. No completely convincing case of a bound, binary SBH has yet been found, although a handful of systems (e.g. interacting galaxies; remnants of galaxy mergers) are now believed to contain two SBHs at projected separations of &amp;lt;~ 1kpc. N-body studies of binary evolution in gas-free galaxies have reached large enough particle numbers to reproduce the slow, “diffusive” refilling of the binary’s loss cone that is believed to characterize binary evolution in real galactic nuclei. While some of the results of these simulations - e.g. the binary hardening rate and eccentricity evolution - are strongly N-dependent, others - e.g. the “damage” inflicted by the binary on the nucleus - are not. Luminous early-type galaxies often exhibit depleted cores with masses of ~ 1-2 times the mass of their nuclear SBHs, consistent with the predictions of the binary model. Studies of the interaction of massive binaries with gas are still in their infancy, although much progress is expected in the near future. Binary coalescence has a large influence on the spins of SBHs, even for mass ratios as extreme as 10:1, and evidence of spin-flips may have been observed.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2005-8</dc:identifier>
+					<dc:date>2005-11-22</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2005-9</oai:identifier>
+				<oai:datestamp>2005-11-30</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Spinning Strings and Integrable Spin Chains in the AdS/CFT Correspondence</dc:title>
+					<dc:creator>Jan Plefka</dc:creator>
+					<dc:subject>String Theory and Gravitation</dc:subject>
+					<dc:description>In this introductory review we discuss dynamical tests of the AdS_5 × S^5 string/N = 4 Super Yang-Mills duality. After a brief introduction to AdS/CFT, we argue that semiclassical string energies yield information on the quantum spectrum of the string in the limit of large angular momenta on the S^5. The energies of the folded and circular spinning string solutions rotating on a S^3 within the S^5 are derived, which yield all-loop predictions for the dual gauge theory scaling dimensions. These follow from the eigenvalues of the dilatation operator of N = 4 Super Yang-Mills in a minimal SU(2) subsector, and we display its reformulation in terms of a Heisenberg s = 1/2 spin chain along with the coordinate Bethe ansatz for its explicit diagonalization. In order to make contact to the spinning string energies, we then study the thermodynamic limit of the one-loop gauge theory Bethe equations and demonstrate the matching with the folded and closed string result at this loop order. Finally, the known gauge theory results at higher-loop orders are reviewed and the associated long-range spin chain Bethe ansatz is introduced, leading to an asymptotic all-loop conjecture for the gauge theory Bethe equations. This uncovers discrepancies at the three-loop order between gauge theory scaling dimensions and string theory energies, and the implications of this are discussed. Along the way, we comment on further developments and generalizations of the subject and point to the relevant literature.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2005-9</dc:identifier>
+					<dc:date>2005-11-30</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2005-10</oai:identifier>
+				<oai:datestamp>2005-12-08</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Characteristic Evolution and Matching</dc:title>
+					<dc:creator>Jeffrey Winicour</dc:creator>
+					<dc:subject>Numerical Relativity</dc:subject>
+					<dc:description>I review the development of numerical evolution codes for general relativity based upon the characteristic initial value problem. Progress is traced from the early stage of 1D feasibility studies to 2D axisymmetric codes that accurately simulate the oscillations and gravitational collapse of relativistic stars and to current 3D codes that provide pieces of a binary black hole spacetime. A prime application of characteristic evolution is to compute waveforms via Cauchy-characteristic matching, which is also reviewed.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2005-10</dc:identifier>
+					<dc:date>2005-12-08</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2005-11</oai:identifier>
+				<oai:datestamp>2005-12-08</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Loop Quantum Cosmology</dc:title>
+					<dc:creator>Martin Bojowald</dc:creator>
+					<dc:subject>Quantum General Relativity</dc:subject>
+					<dc:description>Quantum gravity is expected to be necessary in order to understand situations where classical general relativity breaks down. In particular in cosmology one has to deal with initial singularities, i.e., the fact that the backward evolution of a classical space-time inevitably comes to an end after a finite amount of proper time. This presents a breakdown of the classical picture and requires an extended theory for a meaningful description. Since small length scales and high curvatures are involved, quantum effects must play a role. Not only the singularity itself but also the surrounding space-time is then modified. One particular realization is loop quantum cosmology, an application of loop quantum gravity to homogeneous systems, which removes classical singularities. Its implications can be studied at different levels. Main effects are introduced into effective classical equations which allow to avoid interpretational problems of quantum theory. They give rise to new kinds of early universe phenomenology with applications to inflation and cyclic models. To resolve classical singularities and to understand the structure of geometry around them, the quantum description is necessary. Classical evolution is then replaced by a difference equation for a wave function which allows to extend space-time beyond classical singularities. One main question is how these homogeneous scenarios are related to full loop quantum gravity, which can be dealt with at the level of distributional symmetric states. Finally, the new structure of space-time arising in loop quantum gravity and its application to cosmology sheds new light on more general issues such as time.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2005-11</dc:identifier>
+					<dc:date>2005-12-08</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2005-12</oai:identifier>
+				<oai:datestamp>2005-12-16</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Analogue Gravity</dc:title>
+					<dc:creator>Carlos Barceló</dc:creator>
+					<dc:creator>Stefano Liberati</dc:creator>
+					<dc:creator>Matt Visser</dc:creator>
+					<dc:subject>Experimental Foundations of Gravitation</dc:subject>
+					<dc:description>Analogue models of (and for) gravity have a long and distinguished history dating back to the earliest years of general relativity. In this review article we will discuss the history, aims, results, and future prospects for the various analogue models. We start the discussion by presenting a particularly simple example of an analogue model, before exploring the rich history and complex tapestry of models discussed in the literature. The last decade in particular has seen a remarkable and sustained development of analogue gravity ideas, leading to some hundreds of published articles, a workshop, two books, and this review article. Future prospects for the analogue gravity programme also look promising, both on the experimental front (where technology is rapidly advancing) and on the theoretical front (where variants of analogue models can be used as a springboard for radical attacks on the problem of quantum gravity).</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2005-12</dc:identifier>
+					<dc:date>2005-12-16</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2006-1</oai:identifier>
+				<oai:datestamp>2006-01-24</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Low-Frequency Gravitational Wave Searches Using Spacecraft Doppler Tracking</dc:title>
+					<dc:creator>John W. Armstrong</dc:creator>
+					<dc:subject>Gravitational Waves</dc:subject>
+					<dc:description>This paper discusses spacecraft Doppler tracking, the current-generation detector technology used in the low-frequency (~millihertz) gravitational wave band. In the Doppler method the earth and a distant spacecraft act as free test masses with a ground-based precision Doppler tracking system continuously monitoring the earth-spacecraft relative dimensionless velocity $2 \Delta v/c = \Delta \nu/\nu_0$, where $\Delta \nu$ is the Doppler shift and $\nu_0$ is the radio link carrier frequency. A gravitational wave having strain amplitude $h$ incident on the earth-spacecraft system causes perturbations of order $h$ in the time series of $\Delta \nu/\nu_0$. Unlike other detectors, the ~1-10 AU earth-spacecraft separation makes the detector large compared with millihertz-band gravitational wavelengths, and thus times-of-flight of signals and radio waves through the apparatus are important. A burst signal, for example, is time-resolved into a characteristic signature: three discrete events in the Doppler time series. I discuss here the principles of operation of this detector (emphasizing transfer functions of gravitational wave signals and the principal noises to the Doppler time series), some data analysis techniques, experiments to date, and illustrations of sensitivity and current detector performance. I conclude with a discussion of how gravitational wave sensitivity can be improved in the low-frequency band.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2006-1</dc:identifier>
+					<dc:date>2006-01-24</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2006-2</oai:identifier>
+				<oai:datestamp>2006-02-07</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Relativistic Binaries in Globular Clusters</dc:title>
+					<dc:creator>Matthew J. Benacquista</dc:creator>
+					<dc:subject>Relativity in Astrophysics</dc:subject>
+					<dc:description>The galactic population of globular clusters are old, dense star systems, with a typical cluster containing 10^4 - 10^7 stars. As an old population of stars, globular clusters contain many collapsed and degenerate objects. As a dense population of stars, globular clusters are the scene of many interesting close dynamical interactions between stars. These dynamical interactions can alter the evolution of individual stars and can produce tight binary systems containing one or two compact objects. In this review, we discuss the theoretical models of globular cluster evolution and binary evolution, techniques for simulating this evolution which lead to relativistic binaries, and current and possible future observational evidence for this population. Globular cluster evolution will focus on the properties that boost the production of hard binary systems and on the tidal interactions of the galaxy with the cluster, which tend to alter the structure of the globular cluster with time. The interaction of the components of hard binary systems alters the evolution of both bodies and can lead to exotic objects. Direct N-body integrations and Fokker-Planck simulations of the evolution of globular clusters that incorporate tidal interactions and lead to predictions of relativistic binary populations are also discussed. We discuss the current observational evidence for cataclysmic variables, millisecond pulsars, and low-mass X-ray binaries as well as possible future detection of relativistic binaries with gravitational radiation.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2006-2</dc:identifier>
+					<dc:date>2006-02-07</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2006-3</oai:identifier>
+				<oai:datestamp>2006-03-27</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>The Confrontation between General Relativity and Experiment</dc:title>
+					<dc:creator>Clifford M. Will</dc:creator>
+					<dc:subject>Experimental Foundations of Gravitation</dc:subject>
+					<dc:description>The status of experimental tests of general relativity and of theoretical frameworks for analyzing them is reviewed. Einstein’s equivalence principle (EEP) is well supported by experiments such as the Eötvös experiment, tests of special relativity, and the gravitational redshift experiment. Ongoing tests of EEP and of the inverse square law are searching for new interactions arising from unification or quantum gravity. Tests of general relativity at the post-Newtonian level have reached high precision, including the light deflection, the Shapiro time delay, the perihelion advance of Mercury, and the Nordtvedt effect in lunar motion. Gravitational wave damping has been detected in an amount that agrees with general relativity to better than half a percent using the Hulse-Taylor binary pulsar, and other binary pulsar systems have yielded other tests, especially of strong-field effects. When direct observation of gravitational radiation from astrophysical sources begins, new tests of general relativity will be possible.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2006-3</dc:identifier>
+					<dc:date>2006-03-27</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:livingreviews.org:lrr-2006-4</oai:identifier>
+				<oai:datestamp>2006-06-01</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository/ http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+					<dc:title>Gravitational Radiation from Post-Newtonian Sources and Inspiralling Compact Binaries</dc:title>
+					<dc:creator>Luc Blanchet</dc:creator>
+					<dc:subject>Gravitational Waves</dc:subject>
+					<dc:description>The article reviews the current status of a theoretical approach to the problem of the emission of gravitational waves by isolated systems in the context of general relativity. Part A of the article deals with general post-Newtonian sources. The exterior field of the source is investigated by means of a combination of analytic post-Minkowskian and multipolar approximations. The physical observables in the far-zone of the source are described by a specific set of radiative multipole moments. By matching the exterior solution to the metric of the post-Newtonian source in the near-zone we obtain the explicit expressions of the source multipole moments. The relationships between the radiative and source moments involve many non-linear multipole interactions, among them those associated with the tails (and tails-of-tails) of gravitational waves. Part B of the article is devoted to the application to compact binary systems. We present the equations of binary motion, and the associated Lagrangian and Hamiltonian, at the third post-Newtonian (3PN) order beyond the Newtonian acceleration. The gravitational-wave energy flux, taking consistently into account the relativistic corrections in the binary moments as well as the various tail effects, is derived through 3.5PN order with respect to the quadrupole formalism. The binary's orbital phase, whose prior knowledge is crucial for searching and analyzing the signals from inspiralling compact binaries, is deduced from an energy balance argument.</dc:description>
+					<dc:identifier>http://www.livingreviews.org/lrr-2006-4</dc:identifier>
+					<dc:date>2006-06-01</dc:date>
+					<dc:rights>Max Planck Society and the author(s)</dc:rights>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+	</ListRecords>
+</Repository>

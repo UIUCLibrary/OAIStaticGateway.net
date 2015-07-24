@@ -1,0 +1,1839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository xsi:schemaLocation=" http://www.openarchives.org/OAI/2.0/static-repository http://www.openarchives.org/OAI/2.0/static-repository.xsd" xmlns="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Identify>
+		<oai:repositoryName>Folkstreams repository</oai:repositoryName>
+		<oai:baseURL>http://imlsdcc.grainger.uiuc.edu/gateway/oai.asp/www.folkstreams.net/oai/static_repository.xml</oai:baseURL>
+		<oai:protocolVersion>2.0</oai:protocolVersion>
+		<oai:adminEmail>yugen@unc.edu</oai:adminEmail>
+		<oai:earliestDatestamp>2002-09-19</oai:earliestDatestamp>
+		<oai:deletedRecord>no</oai:deletedRecord>
+		<oai:granularity>YYYY-MM-DD</oai:granularity>
+	</Identify>
+	<ListMetadataFormats>
+		<oai:metadataFormat>
+			<oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+			<oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+			<oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+		</oai:metadataFormat>
+	</ListMetadataFormats>
+	<ListRecords metadataPrefix="oai_dc">
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:101</oai:identifier>
+				<oai:datestamp>2006-11-14</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Gandy Dancers</dc:title>
+					<dc:creator>Barry Dornfeld</dc:creator>
+					<dc:creator>Maggie Holtzberg-Call</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Work</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             Musical traditions and recollections of eight retired African-American railroad track laborers whose occupational folk songs were once heard on railroads that crisscross the South. 
+          </dc:description>
+					<dc:date>1994-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,101</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:104</oai:identifier>
+				<oai:datestamp>2006-03-28</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Kathleen Ware, Quiltmaker</dc:title>
+					<dc:creator>Sharon R. Sherman</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:subject>Women</dc:subject>
+					<dc:subject>Aging</dc:subject>
+					<dc:description>
+             From the placing of an order to the completion of the last stitch, the film details the entire process of creating a traditional Lone Star quilt.  As the quilt grows, so does our knowledge of Kathleen Ware's vibrant spirit as quiltmaker, wife, mother, and grandmother.  A film by Sharon Sherman.
+          </dc:description>
+					<dc:date>1979-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,104</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:108</oai:identifier>
+				<oai:datestamp>2006-06-27</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Two Homes, One Heart</dc:title>
+					<dc:creator>Joyce Middlebrook</dc:creator>
+					<dc:subject>Customs</dc:subject>
+					<dc:subject>Dance</dc:subject>
+					<dc:subject>Ethnic &amp; Immigrant Cultures</dc:subject>
+					<dc:subject>Festivals/Customs</dc:subject>
+					<dc:description>
+             Sikhs in Northern California celebrate special events with Giddha and Bhangra, songs and dances from their native land, Punjab, India.
+          </dc:description>
+					<dc:date>1992-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,108</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:112</oai:identifier>
+				<oai:datestamp>2007-03-31</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Home Movie</dc:title>
+					<dc:creator>Steven Zeitlin</dc:creator>
+					<dc:creator>Ernst Edward Star</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:subject>Customs</dc:subject>
+					<dc:subject>Family</dc:subject>
+					<dc:description>
+             This 1974 documentary produced in the era before video cameras chronicles the tradition of home movies in American family folklore.  It explores the common themes in family films, and features three individual families as they watch their home movies, suggesting how these documents structure
+family memory.
+          </dc:description>
+					<dc:date>1975-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,112</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:113</oai:identifier>
+				<oai:datestamp>2006-07-14</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Salamanders</dc:title>
+					<dc:creator>George Hornbein</dc:creator>
+					<dc:creator>Kenneth Thigpen</dc:creator>
+					<dc:creator>Marie Hornbein</dc:creator>
+					<dc:creator>Tom Keiter</dc:creator>
+					<dc:subject>Customs</dc:subject>
+					<dc:subject>Festivals/Customs</dc:subject>
+					<dc:subject>Play</dc:subject>
+					<dc:description>
+              An annual, weekend party at a college fraternity, which includes swallowing live salamanders develops into a competition among coeds that has sexual overtones.  A George Hornbein/Ken Thigpen film.
+          </dc:description>
+					<dc:date>1982-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,113</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:117</oai:identifier>
+				<oai:datestamp>2005-11-09</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Rattlesnakes</dc:title>
+					<dc:creator>George Hornbein</dc:creator>
+					<dc:creator>Kenneth Thigpen</dc:creator>
+					<dc:subject>Festivals/Customs</dc:subject>
+					<dc:subject>Play</dc:subject>
+					<dc:subject>Rural Life</dc:subject>
+					<dc:subject>Sports/Hunting</dc:subject>
+					<dc:description>
+             The annual rattlesnake bagging contest at this tiny Appalachian festival includes a parade, a fair, firefighters' contests, and a greased pig chase.  A George Hornbein/Ken Thigpen film.
+          </dc:description>
+					<dc:date>1992-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,117</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:120</oai:identifier>
+				<oai:datestamp>2007-01-21</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Madison County Project</dc:title>
+					<dc:creator>Rob Roberts</dc:creator>
+					<dc:creator>Martha King</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Women</dc:subject>
+					<dc:subject>Regional</dc:subject>
+					<dc:description>
+             Madison County Project: Documenting the Sound examines the tradition of unaccompanied ballad singing in Madison County, North Carolina and how both documentary work and the power of family and community have influenced that tradition. 
+          </dc:description>
+					<dc:date>2005-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,120</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:75</oai:identifier>
+				<oai:datestamp>2005-09-23</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Mosquitoes and High Water</dc:title>
+					<dc:creator>Andrew Kolker</dc:creator>
+					<dc:creator>Louis Alvarez</dc:creator>
+					<dc:subject>Agriculture</dc:subject>
+					<dc:description>
+             A video examining the unique history and culture of one of America's least known ethnic groups, the Spanish-speaking "Islenos" who live in the bayous east of New Orleans and are celebrated for their tradition of decimas -- long, descriptive ballads about events in their lives or notorious local characters. A film by Louis Alvarez and Andrew Kolker.
+          </dc:description>
+					<dc:date>1983-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,75</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:1</oai:identifier>
+				<oai:datestamp>2004-01-01</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Born for Hard Luck</dc:title>
+					<dc:creator>Tom Davenport</dc:creator>
+					<dc:subject>Healing &amp; Medicine</dc:subject>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Narrative &amp; Verbal Arts</dc:subject>
+					<dc:subject>Aging</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             A film portrait of the last Black medicine-show performer, Arthur "Peg Leg Sam" Jackson, with harmonica songs, tales of hoboing, buckdances, and a live medicine-show performance.  A joint production of Tom Davenport Films and the Curriculum in Folklore at UNC-Chapel Hill.
+          </dc:description>
+					<dc:date>1976-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,1</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:2</oai:identifier>
+				<oai:datestamp>2006-12-29</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>A Singing Stream</dc:title>
+					<dc:creator>Tom Davenport</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Religion</dc:subject>
+					<dc:subject>Women</dc:subject>
+					<dc:subject>Family</dc:subject>
+					<dc:subject>Aging</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             The story of a gifted African American family from the rural South. With interviews and stories, and scenes from daily life, reunions, gospel concerts, and church services, the film traces the history of the Landis family of Granville County, North Carolina, over the lifetime of its oldest surviving member, 86-year-old Mrs. Bertha M. Landis.
+          </dc:description>
+					<dc:date>1986-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,2</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:40</oai:identifier>
+				<oai:datestamp>2007-01-04</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>The Popovich Brothers of South Chicago</dc:title>
+					<dc:creator>Jill Godmilow</dc:creator>
+					<dc:creator>Ethel Raim</dc:creator>
+					<dc:creator>Martin Koenig</dc:creator>
+					<dc:subject>Ethnic &amp; Immigrant Cultures</dc:subject>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Family</dc:subject>
+					<dc:description>
+             Filmmaker Jill Godmilow (with folklorists Ethel Raim and Martin Koenig) made this film in 1977 when there was a community of 1100 Serbian-Americans families in South Chicago. They worked in steel mills, drove trucks, taught school, played tennis and golf, watched television, and went to church on Sunday. But what connected them to their family, church and community and provided the deepest expression of their identity was their traditional Serbian music and the Popovich Brothers were a constant source of that music.
+          </dc:description>
+					<dc:date>1978-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,40</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:41</oai:identifier>
+				<oai:datestamp>2006-09-29</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>The Sea Bright Skiff</dc:title>
+					<dc:creator>Louis Presti</dc:creator>
+					<dc:creator>Rita Moonsammy</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:subject>Work</dc:subject>
+					<dc:description>
+             The Sea Bright-style skiff dates back to the mid 1800s along the North Jersey Shore. Charles Hankins still hand-crafts these boats of New Jersey cedar and green oak, though they no longer serve as fishing vessels. He demonstrates the process of building the skiff, step by step.
+          </dc:description>
+					<dc:date>1991-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,41</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:44</oai:identifier>
+				<oai:datestamp>2006-09-29</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Sweet Is the Day</dc:title>
+					<dc:creator>Jim Carnes</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Religion</dc:subject>
+					<dc:subject>Family</dc:subject>
+					<dc:description>
+             The story of the Woottens of Sand Mountain, Alabama, one of the key singing families who have helped Sacred Harp music survive and flourish for more than 150 years. The video explores how Sacred Harp singing is about more than just music - it is a life-shaping force, reflected by tradition, deep spiritual belief, and the community that embraces it.
+                                                                                         
+                                                                                 
+          </dc:description>
+					<dc:date>2001-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,44</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:35</oai:identifier>
+				<oai:datestamp>2005-07-27</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Finnish American Lives</dc:title>
+					<dc:creator>Michael Loukinen</dc:creator>
+					<dc:subject>Customs</dc:subject>
+					<dc:subject>Ethnic &amp; Immigrant Cultures</dc:subject>
+					<dc:subject>Work</dc:subject>
+					<dc:subject>Family</dc:subject>
+					<dc:description>
+             A 1982 portrait of traditional Finnish American culture in the Upper Peninsula of Michigan, highlighting the fragile community of memory connecting one with parents and grandparents.  A Michael Loukinen production from Up North Films.
+          </dc:description>
+					<dc:date>1982-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,35</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:43</oai:identifier>
+				<oai:datestamp>2006-10-19</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Dry Wood</dc:title>
+					<dc:creator>Les Blank</dc:creator>
+					<dc:creator>Maureen Gosling</dc:creator>
+					<dc:subject>Foodways</dc:subject>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             A glimpse into the life, food, and Mardi Gras celebrations of black Creoles in French Louisiana, featuring the stories and music of "Bois Sec" Ardoin and Canray Fontenot. Dry Wood is one of a number of Les Blank's critically acclaimed films on Lousiana life and culture. Hot Pepper, a film on zydeco great Clifton Chenier, is a companion to Dry Wood.
+          </dc:description>
+					<dc:date>1973-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,43</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:30</oai:identifier>
+				<oai:datestamp>2007-03-16</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Unbroken Tradition</dc:title>
+					<dc:creator>Herb Smith</dc:creator>
+					<dc:creator>Erin Kellen</dc:creator>
+					<dc:creator>Joey Brackner</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:subject>Work</dc:subject>
+					<dc:description>
+             &lt;i&gt;Unbroken Tradition&lt;/i&gt;  is a portrait of Jerry Brown, a ninth generation potter from Hamilton, Alabama.  It looks at the continuation of this family tradition since Jerry's great-great-great grandfather set up his potter's wheel in Georgia around 1800.
+          </dc:description>
+					<dc:date>1986-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,30</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:32</oai:identifier>
+				<oai:datestamp>2007-01-19</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Being A Joines</dc:title>
+					<dc:creator>Tom Davenport</dc:creator>
+					<dc:creator>Daniel Patterson</dc:creator>
+					<dc:creator>Allen Tullos</dc:creator>
+					<dc:creator>Joyce Joines Newman</dc:creator>
+					<dc:subject>Narrative &amp; Verbal Arts</dc:subject>
+					<dc:subject>Religion</dc:subject>
+					<dc:subject>Work</dc:subject>
+					<dc:subject>Family</dc:subject>
+					<dc:subject>Sports/Hunting</dc:subject>
+					<dc:description>
+             John E. "Frail" Joines was a master tale teller from Wilkes County, N. C., on the eastern slope of the Blue Ridge Mountains. His hunting tales, stories from World War II, and religious narratives, and the life stories of Frail Joines and his wife Blanche mirror changes that swept away much of the traditional culture of his Appalachian rural community in a single generation and show the character and values with which his family met these circumstances. A joint production of Tom Davenport Films and the Curriculum in Folklore of UNC-Chapel Hill.
+          </dc:description>
+					<dc:date>1981-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,32</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:37</oai:identifier>
+				<oai:datestamp>2007-01-27</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Quilts in Women's Lives</dc:title>
+					<dc:creator>Pat Ferrero</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:subject>Women</dc:subject>
+					<dc:description>
+             &lt;i&gt;Quilts&lt;/i&gt; was a ground breaking film used by folklorists, anthropologists and historians of art and womens history that presented the lives, art, work and philosophy of ordinary women in the days when few documentaries came from women filmmakers. This deceptively simple film won most of the major awards for independent films during the years after its release in 1981, including Emily Grand Prize, American Film Festival; 1st Place Fine Arts, San Francisco International Film Festival; Best of Festival, National Educational Film and Video Festival, New York International Film Festival, Margaret Mead Film Festival. 
+		
+          </dc:description>
+					<dc:date>1981-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,37</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:55</oai:identifier>
+				<oai:datestamp>2006-12-29</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>It Ain't City Music</dc:title>
+					<dc:creator>Tom Davenport</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Costume/Dress</dc:subject>
+					<dc:subject>Festivals/Customs</dc:subject>
+					<dc:subject>Play</dc:subject>
+					<dc:description>
+             A light-hearted celebration of grass-roots America and its music filmed at the National Country Music Contest at Lake Whippoorwill in Warrenton, Virginia, in 1972. "Any country song you hear nowadays, the guy's either in jail or just got divorced," notes a man who continues, "but it's their lives and they write songs about it."  A Tom Davenport film.
+          </dc:description>
+					<dc:date>1973-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,55</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:39</oai:identifier>
+				<oai:datestamp>2005-10-04</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Cowboy Poets</dc:title>
+					<dc:creator>Kim Shelton</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:subject>Narrative &amp; Verbal Arts</dc:subject>
+					<dc:description>
+             American cowboys have been writing poetry for more than a century. Cowboy Poets profiles three cowboy reciters--Waddie Mitchell, Slim Kite and Wally McRae--representing three different aspects of the cowboy-poetry tradition. A Kim Shelton film.
+          </dc:description>
+					<dc:date>1988-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,39</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:42</oai:identifier>
+				<oai:datestamp>2005-09-14</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Remembering The High Lonesome</dc:title>
+					<dc:creator>Tom Davenport</dc:creator>
+					<dc:creator>Barry Dornfeld</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Narrative &amp; Verbal Arts</dc:subject>
+					<dc:subject>Folkmusic Revival</dc:subject>
+					<dc:description>
+             Profiles filmmaker, photographer, artist, and musician John Cohen.  The film examines the birth of a new artistic ethic and counterculture through John Cohen's involvement with the Beat Generation, abstract expressionist painters, and the Folk Music Revival, and it explores the role of an outsider documenting the life and arts of an Appalachian community.
+          </dc:description>
+					<dc:date>2003-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,42</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:59</oai:identifier>
+				<oai:datestamp>2007-02-15</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Gravel Springs Fife and Drum</dc:title>
+					<dc:creator>Bill Ferris</dc:creator>
+					<dc:creator>David Evans</dc:creator>
+					<dc:creator>Judy Peiser</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:subject>Customs</dc:subject>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             Othar Turner, a fife-maker and musician, owns his farm in the Gravel Springs community in northwest Mississippi. The rhythmical music he and his friends play is called "fife and drum." A 1971 film by Bill Ferris, Judy Peiser, and David Evans from the Center for Southern Folklore.
+          </dc:description>
+					<dc:date>1972-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,59</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:63</oai:identifier>
+				<oai:datestamp>2007-01-01</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Jumpin' Night in the Garden of Eden</dc:title>
+					<dc:creator>Michal Goldman</dc:creator>
+					<dc:subject>Ethnic &amp; Immigrant Cultures</dc:subject>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Urban Life</dc:subject>
+					<dc:subject>Folkmusic Revival</dc:subject>
+					<dc:description>
+             &lt;i&gt;A Jumpin' Night in the Garden of Eden&lt;/i&gt; was the first film to document the 
+klezmer revival, tracing the efforts of two founding groups, Kapelye and Boston's 
+Klezmer Conservatory Band, to recover the lost history of klezmer music. A Michal Goldman film.
+          </dc:description>
+					<dc:date>1987-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,63</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:54</oai:identifier>
+				<oai:datestamp>2007-01-16</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Joy Unspeakable</dc:title>
+					<dc:creator>Elaine Lawless</dc:creator>
+					<dc:creator>Elizabeth Peterson</dc:creator>
+					<dc:creator>John Winninger</dc:creator>
+					<dc:subject>Religion</dc:subject>
+					<dc:subject>Women</dc:subject>
+					<dc:description>
+              &lt;i&gt;Joy Unspeakable&lt;/i&gt; examines the question, what does it mean to be Pentecostal, through the documentation of three types of Oneness Pentecostal services in Southern Indiana:  a gospel-rock concert, a regular Sunday service, and a camp meeting.  Religious behavior, doctrine, and social values are discussed by several Oneness Pentecostal church members and ministers in interviews interspersed with footage of the various services. A film by John Winninger and folklorists Elaine Lawless and Betsy Peterson.  
+          </dc:description>
+					<dc:date>1981-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,54</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:52</oai:identifier>
+				<oai:datestamp>2007-03-06</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>The Music District</dc:title>
+					<dc:creator>Susan Levitas</dc:creator>
+					<dc:subject>Drama</dc:subject>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Religion</dc:subject>
+					<dc:subject>Urban Life</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             &lt;i&gt;The Music District&lt;/i&gt; is a one-hour documentary profiling four African American traditional music groups practicing and performing for fans and congregants in the neighborhood churches and nightclubs of Washington, D.C.  The film features the Orioles (r&amp;b quartet); Junk Yard Band (go-go); The Kings of Harmony (United House of Prayer shout band); and The Four Echoes (jubilee quartet). A film by Susan Levitas from California Newsreel.
+          </dc:description>
+					<dc:date>1996-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,52</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:67</oai:identifier>
+				<oai:datestamp>2006-05-02</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Spirits in the Wood</dc:title>
+					<dc:creator>Sharon R. Sherman</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:description>
+             An in-depth portrait of a man, his art, his philosophy, and his creative process, this work cuts across folk and fine art boundaries to explore the energized world and works of chainsaw artist J. Chester "Skip" Armstrong.  Skip describes the forces that drive him: "The chainsaw allows you that moment of thinking translated immediately into the act of creating."
+          </dc:description>
+					<dc:date>1991-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,67</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:71</oai:identifier>
+				<oai:datestamp>2006-03-15</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>The Angel That Stands By Me</dc:title>
+					<dc:creator>Allie Light</dc:creator>
+					<dc:creator>Irving Saraf</dc:creator>
+					<dc:subject>Religion</dc:subject>
+					<dc:subject>Women</dc:subject>
+					<dc:subject>Arts, Visionary and Outsider</dc:subject>
+					<dc:subject>Aging</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             A portrait of the African-American visionary artist Minnie Evans from Wilmington, N.C., by Academy Award winning filmmakers Irving Saraf and Allie Light.
+          </dc:description>
+					<dc:date>1983-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,71</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:73</oai:identifier>
+				<oai:datestamp>2007-03-20</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Pizza Pizza Daddy-O</dc:title>
+					<dc:creator>Bess Lomax Hawes</dc:creator>
+					<dc:creator>Bob Eberlein</dc:creator>
+					<dc:subject>Narrative &amp; Verbal Arts</dc:subject>
+					<dc:subject>Children</dc:subject>
+					<dc:subject>Play</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             PIZZA PIZZA DADDY-O (1967) looks at continuity and change in girl's playground games at a Los Angeles school.
+          </dc:description>
+					<dc:date>1968-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,73</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:74</oai:identifier>
+				<oai:datestamp>2007-01-04</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Powerhouse for God</dc:title>
+					<dc:creator>Barry Dornfeld</dc:creator>
+					<dc:creator>Tom Rankin</dc:creator>
+					<dc:creator>Jeff Titon</dc:creator>
+					<dc:subject>Religion</dc:subject>
+					<dc:description>
+             Powerhouse for God is a portrait of an old-fashioned Baptist preacher, his family, and their church in Virginia's northern Blue Ridge Mountains. Audiences who were born and raised among old-time southern Baptists say this film captures the fierce preaching, determined singing, autobiographical witnessing, and stern doctrine that characterizes these religious communities.
+          </dc:description>
+					<dc:date>1989-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,74</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:79</oai:identifier>
+				<oai:datestamp>2006-09-29</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Made in Mississippi</dc:title>
+					<dc:creator>Bill Ferris</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             A 1975 Bill Ferris film that features artists from a number of different craft traditions discussing and demonstrating their work, including quilting, sculpting, house building, and basketmaking.  Artists in the film include James "Son" Thomas, Shelby "Poppa Jazz" Brown, Richard Foster, Othar Turner, Louise Williams, Esther Criss, Leon Clark, Amanda Gordon, Mary Gordon, Lester Willis. 
+          </dc:description>
+					<dc:date>1975-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,79</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:80</oai:identifier>
+				<oai:datestamp>2006-09-29</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Give My Poor Heart Ease</dc:title>
+					<dc:creator>Bill Ferris</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             A 1975 account of the blues experience through the recollections and performances of B.B. King, James "Son" Thomas, Shelby "Poppa Jazz" Brown, James "Blood" Shelby, Cleveland "Broom Man" Jones, and inmates from Parchman prison.
+          </dc:description>
+					<dc:date>1975-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,80</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:82</oai:identifier>
+				<oai:datestamp>2006-11-02</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Black Delta Religion</dc:title>
+					<dc:creator>Bill Ferris</dc:creator>
+					<dc:creator>Josette Ferris</dc:creator>
+					<dc:subject>Religion</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             This film was made from b/w Super 8mm footage that William  Ferris gathered in rural Mississippi in 1968.  The film includes footage from rural church services and a full immersion baptism. 
+          </dc:description>
+					<dc:date>1973-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,82</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:84</oai:identifier>
+				<oai:datestamp>2007-01-11</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>The Shakers</dc:title>
+					<dc:creator>Tom Davenport</dc:creator>
+					<dc:creator>Frank DeCola</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Religion</dc:subject>
+					<dc:subject>Women</dc:subject>
+					<dc:description>
+             THE SHAKERS traces the growth, decline, and continuing survival of this remarkable religious sect through the memories and songs of Shaker sisters in New Hampshire and Maine. A 1974 production by Tom Davenport, with assistance from Shaker scholar Daniel Patterson.
+          </dc:description>
+					<dc:date>1974-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,84</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:90</oai:identifier>
+				<oai:datestamp>2007-01-07</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Remembering Emmanuel Church</dc:title>
+					<dc:creator>Tom Davenport</dc:creator>
+					<dc:subject>Narrative &amp; Verbal Arts</dc:subject>
+					<dc:subject>Religion</dc:subject>
+					<dc:subject>Rural Life</dc:subject>
+					<dc:description>
+             	An oral history of Emmanuel Episcopal Church in Fauquier County, Virginia.  The storytellers are masters-all of them members of the congregation from the old farming community tradition of Fauquier County. The stories, funny, sad, and scandalous, are memories of friends and family who are dead and buried in the churchyard.  A 2000 video by Tom Davenport.
+          </dc:description>
+					<dc:date>2000-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,90</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:69</oai:identifier>
+				<oai:datestamp>2006-11-25</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Painted Bride</dc:title>
+					<dc:creator>Amanda Dargan</dc:creator>
+					<dc:creator>Susan Slyomovics</dc:creator>
+					<dc:subject>Ethnic &amp; Immigrant Cultures</dc:subject>
+					<dc:subject>Women</dc:subject>
+					<dc:subject>Festivals/Customs</dc:subject>
+					<dc:description>
+             This 1990 video features the exquisite mehndi body painting tradition as it is practiced among Pakistani immigrants living in Queens, New York City.  The film follows a mehndi artist, Shenaz Hooda, as she prepares a henna paste and paints intricate designs on the hands and feet of a bride-to-be, while the bride's friends sing humorous songs mocking the groom and the future in-laws. 
+          </dc:description>
+					<dc:date>1990-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,69</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:72</oai:identifier>
+				<oai:datestamp>2006-08-02</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Fannie Bell Chapman</dc:title>
+					<dc:creator>Bill Ferris</dc:creator>
+					<dc:creator>Judy Peiser</dc:creator>
+					<dc:creator>Bobby Taylor</dc:creator>
+					<dc:subject>Healing &amp; Medicine</dc:subject>
+					<dc:subject>Religion</dc:subject>
+					<dc:subject>Women</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             Film of the singer/faith healer and folk artist Fannie Bell Chapman from Centreville, Mississippi.  Footage includes Chapman and her family singing and praying during church services and at home, a healing service at the Chapman home, and Chapman "speaking in tongues" after 
+healing.
+          </dc:description>
+					<dc:date>1975-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,72</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:87</oai:identifier>
+				<oai:datestamp>2005-05-30</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>I Ain't Lying</dc:title>
+					<dc:creator>Bill Ferris</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Narrative &amp; Verbal Arts</dc:subject>
+					<dc:subject>Work</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             16mm color documentary based on fieldwork William Ferris conducted with African American storytellers and bluesmen in the communities of Leland and Rose Hill, Mississippi. The stories include include folk and religious tales, jokes, toast telling sessions, and characters from African American oral tradition. 
+          </dc:description>
+					<dc:date>1975-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,87</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:94</oai:identifier>
+				<oai:datestamp>2006-08-11</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Our Lives in Our Hands</dc:title>
+					<dc:creator>Karen Carter</dc:creator>
+					<dc:creator>Harald Prins</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:subject>Work</dc:subject>
+					<dc:subject>Rural Life</dc:subject>
+					<dc:subject>Native American</dc:subject>
+					<dc:description>
+             This 1986 film examines the traditional Native American craft of split ash basketmaking as a means of economic and cultural survival for Aroostook Micmac Indians of northern Maine. This documentary of rural off-reservation Indian artisans aims to break down stereotypical images. Basketmakers are filmed at their craft in their homes, at work on local potato farms and at business meetings of the Basket Bank, a cooperative formed by the Aroostook Micmac Council. First person commentaries are augmented by authentic 17th century Micmac music.
+
+
+          </dc:description>
+					<dc:date>1986-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,94</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:95</oai:identifier>
+				<oai:datestamp>2006-03-15</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>When My Work Is Over</dc:title>
+					<dc:creator>Tom Davenport</dc:creator>
+					<dc:subject>Narrative &amp; Verbal Arts</dc:subject>
+					<dc:subject>Women</dc:subject>
+					<dc:subject>Work</dc:subject>
+					<dc:subject>Costume/Dress</dc:subject>
+					<dc:subject>Aging</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             The gifted African American storyteller Louise Anderson (1921-1994) tells her family stories and folk tales, and recites poetry in this film taped in Jacksonville, North Carolina, in the last years of her life.  Her sisters Evelyn Anderson and Dorothy McLeod join Louise in recalling their experiences growing up in the South, working in restaurants and as domestics in white households, and struggling for civil rights in the early 1960s. 
+          </dc:description>
+					<dc:date>2000-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,95</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:88</oai:identifier>
+				<oai:datestamp>2005-06-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Sonny Ford, Delta Artist</dc:title>
+					<dc:creator>Bill Ferris</dc:creator>
+					<dc:creator>Josette Ferris</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Family</dc:subject>
+					<dc:subject>Rural Life</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             B/w 16mm documentary film based on fieldwork Ferris conducted with Leland, Mississippi, bluesman and folk artist James "Son" Thomas. Included is footage of Thomas performing at juke houses, his wife preparing dinner, and Thomas making skulls out of clay. 
+          </dc:description>
+					<dc:date>1969-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,88</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:89</oai:identifier>
+				<oai:datestamp>2006-12-04</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Sadobabies</dc:title>
+					<dc:creator>Nancy Kalow</dc:creator>
+					<dc:subject>Customs</dc:subject>
+					<dc:subject>Children</dc:subject>
+					<dc:subject>Family</dc:subject>
+					<dc:subject>Urban Life</dc:subject>
+					<dc:description>
+             A 1988 8mm video documentary about the street children
+of San Francisco. The video documents the expressive
+traditions of a group of young runaways who formed an
+alternative family in an abandoned high school
+building near Golden Gate Park.  Shot in an urban
+setting with a "one-person crew," Sadobabies
+demonstrates small-format, low-budget production. 
+          </dc:description>
+					<dc:date>1988-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,89</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:93</oai:identifier>
+				<oai:datestamp>2007-01-25</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>New England Fiddles</dc:title>
+					<dc:creator>John M. Bishop</dc:creator>
+					<dc:subject>Dance</dc:subject>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Regional</dc:subject>
+					<dc:description>
+             This 1984 film by John Bishop presents seven of the finest traditional musicians as they play in their homes and at dances and contests, passing their styles to younger fiddlers, and commenting on their music. Featured are Ron West (Yankee), Paddy Cronnin (Irish), Ben Guillemette(Quebecois), Wilfred Guillette (Quebecois), Harold Luce (Yankee), Gerry Robichaud (Maritime), and the Cape Breton style of Joe Cormier
+          </dc:description>
+					<dc:date>1983-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,93</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:96</oai:identifier>
+				<oai:datestamp>2006-05-16</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>The Ballad of Frankie Silver</dc:title>
+					<dc:creator>Tom Davenport</dc:creator>
+					<dc:subject>Narrative &amp; Verbal Arts</dc:subject>
+					<dc:subject>Women</dc:subject>
+					<dc:description>
+             In 1833 Mrs. Frances Silver was hanged in Morganton, North Carolina, for the ax murder of her husband Charles. Tom Davenport's film explores the case through the singing and stories of Bobby McMillon and the comments of North Carolina Assistant Attorney General Jeffrey Gray and others.
+          </dc:description>
+					<dc:date>1996-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,96</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:68</oai:identifier>
+				<oai:datestamp>2006-05-03</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Free Show Tonight</dc:title>
+					<dc:creator>Paul Wagner</dc:creator>
+					<dc:creator>Steven Zeitlin</dc:creator>
+					<dc:subject>Customs</dc:subject>
+					<dc:subject>Drama</dc:subject>
+					<dc:subject>Healing &amp; Medicine</dc:subject>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Narrative &amp; Verbal Arts</dc:subject>
+					<dc:subject>Regional</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             Presents a nostalgic tribute to the American medicine shows of the nineteenth and early twentieth centuries.  Shows a re-creation of a typical medicine show by veteran performers, as well as archival stills and film footage.
+          </dc:description>
+					<dc:date>1983-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,68</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:83</oai:identifier>
+				<oai:datestamp>2006-09-29</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Tommie Bass</dc:title>
+					<dc:creator>Allen Tullos</dc:creator>
+					<dc:subject>Healing &amp; Medicine</dc:subject>
+					<dc:subject>Narrative &amp; Verbal Arts</dc:subject>
+					<dc:subject>Rural Life</dc:subject>
+					<dc:description>
+             At the time of his death in 1996, "Tommie" Bass, was probably the most well-known herbalist in the United States.  The subject of scholarly and popular books, television features, a front-page essay in the Wall Street Journal, and numerous articles in newspapers and magazines, Tommie Bass lived his entire life in the Ridge and Valley region of Alabama where he devoted himself to "trying to give ease" to the many people who sought his advice..  "Tommie Bass" is a biographical portrait of Mr. Bass, told almost entirely in his own words.
+          </dc:description>
+					<dc:date>1993-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,83</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:102</oai:identifier>
+				<oai:datestamp>2007-01-21</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Grandma's Bottle Village</dc:title>
+					<dc:creator>Allie Light</dc:creator>
+					<dc:creator>Irving Saraf</dc:creator>
+					<dc:subject>Women</dc:subject>
+					<dc:subject>Arts, Visionary and Outsider</dc:subject>
+					<dc:subject>Aging</dc:subject>
+					<dc:description>
+             At 84, Grandma Prisbrey is a vivacious guide to her brilliant houses crammed with objects scavenged from the county dump.
+          </dc:description>
+					<dc:date>1982-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,102</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:105</oai:identifier>
+				<oai:datestamp>2007-02-22</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Possum Trot</dc:title>
+					<dc:creator>Allie Light</dc:creator>
+					<dc:creator>Irving Saraf</dc:creator>
+					<dc:subject>Arts, Visionary and Outsider</dc:subject>
+					<dc:description>
+             Calvin Black was a folk artist who lived in California's Mojave Desert and created more than 80 life-size female dolls, each with its own personality, function, and costume.
+          </dc:description>
+					<dc:date>1977-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,105</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:109</oai:identifier>
+				<oai:datestamp>2006-08-24</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>The Land Where the Blues Began</dc:title>
+					<dc:creator>John M. Bishop</dc:creator>
+					<dc:creator>Alan Lomax</dc:creator>
+					<dc:creator>Worth W. Long</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             In the late 1970s Alan Lomax traveled to Mississippi with filmmaker John Bishop and folklorist Worth Long and made this film about the African American music he found there.  
+          </dc:description>
+					<dc:date>1979-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,109</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:107</oai:identifier>
+				<oai:datestamp>2006-03-15</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>The Monument of Chief Rolling Mountain Thunder</dc:title>
+					<dc:creator>Allie Light</dc:creator>
+					<dc:creator>Irving Saraf</dc:creator>
+					<dc:subject>Family</dc:subject>
+					<dc:subject>Arts, Visionary and Outsider</dc:subject>
+					<dc:description>
+             Chief Thunder's artistry is the testament of a great American folk artist.The film captures the tragedy of his life, his painful isolation, the beauty of his work, and his creative process.
+          </dc:description>
+					<dc:date>1983-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,107</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:100</oai:identifier>
+				<oai:datestamp>2006-12-20</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Buck Season at Bear Meadow Sunset</dc:title>
+					<dc:creator>George Hornbein</dc:creator>
+					<dc:creator>Kenneth Thigpen</dc:creator>
+					<dc:subject>Sports/Hunting</dc:subject>
+					<dc:description>
+             A portrait of a hunting camp in northern Appalachia, the men who hunt there, and the traditions they keep alive. The men hunt the old way: they drive the deer. They keep the traditions of their grandfathers' camp alive in the stories they tell and the way they hunt.
+          </dc:description>
+					<dc:date>1984-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,100</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:97</oai:identifier>
+				<oai:datestamp>2007-02-27</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Ray Lum</dc:title>
+					<dc:creator>Bill Ferris</dc:creator>
+					<dc:creator>Judy Peiser</dc:creator>
+					<dc:creator>Bobby Taylor</dc:creator>
+					<dc:subject>Narrative &amp; Verbal Arts</dc:subject>
+					<dc:subject>Work</dc:subject>
+					<dc:subject>Agriculture</dc:subject>
+					<dc:description>
+             Ray Lum (1891--1977) was a mule skinner, a livestock trader, an auctioneer, and an American original.
+          </dc:description>
+					<dc:date>1972-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,97</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:103</oai:identifier>
+				<oai:datestamp>2006-04-17</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Hundred and Two Mature</dc:title>
+					<dc:creator>Allie Light</dc:creator>
+					<dc:creator>Irving Saraf</dc:creator>
+					<dc:subject>Ethnic &amp; Immigrant Cultures</dc:subject>
+					<dc:subject>Arts, Visionary and Outsider</dc:subject>
+					<dc:subject>Aging</dc:subject>
+					<dc:description>
+             Harry Lieberman, at age 102, shares with wit and wisdom his art, which celebrates Talmudic lore and Jewish life in long-ago Eastern Europe, in this documentary which describes his transformation from retired businessman to artist who, in his old age, is "living on the top of the world." 
+          </dc:description>
+					<dc:date>1980-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,103</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:106</oai:identifier>
+				<oai:datestamp>2005-09-12</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Tales of the Supernatural</dc:title>
+					<dc:creator>Sharon R. Sherman</dc:creator>
+					<dc:subject>Narrative &amp; Verbal Arts</dc:subject>
+					<dc:description>
+             This film documents a group of teenagers telling urban legends, ghost stories and horror tales.  The film explores how teenagers transmit horror stories, what the functions of such stories are for teenagers and the connection between transmission and function in the telling of tales.  The film also relates these legends to media images.
+          </dc:description>
+					<dc:date>1970-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,106</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:111</oai:identifier>
+				<oai:datestamp>2006-12-28</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>The Grand Generation</dc:title>
+					<dc:creator>Paul Wagner</dc:creator>
+					<dc:creator>Steven Zeitlin</dc:creator>
+					<dc:creator>Marjorie Hunt</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Women</dc:subject>
+					<dc:subject>Aging</dc:subject>
+					<dc:description>
+             A portrait of six older Americans, each with their roots in a unique cultural heritage and each with a powerful perspective on the nature of aging.  
+          </dc:description>
+					<dc:date>1993-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,111</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:115</oai:identifier>
+				<oai:datestamp>2007-01-25</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>The Cameraman Has Visited Our Town</dc:title>
+					<dc:creator>Tom Whiteside</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:subject>Work</dc:subject>
+					<dc:subject>Costume/Dress</dc:subject>
+					<dc:subject>Regional</dc:subject>
+					<dc:description>
+             An introduction to H. Lee Waters and his Movies of Local People 1936 to 1942.  A film by Tom Whiteside. 
+          </dc:description>
+					<dc:date>1989-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,115</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:121</oai:identifier>
+				<oai:datestamp>2006-10-09</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Talking Feet</dc:title>
+					<dc:creator>Mike Seeger</dc:creator>
+					<dc:subject>Dance</dc:subject>
+					<dc:description>
+             Talking Feet is the first documentary to feature flatfoot, buck, hoedown, and rural tap dancing, the styles of solo Southern dancing which are a companion to traditional old-time music and on which modern clog dancing is based. A film by old time music master, Mike Seeger.  
+          </dc:description>
+					<dc:date>1987-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,121</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:122</oai:identifier>
+				<oai:datestamp>2007-01-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Afro-American Work Songs in a Texas Prison</dc:title>
+					<dc:creator>Toshi Seeger</dc:creator>
+					<dc:creator>Daniel Seeger</dc:creator>
+					<dc:creator>Peter Seeger</dc:creator>
+					<dc:creator>Bruce Jackson</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Work</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             Pete and Toshi Seeger, their son Daniel, and folklorist Bruce Jackson visited a Texas prison in Huntsville in March of 1966 and produced this rare document of  of work songs by inmates of the Ellis Unit.   
+          </dc:description>
+					<dc:date>1966-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,122</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:123</oai:identifier>
+				<oai:datestamp>2006-06-24</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Singing Fishermen of Ghana</dc:title>
+					<dc:creator>Toshi Seeger</dc:creator>
+					<dc:creator>Peter Seeger</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Work</dc:subject>
+					<dc:description>
+             Pete and Toshi Seeger documented work songs of a fishing community in Ghana, the West-African roots of the work-song tradition shown in the films &lt;a href="http://www.folkstreams.net/film,122" target="_blank"&gt;"Afro American Worksongs in a Texas Prison"&lt;/a&gt; and &lt;a href="http://www.folkstreams.net/film,101" target="_blank"&gt;"Gandy Dancers".&lt;/a&gt;
+          </dc:description>
+					<dc:date>1964-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,123</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:126</oai:identifier>
+				<oai:datestamp>2006-08-22</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Jazz Parades</dc:title>
+					<dc:creator>Alan Lomax</dc:creator>
+					<dc:subject>Dance</dc:subject>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Costume/Dress</dc:subject>
+					<dc:subject>Festivals/Customs</dc:subject>
+					<dc:subject>Play</dc:subject>
+					<dc:subject>Urban Life</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             Alan Lomax's overview of the Jazz scene in New Orleans with
+interviews and performances by Majestic Band, the Preservation Hall Band (Willie Humphrey, James "Sing" Miller, Emmanuel Sayles, Alonzo Stewart, Kid Thomas Valentine and Chester Zardis) and the Dirty Dozen Brass Band (Greg Davis, Charles Joseph, Kirk Joseph, Roger Lewis, Jenell Marshall and Ephrem Townes) at the Glass House and participating in a funeral parade.
+          </dc:description>
+					<dc:date>1990-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,126</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:128</oai:identifier>
+				<oai:datestamp>2006-09-11</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Appalachian Journey</dc:title>
+					<dc:creator>Alan Lomax</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:subject>Dance</dc:subject>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Narrative &amp; Verbal Arts</dc:subject>
+					<dc:subject>Religion</dc:subject>
+					<dc:subject>Aging</dc:subject>
+					<dc:description>
+             Alan Lomax travels through the Southern Appalachians investigating the songs, dances, and religious rituals of the descendents of the Scotch-Irish frontiers people who have made the mountains their home for centuries.
+          </dc:description>
+					<dc:date>1991-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,128</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:125</oai:identifier>
+				<oai:datestamp>2006-11-02</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Cajun Country</dc:title>
+					<dc:creator>Alan Lomax</dc:creator>
+					<dc:subject>Dance</dc:subject>
+					<dc:subject>Foodways</dc:subject>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Festivals/Customs</dc:subject>
+					<dc:subject>Play</dc:subject>
+					<dc:subject>Regional</dc:subject>
+					<dc:subject>Rural Life</dc:subject>
+					<dc:description>
+             Alan Lomax's wonderful documentary about the bayous of Louisiana which have combined French, German, West Indian, native American and hillbilly ingredients into a unique cultural gumbo.  
+          </dc:description>
+					<dc:date>1991-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,125</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:127</oai:identifier>
+				<oai:datestamp>2006-08-21</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Dreams and Songs of the Noble Old</dc:title>
+					<dc:creator>Alan Lomax</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Aging</dc:subject>
+					<dc:description>
+             Alan Lomax's examination of the talents and wisdom of elderly musicians, singers, and story-tellers, who perform not for fame or fortune but to preserve and share their culture.
+          </dc:description>
+					<dc:date>1991-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,127</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:130</oai:identifier>
+				<oai:datestamp>2006-11-03</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Pilebutts</dc:title>
+					<dc:creator>Maria Brooks</dc:creator>
+					<dc:subject>Work</dc:subject>
+					<dc:description>
+             A Union produced documentary about pile drivers, courageous men and women better known  as "pilebutts" who secure structures to the earth from bridges to skyscrapers.  Pilebutts weaves history and folklore into a modern story of individuals doing tough, often dangerous industrial work
+          </dc:description>
+					<dc:date>2003-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,130</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:129</oai:identifier>
+				<oai:datestamp>2007-01-16</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Tough, Pretty, or Smart</dc:title>
+					<dc:creator>Richard Kane</dc:creator>
+					<dc:creator>Dillon Bustin</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Family</dc:subject>
+					<dc:subject>Regional</dc:subject>
+					<dc:subject>Rural Life</dc:subject>
+					<dc:subject>Sports/Hunting</dc:subject>
+					<dc:description>
+             The portrayal of rural Indiana group, The Patoka Valley Boys, a six-person string band comprising one of America's finest old-time and bluegrass musical groups. 
+          </dc:description>
+					<dc:date>1981-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,129</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:131</oai:identifier>
+				<oai:datestamp>2006-11-26</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Almeda Riddle</dc:title>
+					<dc:creator>George West</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Women</dc:subject>
+					<dc:subject>Festivals/Customs</dc:subject>
+					<dc:subject>Folkmusic Revival</dc:subject>
+					<dc:description>
+             This video tells how and where Arkansas ballad singer Almeda Riddle began her 10 year stint of singing old ballads all over the country. In an informal manner, folk musician Starr Mitchell chats with Riddle about her singing tours and her commitment to preserving the past for the future.
+          </dc:description>
+					<dc:date>1985-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,131</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:133</oai:identifier>
+				<oai:datestamp>2007-01-16</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Water From Another Time</dc:title>
+					<dc:creator>Richard Kane</dc:creator>
+					<dc:creator>Dillon Bustin</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Women</dc:subject>
+					<dc:subject>Arts, Visionary and Outsider</dc:subject>
+					<dc:subject>Aging</dc:subject>
+					<dc:description>
+             A film document of three elderly residents of Orange County, Indiana.  Featured in the film are musician Lotus Dickey, clock builder and tinkerer Elmer Boyd, and self-taught artist Lois Doane. 
+          </dc:description>
+					<dc:date>1982-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,133</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:134</oai:identifier>
+				<oai:datestamp>2006-11-24</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Steppin'</dc:title>
+					<dc:creator>Jerald B. Harkness</dc:creator>
+					<dc:creator>M.J. Bowling</dc:creator>
+					<dc:subject>Dance</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             Introduces viewers to the step show, an exciting dance style popular today among black fraternities and sororities. In addition to many rousing, crowd-pleasing performances, the program examines the cultural roots of steppin' in African dancing, military marching and hip-hop music, and discusses its contemporary social significance on college campuses.
+          </dc:description>
+					<dc:date>1992-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,134</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:135</oai:identifier>
+				<oai:datestamp>2007-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Catching the Music</dc:title>
+					<dc:creator>Stephen Wade</dc:creator>
+					<dc:creator>Jackson Frost</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Narrative &amp; Verbal Arts</dc:subject>
+					<dc:subject>Folkmusic Revival</dc:subject>
+					<dc:description>
+             An hour-long WETA-TV documentary on musician Stephen Wade. Catching the Music describes the passing of the banjo from one player to the next. The film includes footage of Kirk McGee, Hobart Smith, Fleming Brown, Doc Hopkins, Roscoe Holcomb, Pete Steele, Uncle Dave Macon, and Virgil Anderson.  
+          </dc:description>
+					<dc:date>1987-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,135</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:138</oai:identifier>
+				<oai:datestamp>2007-03-03</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Learned it in Back Days and Kept It</dc:title>
+					<dc:creator>Dan Kossoff</dc:creator>
+					<dc:creator>Peggy Bulger</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:subject>Play</dc:subject>
+					<dc:subject>Rural Life</dc:subject>
+					<dc:subject>Aging</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             Portrait of Lucreaty Clark (1903 - 1986), an African American oak basket maker from rural Florida. Clark embraced a wide repertoire of traditional African American songs, games and folk knowledge essential to rural life. She was a remarkable representative of an era that seems very far away today.
+          </dc:description>
+					<dc:date>1981-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,138</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:132</oai:identifier>
+				<oai:datestamp>2007-01-19</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Woodsmen and River Drivers</dc:title>
+					<dc:creator>David Weiss</dc:creator>
+					<dc:creator>Karan Sheldon</dc:creator>
+					<dc:creator>Michel Chalufour</dc:creator>
+					<dc:subject>Work</dc:subject>
+					<dc:subject>Regional</dc:subject>
+					<dc:subject>Rural Life</dc:subject>
+					<dc:description>
+             Men and women who worked for the Machias Lumber Company before 1930 share their recollections of  the  logging industry in Maine when they cut trees  by hand, hauled logs to the river with horses, and floated them down to the mill.  Remarkable documentary footage from the 1930's illustrate this dangerous and exhausting work.  
+          </dc:description>
+					<dc:date>1989-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,132</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:136</oai:identifier>
+				<oai:datestamp>2007-01-01</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Every Island has its Own Songs</dc:title>
+					<dc:creator>Peggy Bulger</dc:creator>
+					<dc:subject>Ethnic &amp; Immigrant Cultures</dc:subject>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Festivals/Customs</dc:subject>
+					<dc:description>
+             Nikitas Tsimouris (1924 - 2001) brought the complex music of the tsabouna, a type of Greek bagpipe, to Tarpon Springs.  In 1991, Tsimouris became the first Floridian to receive a National Heritage Fellowship.
+          </dc:description>
+					<dc:date>1988-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,136</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:137</oai:identifier>
+				<oai:datestamp>2006-12-29</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Fishing All My Days</dc:title>
+					<dc:creator>Peggy Bulger</dc:creator>
+					<dc:creator>Alan Saperstein</dc:creator>
+					<dc:subject>Foodways</dc:subject>
+					<dc:subject>Work</dc:subject>
+					<dc:description>
+             A 1986 film about open sea sprimp fishing in Florida, showing the techniques,  rituals, and superstitions of the African American, Anglo, and Mediterranean fishermen.
+          </dc:description>
+					<dc:date>1986-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,137</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:140</oai:identifier>
+				<oai:datestamp>2007-01-27</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>My Town</dc:title>
+					<dc:creator>Katherine Gulla</dc:creator>
+					<dc:subject>Ethnic &amp; Immigrant Cultures</dc:subject>
+					<dc:subject>Religion</dc:subject>
+					<dc:subject>Festivals/Customs</dc:subject>
+					<dc:subject>Urban Life</dc:subject>
+					<dc:description>
+             Shot on location in Palermiti and the Boston area of Massachusetts, MY TOWN/MIO PAESE shows the family, cultural and religious ties between immigrants and their paesani in Southern Italy. The documentary features La Festa della Madonna della Luce (the feast of the Madonna of Light) in both countries and the story of the patron saint's legendary miracles as told by three generations of Italians and Italian-Americans.
+          </dc:description>
+					<dc:date>1986-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,140</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:142</oai:identifier>
+				<oai:datestamp>2007-01-18</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Home of the Double Headed Eagle</dc:title>
+					<dc:creator>Brian Graves</dc:creator>
+					<dc:creator>Ali Colleen Neff</dc:creator>
+					<dc:subject>Arts, Visionary and Outsider</dc:subject>
+					<dc:subject>Aging</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             The home of the Double-Headed Eagle is a kaleidoscopic work of visionary architecture created by the Reverend H. D. Dennis and his wife, Margaret Dennis. A 2006 film made by folklore graduate student Ali Colleen Neff and filmmaker Brian Graves.
+          </dc:description>
+					<dc:date>2006-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,142</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:139</oai:identifier>
+				<oai:datestamp>2007-01-18</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Four Corners of Earth</dc:title>
+					<dc:creator>Peggy Bulger</dc:creator>
+					<dc:creator>Mike Dunn</dc:creator>
+					<dc:subject>Healing &amp; Medicine</dc:subject>
+					<dc:subject>Costume/Dress</dc:subject>
+					<dc:subject>Family</dc:subject>
+					<dc:subject>Native American</dc:subject>
+					<dc:description>
+             Seminole Indian women maintain the traditions of language, crafts, cooking, medicine, and song.  These native Americans live on reservations in the vast swamp and waterways of the Everglade area in South Florida.   
+          </dc:description>
+					<dc:date>1984-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,139</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:143</oai:identifier>
+				<oai:datestamp>2007-01-18</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Let the World Listen Right</dc:title>
+					<dc:creator>Brian Graves</dc:creator>
+					<dc:creator>Ali Colleen Neff</dc:creator>
+					<dc:creator>Jerome Williams</dc:creator>
+					<dc:subject>Music</dc:subject>
+					<dc:subject>Regional</dc:subject>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:description>
+             Hip-hop and Blues in Clarksdale, Mississippi.  Top Notch and Da Fam as well as performances by blues artist Terry "Big T" Williams and gospel singer Martha Raybon.
+          </dc:description>
+					<dc:date>2006-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,143</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:141</oai:identifier>
+				<oai:datestamp>2007-01-21</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Final Marks</dc:title>
+					<dc:creator>Frank Muhly, Jr.</dc:creator>
+					<dc:creator>Peter O'Neill</dc:creator>
+					<dc:subject>Arts &amp; Crafts, Traditional</dc:subject>
+					<dc:subject>Work</dc:subject>
+					<dc:description>
+             A documentary about lettercutting, in both monumental inscriptions and on gravestones.  The filmmakers were given complete access over a two year period to the work of the craftsmen of the John Stevens Shop in Newport, Rhode Island, the oldest business in the United States still in continuous operation in the same colonial building.  It chronicles the work of John 'Fud' Benson, then the owner and principal designer, and, arguably, one of the most accomplished letter cutters in the world.
+          </dc:description>
+					<dc:date>1979-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,141</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:144</oai:identifier>
+				<oai:datestamp>2007-02-20</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>This Is Our Slaughterhouse</dc:title>
+					<dc:creator>Matthew Broerman</dc:creator>
+					<dc:subject>Work</dc:subject>
+					<dc:subject>Family</dc:subject>
+					<dc:subject>Rural Life</dc:subject>
+					<dc:description>
+             This 22 minute documentary follows the ten workers of Broerman Poultry Processing, revealing their surprisingly close relationships, despite the gruesome nature of their job. The colorful interviews and raw supporting footage give new perspectives on family values, hard work, and what happens inside a slaughterhouse. The film was made by Matthew Broerman, a son of the owner of the slaughterhouse.
+
+          </dc:description>
+					<dc:date>2000-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,144</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:146</oai:identifier>
+				<oai:datestamp>2007-03-17</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>The Men Who Dance the Giglio</dc:title>
+					<dc:creator>Jeff Porter</dc:creator>
+					<dc:subject>Ethnic &amp; Immigrant Cultures</dc:subject>
+					<dc:subject>Festivals/Customs</dc:subject>
+					<dc:subject>Urban Life</dc:subject>
+					<dc:description>
+             A documentary on the Brooklyn St. Paulinus Festival.  This film explores ethnicity, cultural traditions, and religious devotion as the performers, participants, and community members explain the significance of the festival.
+          </dc:description>
+					<dc:date>2000-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,146</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:148</oai:identifier>
+				<oai:datestamp>2007-03-16</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Home Across the Water</dc:title>
+					<dc:creator>Benjamin Shapiro</dc:creator>
+					<dc:subject>African American Culture</dc:subject>
+					<dc:subject>Social Justice/Protest</dc:subject>
+					<dc:description>
+             A film about the efforts of Sea Islanders in South Carolina and Georgia to preserve their cultural identity and cope with the development of the islands as exclusive resorts.
+          </dc:description>
+					<dc:date>1992-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,148</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:145</oai:identifier>
+				<oai:datestamp>2007-03-30</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Rebuilding the Temple</dc:title>
+					<dc:creator>Claudia Levin</dc:creator>
+					<dc:creator>Lawrence R. Hott</dc:creator>
+					<dc:subject>Customs</dc:subject>
+					<dc:subject>Ethnic &amp; Immigrant Cultures</dc:subject>
+					<dc:subject>Religion</dc:subject>
+					<dc:description>
+             After fleeing their country and the Khmer Rouge, this one hour documentary examines the Cambodian refugees' efforts to adjust to Western life and the significant role played by the Buddhist culture in this difficult process
+          </dc:description>
+					<dc:date>1991-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,145</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>folkstreams:film:147</oai:identifier>
+				<oai:datestamp>2007-03-19</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/                                  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Hello Columbus</dc:title>
+					<dc:creator>Frank Zamacona</dc:creator>
+					<dc:description>
+             This classic documentary offers a little bit of everything, history, culture, family, community and fun. Beloved "man on the street" Mal Sharpe guides viewers through a traditional, Italian-American Columbus Day celebration in San Francisco where we meet and get to know Joe Cervetto, a legend in the city for his commitment to and portrayal of Christopher Columbus. 
+          </dc:description>
+					<dc:date>1986-00-00</dc:date>
+					<dc:identifier>http://www.folkstreams.net/film,147</dc:identifier>
+					<dc:type>MovingImage</dc:type>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+	</ListRecords>
+</Repository>

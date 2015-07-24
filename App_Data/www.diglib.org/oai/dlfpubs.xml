@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository  http://www.openarchives.org/OAI/2.0/static-repository.xsd" xmlns="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Identify>
+		<oai:repositoryName>Digital Library Federation Print Publications Static Repository</oai:repositoryName>
+		<oai:baseURL>http://imlsdcc.grainger.uiuc.edu/gateway/oai.asp/www.diglib.org/oai/dlfpubs.xml</oai:baseURL>
+		<oai:protocolVersion>2.0</oai:protocolVersion>
+		<oai:adminEmail>bhoward@clir.org</oai:adminEmail>
+		<oai:earliestDatestamp>2006-03-10</oai:earliestDatestamp>
+		<oai:deletedRecord>no</oai:deletedRecord>
+		<oai:granularity>YYYY-MM-DD</oai:granularity>
+	</Identify>
+	<ListMetadataFormats>
+		<oai:metadataFormat>
+			<oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+			<oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+			<oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+		</oai:metadataFormat>
+	</ListMetadataFormats>
+	<ListRecords metadataPrefix="oai_dc">
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/dlf098</oai:identifier>
+				<oai:datestamp>2006-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Dimensions and use of the scholarly information environment : introduction to a data set /</dc:title>
+					<dc:creator> Friedlander, Amy. </dc:creator>
+					<dc:creator> Digital Library Federation. </dc:creator>
+					<dc:creator> Council on Library and Information Resources. </dc:creator>
+					<dc:creator> Outsell, Inc. </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>Washington, D.C. : Digital Library Federation : Council on Library and Information Resources,</dc:publisher>
+					<dc:date>2002.</dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>Includes bibliographical references.</dc:description>
+					<dc:subject>Information resources</dc:subject>
+					<dc:subject>Electronic information resources</dc:subject>
+					<dc:subject>Academic libraries</dc:subject>
+					<dc:subject>Research</dc:subject>
+					<dc:relation>Also available online.</dc:relation>
+					<dc:identifier>http://www.clir.org/pubs/reports/pub110/contents.html</dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/dlf102</oai:identifier>
+				<oai:datestamp>2006-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Electronic resource management : report of the DLF resource management initiative /</dc:title>
+					<dc:creator> Jewell, Timothy D. </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>Washington, D.C. : Digital Library Federation,</dc:publisher>
+					<dc:date>c2005.</dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>"August 2004"</dc:description>
+					<dc:description>Includes bibliographical references and index.</dc:description>
+					<dc:subject>Digital libraries</dc:subject>
+					<dc:subject>Libraries</dc:subject>
+					<dc:identifier>http://www.loc.gov/catdir/toc/ecip0510/2005009089.html</dc:identifier>
+					<dc:identifier>http://www.diglib.org/pubs/dlfermi0408/ERMFINAL.pdf</dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/dlf087</oai:identifier>
+				<oai:datestamp>2002-05-01</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Enabling access in digital libraries : a report on a workshop on access management /</dc:title>
+					<dc:creator> Arms, Caroline R. (Caroline Ruth) </dc:creator>
+					<dc:creator> Klavans, Judith L. </dc:creator>
+					<dc:creator> Waters, Donald J. </dc:creator>
+					<dc:creator> Digital Library Federation. </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>Washington, D.C. : Digital Library Federation, Council on Library and Information Resources,</dc:publisher>
+					<dc:date>c1999.</dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>"February 1999."</dc:description>
+					<dc:description>Includes bibliographical references (p. 30-31).</dc:description>
+					<dc:subject>Digital libraries</dc:subject>
+					<dc:subject>Digital libraries</dc:subject>
+					<dc:subject>Electronic information resources</dc:subject>
+					<dc:subject>Electronic information resources</dc:subject>
+					<dc:relation>Also available online.</dc:relation>
+					<dc:identifier>http://www.clir.org/pubs/reports/arms-79/contents.html</dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/dlf089</oai:identifier>
+				<oai:datestamp>2006-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>The making of America II Testbed Project : a digital library service model /</dc:title>
+					<dc:creator> Hurley, Bernard J. </dc:creator>
+					<dc:creator> Digital Library Federation. </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>[Washington, D.C.] : Digital Library Federation, Council on Library and Information Resources,</dc:publisher>
+					<dc:date>c1999.</dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>"December 1999."</dc:description>
+					<dc:description>"The DLF partners have committed themselves to "bringing together, from across the nation and beyond, digitized materials that will be made accessible to students, scholars, and citizens everywhere." In support of DLF participants' efforts to these ends, DLF launched this publication series in 1999 to highlight and disseminate critical work"--P. ii.</dc:description>
+					<dc:description>Includes bibliographical references  (p. 34-36).</dc:description>
+					<dc:subject>Making of America Project.</dc:subject>
+					<dc:subject>Digital libraries</dc:subject>
+					<dc:subject>Libraries</dc:subject>
+					<dc:relation>Also available in digital form.</dc:relation>
+					<dc:identifier>http://www.clir.org/pubs/reports/pub87/pub87.pdf</dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/dlf095</oai:identifier>
+				<oai:datestamp>2006-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Scholarly work in the humanities and the evolving information environment /</dc:title>
+					<dc:creator> Brockman, William S. </dc:creator>
+					<dc:creator> Digital Library Federation. </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>Washington, D.C. : Digital Library Federation, Council on Library and Information Resources,</dc:publisher>
+					<dc:date>c2001.</dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>"December 2001."</dc:description>
+					<dc:description>Includes bibliographical references (p. 33-35).</dc:description>
+					<dc:subject>Libraries and scholars.</dc:subject>
+					<dc:subject>Research libraries.</dc:subject>
+					<dc:subject>Research</dc:subject>
+					<dc:subject>Library materials</dc:subject>
+					<dc:subject>Research</dc:subject>
+					<dc:relation>Also available in digital form.</dc:relation>
+					<dc:identifier>http://www.clir.org/pubs/reports/pub104/pub104.pdf</dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/dlf103</oai:identifier>
+				<oai:datestamp>2006-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Technical guidelines for digitizing archival materials for electronic access : creation of production master files--raster images /</dc:title>
+					<dc:creator> Puglia, Steven T. </dc:creator>
+					<dc:creator> Reed, Jeffrey, 1967- </dc:creator>
+					<dc:creator> Rhodes, Erin. </dc:creator>
+					<dc:creator> United States. National Archives and Records Administration. </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>Washington, D.C. : Digital Library Federation,</dc:publisher>
+					<dc:date>c2005.</dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>Includes bibliographical references (p. 82-87).</dc:description>
+					<dc:description>Metadata -- Technical overview -- Imaging workflow -- Digitization specifications for record types -- Storage -- Quality control.</dc:description>
+					<dc:subject>Archival materials</dc:subject>
+					<dc:relation>Also available online.</dc:relation>
+					<dc:identifier>http://www.loc.gov/catdir/toc/ecip0514/2005015382.html</dc:identifier>
+					<dc:identifier>http://www.archives.gov/research/arc/techguide-raster-june2004.pdf</dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/104</oai:identifier>
+				<oai:datestamp>2006-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>A kaleidoscope of digital American literature /</dc:title>
+					<dc:creator> Brogan, Martha L. </dc:creator>
+					<dc:creator> Rentfrow, DaphneÌe.  </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>Washington, D.C. : Digital Library Federation, Council on Library and Information Resources,</dc:publisher>
+					<dc:date>2005. </dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>Includes bibliographical references (p. 165-176) and indexes. </dc:description>
+					<dc:subject>American literature</dc:subject>
+					<dc:subject>American literature</dc:subject>
+					<dc:subject>American literature</dc:subject>
+					<dc:subject>American literature</dc:subject>
+					<dc:subject>American literature</dc:subject>
+					<dc:subject>American literature</dc:subject>
+					<dc:subject>American literature</dc:subject>
+					<dc:subject>American literature</dc:subject>
+					<dc:identifier>http://www.loc.gov/catdir/toc/ecip0517/2005022693.html </dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/dlf101</oai:identifier>
+				<oai:datestamp>2006-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>A survey of digital library aggregation services, 2003 /</dc:title>
+					<dc:creator> Brogan, Martha L. </dc:creator>
+					<dc:creator> Digital Library Federation. </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>Washington, D.C. : Digital Library Federation,</dc:publisher>
+					<dc:date>c2005.</dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>"Based on a survey of digital library aggregation services conducted in summer 2003."--T.p. verso.</dc:description>
+					<dc:description>Provides an overview of digital library aggregation services, organizes them into functional clusters, and evaluates them from the perspective of an informed user. Most of the services under review rely wholly or partially on the Protocol for Metadata Harvesting of the Open Archives Initiative (OAI-PMH).</dc:description>
+					<dc:description>Mode of access: World Wide Web.</dc:description>
+					<dc:description>Title from online website (viewed on March 26, 2004; last updated on Dec. 12, 2003).</dc:description>
+					<dc:description>Publication from: Digital Library Federation website.</dc:description>
+					<dc:description>Provides an overview of digital library aggregation services, organizes them into functional clusters, and evaluates them from the perspective of an informed user. Most of the services under review rely wholly or partially on the Protocol for Metadata Harvesting of the Open Archives Initiative (OAI-PMH).</dc:description>
+					<dc:subject>Digital libraries.</dc:subject>
+					<dc:subject>Information storage and retrieval systems.</dc:subject>
+					<dc:relation>Also available online.</dc:relation>
+					<dc:identifier>http://www.diglib.org/pubs/brogan/brogan2003.pdf</dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/dlf088</oai:identifier>
+				<oai:datestamp>2006-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Preserving the whole : a two-track approach to rescuing social science data and metadata /</dc:title>
+					<dc:creator> Green, Ann (Ann Gerken) </dc:creator>
+					<dc:creator> Dionne, JoAnn. </dc:creator>
+					<dc:creator> Dennis, Martin (Martin Jeffrey) </dc:creator>
+					<dc:creator> Digital Library Federation. </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>Washington DC : The Digital Library Federation,</dc:publisher>
+					<dc:date>c1999.</dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>"June 1999".</dc:description>
+					<dc:description>Includes bibliographical references (p. 36-37).</dc:description>
+					<dc:subject>Social sciences</dc:subject>
+					<dc:subject>Digital preservation.</dc:subject>
+					<dc:relation>Also available via the Internet.</dc:relation>
+					<dc:identifier>http://www.clir.org/pubs/reports/pub83/pub83.pdf</dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/dlf097</oai:identifier>
+				<oai:datestamp>2006-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>The digital library : a biography /</dc:title>
+					<dc:creator> Greenstein, Daniel I. </dc:creator>
+					<dc:creator> Thorin, Suzanne E. (Suzanne Elizabeth), 1942- </dc:creator>
+					<dc:creator> Digital Library Federation. </dc:creator>
+					<dc:creator> Council on Library and Information Resources. </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>Washington, D.C. : Digital Library Federation, Council on Library and Information Resources,</dc:publisher>
+					<dc:date>2002.</dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>Includes bibliographical references (p. 62-63).</dc:description>
+					<dc:subject>Digital libraries</dc:subject>
+					<dc:relation>Also available in digital form.</dc:relation>
+					<dc:identifier>http://www.clir.org/pubs/reports/pub109/pub109.pdf</dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/dlf090</oai:identifier>
+				<oai:datestamp>2006-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Systems of knowledge organization for digital libraries : beyond traditional authority files /</dc:title>
+					<dc:creator> Hodge, Gail M. </dc:creator>
+					<dc:creator> Digital Library Federation. </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>Washington, DC : Digital Library Federation, Council on Library and Information Resources,</dc:publisher>
+					<dc:date>c2000.</dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>"April 2000."</dc:description>
+					<dc:description>Includes bibliographical references (p. 35-37).</dc:description>
+					<dc:subject>Digital libraries</dc:subject>
+					<dc:subject>Information organization.</dc:subject>
+					<dc:subject>Information retrieval.</dc:subject>
+					<dc:subject>Information storage and retrieval systems.</dc:subject>
+					<dc:relation>Also available in digital form.</dc:relation>
+					<dc:identifier>http://www.clir.org/pubs/reports/pub91/pub91.pdf</dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/dlf093</oai:identifier>
+				<oai:datestamp>2006-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Selection and presentation of commercially available electronic resources : issues and practices /</dc:title>
+					<dc:creator> Jewell, Timothy D. </dc:creator>
+					<dc:creator> Digital Library Federation. </dc:creator>
+					<dc:creator> Council on Library and Information Resources. </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>Washington, D.C. : Digital Library Federation, Council on Library and Information Resources,</dc:publisher>
+					<dc:date>c2001.</dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>"July 2001."</dc:description>
+					<dc:description>Includes bibliographical references (p. 31-41).</dc:description>
+					<dc:subject>Electronic information resources.</dc:subject>
+					<dc:relation>Also available in digital form.</dc:relation>
+					<dc:identifier>http://www.clir.org/pubs/reports/pub99/pub99.pdf</dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/dlf092</oai:identifier>
+				<oai:datestamp>2006-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Building sustainable collections of free third-party Web resources /</dc:title>
+					<dc:creator> Pitschmann, Louis A. </dc:creator>
+					<dc:creator> Digital Library Federation. </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>Washington, D.C. : Digital Library Federation, Council on Library and Information Resources,</dc:publisher>
+					<dc:date>[2001]</dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>"June 2001."</dc:description>
+					<dc:description>Includes bibliographical references (p. 40-44).</dc:description>
+					<dc:subject>Digital libraries</dc:subject>
+					<dc:subject>Libraries</dc:subject>
+					<dc:subject>Web sites.</dc:subject>
+					<dc:subject>Selection of nonbook materials.</dc:subject>
+					<dc:relation>Also available in digital form.</dc:relation>
+					<dc:identifier>http://www.clir.org/pubs/reports/pub98/pub98.pdf</dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/dlf094</oai:identifier>
+				<oai:datestamp>2006-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Strategies for building digitized collections /</dc:title>
+					<dc:creator> Smith, Abby. </dc:creator>
+					<dc:creator> Digital Library Federation. </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>Washington, D.C. : Digital Library Federation, Council on Library and Information Resources,</dc:publisher>
+					<dc:date>c2001.</dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>"September 2001."</dc:description>
+					<dc:description>Includes bibliographical references (p. 32-35).</dc:description>
+					<dc:subject>Library materials</dc:subject>
+					<dc:subject>Libraries</dc:subject>
+					<dc:subject>Digital libraries</dc:subject>
+					<dc:relation>Also available in digital form.</dc:relation>
+					<dc:identifier>http://www.clir.org/pubs/reports/pub101/pub101.pdf</dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/dlf105</oai:identifier>
+				<oai:datestamp>2006-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Acquiring copyright permission to digitize and provide open access to books /</dc:title>
+					<dc:creator> Troll Covey, Denise. </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>Washington, D.C. : Digital Library Federation, Council on Library and Information Resources,</dc:publisher>
+					<dc:date>c2005.</dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>"October 2005."</dc:description>
+					<dc:description>Includes bibliographical references (p. 60-63).</dc:description>
+					<dc:description>A brief history of law and practice -- The implications -- The response -- The random sample feasability sudy -- The fine and rare book study -- The million book project study -- Looking ahead.</dc:description>
+					<dc:subject>Copyright and electronic data processing</dc:subject>
+					<dc:subject>Electronic books</dc:subject>
+					<dc:identifier>http://www.loc.gov/catdir/toc/ecip0518/2005024572.html</dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+		<oai:record>
+			<oai:header>
+				<oai:identifier>oai:diglib.org:oai/dlfpubs/dlf096</oai:identifier>
+				<oai:datestamp>2006-03-10</oai:datestamp>
+			</oai:header>
+			<oai:metadata>
+				<oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dc:title>Usage and usability assessment : library practices and concerns /</dc:title>
+					<dc:creator> Troll Covey, Denise. </dc:creator>
+					<dc:creator> Digital Library Federation. </dc:creator>
+					<dc:type>text</dc:type>
+					<dc:publisher>Washington, D.C. : Digital Library Federation, Council on Library and Information Resources,</dc:publisher>
+					<dc:date>c2002.</dc:date>
+					<dc:language>eng</dc:language>
+					<dc:description>Includes bibliographical references (p. 61-74).</dc:description>
+					<dc:subject>Libraries</dc:subject>
+					<dc:subject>Library use studies.</dc:subject>
+					<dc:subject>Electronic information resources</dc:subject>
+					<dc:relation>Also available in digital form.</dc:relation>
+					<dc:identifier>http://www.clir.org/pubs/reports/pub105/pub105.pdf</dc:identifier>
+				</oai_dc:dc>
+			</oai:metadata>
+		</oai:record>
+	</ListRecords>
+</Repository>

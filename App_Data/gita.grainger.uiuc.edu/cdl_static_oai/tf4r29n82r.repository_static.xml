@@ -1,0 +1,1056 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Repository xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository &#xA;                                http://www.openarchives.org/OAI/2.0/static-repository.xsd" xmlns="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identify>
+    <oai:repositoryName>UC Berkeley, University Archives: Records of the Committee on Academic Freedom During the Loyalty Oath Controversy</oai:repositoryName>
+    <oai:baseURL>http://imlsdcc.grainger.uiuc.edu/gateway.net/oai.aspx/gita.grainger.uiuc.edu/cdl_static_oai/tf4r29n82r.repository_static.xml</oai:baseURL>
+    <oai:protocolVersion>2.0</oai:protocolVersion>
+    <oai:adminEmail>thabing@uiuc.edu</oai:adminEmail>
+    <oai:earliestDatestamp>2008-01-14</oai:earliestDatestamp>
+    <oai:deletedRecord>no</oai:deletedRecord>
+    <oai:granularity>YYYY-MM-DD</oai:granularity>
+  </Identify>
+  <ListMetadataFormats>
+    <oai:metadataFormat>
+      <oai:metadataPrefix>mods</oai:metadataPrefix>
+      <oai:schema>http://www.loc.gov/standards/mods/v3/mods-3-2.xsd</oai:schema>
+      <oai:metadataNamespace>http://www.loc.gov/mods/v3</oai:metadataNamespace>
+    </oai:metadataFormat>
+    <oai:metadataFormat>
+      <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+      <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+      <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+    </oai:metadataFormat>
+  </ListMetadataFormats>
+  <ListRecords metadataPrefix="mods">
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb7779p52d</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:title>Memorandum to Robert Gordon Sproul from Helen P. MacGregor with copy of telegram to Governor Earl Warren from the American Psychological Association: September 16, 1950</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">text</mods:typeOfResource>
+          <mods:genre authority="aat" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Telegrams</mods:genre>
+          <mods:originInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:dateCreated>September 16, 1950</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1950-09-16</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:extent>2 pages</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>College teachers—Tenure</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>Academic freedom—California</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="corporate">
+              <mods:namePart>University of California (System). Faculty</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="personal" authority="naf">
+              <mods:namePart>Brown, Clarence W., b. 1902</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="corporate" authority="naf">
+              <mods:namePart>American Psychological Association</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="personal" authority="naf">
+              <mods:namePart>Warren, Earl, 1891-1974</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">CU-9.26</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>The California Loyalty Oath Digital Collection</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">various</mods:identifier>
+            <mods:identifier type="uri">http://bancroft.berkeley.edu/collections/loyaltyoath</mods:identifier>
+            <mods:identifier type="local search">hb8f59p1cr</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier displayLabel="Local Call Number" type="local" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">CU-9.26</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb7779p52d/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb7779p52d/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">University of California Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb9290132v</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:title>Letter to Wendell M. Stanley from Frank Forsburg: March 2, 1950</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">text</mods:typeOfResource>
+          <mods:genre authority="rbgenr" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Letters</mods:genre>
+          <mods:originInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:dateCreated>March 2, 1950</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1950-03-02</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:extent>1 page</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="personal" authority="naf">
+              <mods:namePart>Sproul, Robert Gordon, 1891-1975</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="corporate">
+              <mods:namePart>University of California, Berkeley. Faculty</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="personal" authority="naf">
+              <mods:namePart>Stanley, Wendell M. (Wendell Meredith), 1904-</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">CU-9.26</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>The California Loyalty Oath Digital Collection</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">various</mods:identifier>
+            <mods:identifier type="uri">http://bancroft.berkeley.edu/collections/loyaltyoath</mods:identifier>
+            <mods:identifier type="local search">hb8f59p1cr</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier displayLabel="Local Call Number" type="local" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">CU-9.26, Box 1</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb9290132v/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb9290132v/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">University of California Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb0d5nb33d</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:title>Memorandum to President Robert Sproul from Clark Kerr: December 1, 1952</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" authority="naf" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:namePart>Kerr, Clark, 1911-</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text">Author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">text</mods:typeOfResource>
+          <mods:genre authority="rbgenr" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Letters</mods:genre>
+          <mods:originInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:dateCreated>December 1, 1952</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1952-12-01</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:extent>2 pages</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>Employees—Reinstatement</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>College teachers—Tenure</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>College teachers—Salaries, etc.—California</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="corporate" authority="naf">
+              <mods:namePart>University of California (System). Regents</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="corporate">
+              <mods:namePart>University of California (System). Faculty</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">CU-9.26</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>The California Loyalty Oath Digital Collection</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">various</mods:identifier>
+            <mods:identifier type="uri">http://bancroft.berkeley.edu/collections/loyaltyoath</mods:identifier>
+            <mods:identifier type="local search">hb8f59p1cr</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier displayLabel="Local Call Number" type="local" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">CU-9.26, Box 1</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb0d5nb33d/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb0d5nb33d/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">University of California Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb3489p264</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:title>Letter to Wendell M. Stanley from Louis Strait with enclosure of letter from Louis Strait to Dr. Troy C. Daniels: September 8, 1950</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:namePart>Strait, Louis Avrom, 1907-1975</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text">Author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">text</mods:typeOfResource>
+          <mods:genre authority="rbgenr" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Letters</mods:genre>
+          <mods:originInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:dateCreated>September 8, 1950</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1950-09-08</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:extent>5 pages</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>Academic freedom—California</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>College teachers—Tenure</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="corporate" authority="naf">
+              <mods:namePart>University of California (System). Regents</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="corporate" authority="naf">
+              <mods:namePart>University of California (System). Academic Senate</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">CU-9.26</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>The California Loyalty Oath Digital Collection</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">various</mods:identifier>
+            <mods:identifier type="uri">http://bancroft.berkeley.edu/collections/loyaltyoath</mods:identifier>
+            <mods:identifier type="local search">hb8f59p1cr</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier displayLabel="Local Call Number" type="local" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">CU-9.26</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb3489p264/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb3489p264/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">University of California Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb738nb7g7</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:title>"Let there be light on academic freedom," address by Dr. Monroe E. Deutsch before the Commonwealth Club of California: November 2, 1951</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" authority="naf" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:namePart>Deutsch, Monroe E. (Monroe Emanuel), 1879-1955</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text">Author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">text</mods:typeOfResource>
+          <mods:genre authority="icpsr" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Speeches</mods:genre>
+          <mods:originInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:dateCreated>November 2, 1951</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1951-11-02</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:extent>9 pages</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>University of California (System). Faculty</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>Academic freedom—California</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>College teachers—Tenure</mods:topic>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">CU-9.26</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>The California Loyalty Oath Digital Collection</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">various</mods:identifier>
+            <mods:identifier type="uri">http://bancroft.berkeley.edu/collections/loyaltyoath</mods:identifier>
+            <mods:identifier type="local search">hb8f59p1cr</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier displayLabel="Local Call Number" type="local" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">CU-9.26, Box 1:10</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb738nb7g7/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb738nb7g7/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">University of California Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb0t1nb2m9</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:title>Letter to Professor Ewald Grether from T.J. Kent, Jr.: December 11, 1951</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" authority="naf" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:namePart>Kent, T. J</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text">Author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">text</mods:typeOfResource>
+          <mods:genre authority="rbgenr" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Letters</mods:genre>
+          <mods:originInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:dateCreated>December 11, 1951</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1951-12-11</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:extent>4 pages</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>Academic freedom—California</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>Loyalty oaths—California</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>Constitutional amendments</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="personal" authority="naf">
+              <mods:namePart>Grether, Ewald Theophilus, 1899-</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">CU-9.26</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>The California Loyalty Oath Digital Collection</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">various</mods:identifier>
+            <mods:identifier type="uri">http://bancroft.berkeley.edu/collections/loyaltyoath</mods:identifier>
+            <mods:identifier type="local search">hb8f59p1cr</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier displayLabel="Local Call Number" type="local" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">CU-9.26, Box 1</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb0t1nb2m9/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb0t1nb2m9/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">University of California Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb9t1nb9q1</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:title>Academic tenure at the University of California</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" authority="naf" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:namePart>Deutsch, Monroe E. (Monroe Emanuel), 1879-1955</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text">Author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">text</mods:typeOfResource>
+          <mods:genre authority="aat" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Articles</mods:genre>
+          <mods:originInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:dateCreated>undated (after October 1950)</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1950-10</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:extent>8 pages</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>Academic freedom—California</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>College teachers—Tenure</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="corporate" authority="naf">
+              <mods:namePart>University of California (System). Regents</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="corporate">
+              <mods:namePart>University of California (System). Faculty</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">CU-9.26</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>The California Loyalty Oath Digital Collection</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">various</mods:identifier>
+            <mods:identifier type="uri">http://bancroft.berkeley.edu/collections/loyaltyoath</mods:identifier>
+            <mods:identifier type="local search">hb8f59p1cr</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier displayLabel="Local Call Number" type="local" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">CU-9.26, Box 1:9</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb9t1nb9q1/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb9t1nb9q1/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">University of California Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb8k4012q5</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:title>Address by President Robert G. Sproul, 85th Charter Day Banquet, University of California, Palace Hotel, San Francisco: March 23, 1953</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" authority="naf" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:namePart>Sproul, Robert Gordon, 1891-1975</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text">Author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">text</mods:typeOfResource>
+          <mods:genre authority="icpsr" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Speeches</mods:genre>
+          <mods:originInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:dateCreated>March 23, 1953</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1953-03-23</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:extent>7 pages</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>Academic freedom—California</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>Communism</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="corporate">
+              <mods:namePart>University of California (System)—History</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">CU-9.26</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>The California Loyalty Oath Digital Collection</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">various</mods:identifier>
+            <mods:identifier type="uri">http://bancroft.berkeley.edu/collections/loyaltyoath</mods:identifier>
+            <mods:identifier type="local search">hb8f59p1cr</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier displayLabel="Local Call Number" type="local" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">CU-9.26, Box 1:13</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb8k4012q5/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb8k4012q5/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">University of California Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb6199p3r5</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:title>Memorandum to Academic Senate Committee on Academic Freedom from Peter H. Odegard with enclosure of letter to Odegard from Asher N. Christensen, University of Minnesota: June 7, 1951</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" authority="naf" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:namePart>Odegard, Peter H., 1901-1966</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text">Author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">text</mods:typeOfResource>
+          <mods:genre authority="rbgenr" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Letters</mods:genre>
+          <mods:originInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:dateCreated>June 7, 1951</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1951-06-07</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:extent>2 pages</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>Loyalty oaths—California</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="corporate">
+              <mods:namePart>University of California, Berkeley. Faculty</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="personal" authority="naf">
+              <mods:namePart>Christensen, A. N. (Asher Norman), 1903-</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">CU-9.26</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>The California Loyalty Oath Digital Collection</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">various</mods:identifier>
+            <mods:identifier type="uri">http://bancroft.berkeley.edu/collections/loyaltyoath</mods:identifier>
+            <mods:identifier type="local search">hb8f59p1cr</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier displayLabel="Local Call Number" type="local" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">CU-9.26, Box 1</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb6199p3r5/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb6199p3r5/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">University of California Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb6d5nb7z4</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:title>Letter to Professor J.A.C. Grant from Wendell M. Stanley with enclosed Memorial to the Board of Regents proposed by the Committee on Academic Freedom for the meeting of the Senate on Tuesday, June 5: June 4, 1951</mods:title>
+          </mods:titleInfo>
+          <mods:name type="personal" authority="naf" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:namePart>Stanley, Wendell M. (Wendell Meredith), 1904-</mods:namePart>
+            <mods:role>
+              <mods:roleTerm type="text">Author</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:typeOfResource xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">text</mods:typeOfResource>
+          <mods:genre authority="rbgenr" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Letters</mods:genre>
+          <mods:originInfo xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:dateCreated>June 4, 1951</mods:dateCreated>
+            <mods:dateCreated encoding="iso8601" point="start">1951-06-04</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:extent>4 pages</mods:extent>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>Employees—Reinstatement</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:topic>College teachers—Tenure</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="personal">
+              <mods:namePart>Grant, J.A.C. (James Allan Clifford), 1902-</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="personal" authority="naf">
+              <mods:namePart>Crouch, Winston Winford, 1907-</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="corporate" authority="naf">
+              <mods:namePart>University of California (System). Academic Senate</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="corporate" authority="naf">
+              <mods:namePart>University of California, Berkeley</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name type="corporate" authority="naf">
+              <mods:namePart>University of California, Los Angeles</mods:namePart>
+            </mods:name>
+          </mods:subject>
+          <mods:relatedItem displayLabel="Collection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">CU-9.26</mods:identifier>
+            <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="Metacollection" type="host" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:titleInfo>
+              <mods:title>The California Loyalty Oath Digital Collection</mods:title>
+            </mods:titleInfo>
+            <mods:identifier type="local">various</mods:identifier>
+            <mods:identifier type="uri">http://bancroft.berkeley.edu/collections/loyaltyoath</mods:identifier>
+            <mods:identifier type="local search">hb8f59p1cr</mods:identifier>
+          </mods:relatedItem>
+          <mods:identifier displayLabel="Local Call Number" type="local" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">CU-9.26, Box 1</mods:identifier>
+          <location xmlns="http://www.loc.gov/mods/v3">
+            <url usage="primary display" access="object in context">http://content.cdlib.org/ark:/13030/hb6d5nb7z4/</url>
+            <url access="preview">http://content.cdlib.org/ark:/13030/hb6d5nb7z4/thumbnail</url>
+          </location>
+          <mods:accessCondition displayLabel="Copyright Note" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Owner" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">University of California Regents</mods:accessCondition>
+          <mods:accessCondition displayLabel="Copyright Contact" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xlink="http://www.w3.org/1999/xlink">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </mods:accessCondition>
+        </mods:mods>
+      </oai:metadata>
+    </oai:record>
+  </ListRecords>
+  <ListRecords metadataPrefix="oai_dc">
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb7779p52d</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Memorandum to Robert Gordon Sproul from Helen P. MacGregor with copy of telegram to Governor Earl Warren from the American Psychological Association: September 16, 1950</dc:title>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Telegrams</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1950-09-16-</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 pages</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">College teachers—Tenure</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Academic freedom—California</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">University of California (System). Faculty</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Brown, Clarence W., b. 1902</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">American Psychological Association</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Warren, Earl, 1891-1974</dc:subject>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952--CU-9.26--http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">The California Loyalty Oath Digital Collection--various--http://bancroft.berkeley.edu/collections/loyaltyoath--hb8f59p1cr</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">CU-9.26</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb7779p52d/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb7779p52d/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">University of California Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb9290132v</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Letter to Wendell M. Stanley from Frank Forsburg: March 2, 1950</dc:title>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letters</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1950-03-02-</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 page</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Sproul, Robert Gordon, 1891-1975</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">University of California, Berkeley. Faculty</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Stanley, Wendell M. (Wendell Meredith), 1904-</dc:subject>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952--CU-9.26--http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">The California Loyalty Oath Digital Collection--various--http://bancroft.berkeley.edu/collections/loyaltyoath--hb8f59p1cr</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">CU-9.26, Box 1</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb9290132v/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb9290132v/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">University of California Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb0d5nb33d</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Memorandum to President Robert Sproul from Clark Kerr: December 1, 1952</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Kerr, Clark, 1911- (Author)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letters</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1952-12-01-</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 pages</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Employees—Reinstatement</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">College teachers—Tenure</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">College teachers—Salaries, etc.—California</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">University of California (System). Regents</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">University of California (System). Faculty</dc:subject>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952--CU-9.26--http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">The California Loyalty Oath Digital Collection--various--http://bancroft.berkeley.edu/collections/loyaltyoath--hb8f59p1cr</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">CU-9.26, Box 1</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb0d5nb33d/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb0d5nb33d/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">University of California Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb3489p264</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Letter to Wendell M. Stanley from Louis Strait with enclosure of letter from Louis Strait to Dr. Troy C. Daniels: September 8, 1950</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Strait, Louis Avrom, 1907-1975 (Author)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letters</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1950-09-08-</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">5 pages</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Academic freedom—California</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">College teachers—Tenure</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">University of California (System). Regents</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">University of California (System). Academic Senate</dc:subject>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952--CU-9.26--http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">The California Loyalty Oath Digital Collection--various--http://bancroft.berkeley.edu/collections/loyaltyoath--hb8f59p1cr</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">CU-9.26</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb3489p264/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb3489p264/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">University of California Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb738nb7g7</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">"Let there be light on academic freedom," address by Dr. Monroe E. Deutsch before the Commonwealth Club of California: November 2, 1951</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Deutsch, Monroe E. (Monroe Emanuel), 1879-1955 (Author)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Speeches</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1951-11-02-</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">9 pages</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">University of California (System). Faculty</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Academic freedom—California</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">College teachers—Tenure</dc:subject>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952--CU-9.26--http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">The California Loyalty Oath Digital Collection--various--http://bancroft.berkeley.edu/collections/loyaltyoath--hb8f59p1cr</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">CU-9.26, Box 1:10</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb738nb7g7/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb738nb7g7/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">University of California Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb0t1nb2m9</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Letter to Professor Ewald Grether from T.J. Kent, Jr.: December 11, 1951</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Kent, T. J (Author)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letters</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1951-12-11-</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">4 pages</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Academic freedom—California</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Loyalty oaths—California</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Constitutional amendments</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Grether, Ewald Theophilus, 1899-</dc:subject>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952--CU-9.26--http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">The California Loyalty Oath Digital Collection--various--http://bancroft.berkeley.edu/collections/loyaltyoath--hb8f59p1cr</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">CU-9.26, Box 1</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb0t1nb2m9/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb0t1nb2m9/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">University of California Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb9t1nb9q1</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Academic tenure at the University of California</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Deutsch, Monroe E. (Monroe Emanuel), 1879-1955 (Author)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Articles</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1950-10-</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">8 pages</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Academic freedom—California</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">College teachers—Tenure</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">University of California (System). Regents</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">University of California (System). Faculty</dc:subject>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952--CU-9.26--http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">The California Loyalty Oath Digital Collection--various--http://bancroft.berkeley.edu/collections/loyaltyoath--hb8f59p1cr</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">CU-9.26, Box 1:9</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb9t1nb9q1/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb9t1nb9q1/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">University of California Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb8k4012q5</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Address by President Robert G. Sproul, 85th Charter Day Banquet, University of California, Palace Hotel, San Francisco: March 23, 1953</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Sproul, Robert Gordon, 1891-1975 (Author)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Speeches</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1953-03-23-</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">7 pages</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Academic freedom—California</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Communism</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">University of California (System)—History</dc:subject>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952--CU-9.26--http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">The California Loyalty Oath Digital Collection--various--http://bancroft.berkeley.edu/collections/loyaltyoath--hb8f59p1cr</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">CU-9.26, Box 1:13</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb8k4012q5/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb8k4012q5/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">University of California Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb6199p3r5</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Memorandum to Academic Senate Committee on Academic Freedom from Peter H. Odegard with enclosure of letter to Odegard from Asher N. Christensen, University of Minnesota: June 7, 1951</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Odegard, Peter H., 1901-1966 (Author)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letters</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1951-06-07-</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">2 pages</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Loyalty oaths—California</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">University of California, Berkeley. Faculty</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Christensen, A. N. (Asher Norman), 1903-</dc:subject>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952--CU-9.26--http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">The California Loyalty Oath Digital Collection--various--http://bancroft.berkeley.edu/collections/loyaltyoath--hb8f59p1cr</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">CU-9.26, Box 1</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb6199p3r5/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb6199p3r5/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">University of California Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+    <oai:record>
+      <oai:header>
+        <oai:identifier>oai:ark:/13030/hb6d5nb7z4</oai:identifier>
+        <oai:datestamp>2008-01-14</oai:datestamp>
+      </oai:header>
+      <oai:metadata>
+        <oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+          <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Letter to Professor J.A.C. Grant from Wendell M. Stanley with enclosed Memorial to the Board of Regents proposed by the Committee on Academic Freedom for the meeting of the Senate on Tuesday, June 5: June 4, 1951</dc:title>
+          <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Stanley, Wendell M. (Wendell Meredith), 1904- (Author)</dc:contributor>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+          <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Letters</dc:type>
+          <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">1951-06-04-</dc:date>
+          <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+          <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">4 pages</dc:format>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Employees—Reinstatement</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">College teachers—Tenure</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Grant, J.A.C. (James Allan Clifford), 1902-</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Crouch, Winston Winford, 1907-</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">University of California (System). Academic Senate</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">University of California, Berkeley</dc:subject>
+          <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">University of California, Los Angeles</dc:subject>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Records of the Committee on Academic Freedom during the loyalty oath controversy, 1949-1952--CU-9.26--http://www.oac.cdlib.org/findaid/ark:/13030/tf4r29n82r</dc:relation>
+          <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">The California Loyalty Oath Digital Collection--various--http://bancroft.berkeley.edu/collections/loyaltyoath--hb8f59p1cr</dc:relation>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">CU-9.26, Box 1</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb6d5nb7z4/</dc:identifier>
+          <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://content.cdlib.org/ark:/13030/hb6d5nb7z4/thumbnail</dc:identifier>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">University of California Regents</dc:rights>
+          <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+       The Bancroft Library, University of California, Berkeley, CA 94720
+      </dc:rights>
+        </oai_dc:dc>
+      </oai:metadata>
+    </oai:record>
+  </ListRecords>
+</Repository>
